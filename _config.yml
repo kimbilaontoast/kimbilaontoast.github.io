@@ -16,7 +16,7 @@
 title: Kimbila on Toast 
 email: kimbila@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another curious, kooky, time traveling, monk. 
+  Just another kooky, curious, time traveling, monk. 
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kimbila"
+  name   : "Bhante Kimbila"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just another curious, kooky, time traveling, monk"
+  bio    : "Just another kooky, curious, time traveling, monk."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
