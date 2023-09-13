@@ -61,6 +61,8 @@ author:
   name   : "Bhante Kimbila"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Just another kooky, curious, time traveling, monk."
+  location: "Bodhinyana Monastery, Australia"
+  email:  "kimbila@gmx.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
