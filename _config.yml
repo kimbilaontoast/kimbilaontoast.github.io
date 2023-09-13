@@ -62,8 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Just another kooky, curious, time traveling, monk."
   links:
-    - label: "Serpentine, Australia"
-      icon: "fa-solid fa-location-dot"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kimbila@gmx.com"
