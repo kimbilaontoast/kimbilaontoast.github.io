@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-logo: "/assets/images/masthead-favicon/android-chrome-88x88.png"
+logo: "/assets/images/android-chrome-88x88.png"
 title: Kimbila on Toast 
 email: kimbila@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Bhante Kimbila"
-  avatar : "/assets/images/bio-photo-high-res-7eb37a-gradient-200x200.jpg"
+  avatar : "/assets/images/bio-photo-high-res-gradient-250x250.jpg"
   bio    : "Just another kooky, curious, time traveling, monk."
   location: "Bodhinyana Monastery, Australia"
   email:  "kimbila@gmx.com"
