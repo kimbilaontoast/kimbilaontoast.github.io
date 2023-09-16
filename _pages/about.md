@@ -9,16 +9,22 @@ sidebar:
 
 
 
-# The Short
+### The Short
 
 Kimbila is a Buddhist monk with a focus on meditation and writing.
-He meditates in a small room in Western Asutralia where sometimes kangaroos stare at him through his window. 
+
+He meditates in a small room that looks out on to a forest where sometimes kangaroos stare back at him while they munch grass.  
 
 
-# The Long
+### The Long
 
-I was born in Perth, Australia. We moved up north when I was little and I lived in the Kimberley which is beautiful part of nowhere. Many years later I wnt to University of Sydeny where I studied design, despite the fact that I thought it was kinda boring. When I left uni I squatted in houses in Sydney and met a lady that introduced me to meditation. I was hooked! A few years later I became a monk, disrobed, then became a monk again because that's what you do when you're not in charge. I continue to surprise myself with not knowing what I'm going to do next. 
+I was born in Perth, Australia. We moved up north when I was little and I lived in the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there. 
 
-Now I'm very lucky, I live with a beautiful community of Buddhist monks, and have an amazing teacher Ajahn Brahm, and I get to spend all day learning how to bliss out. 
+Many years later I went to University of Sydney where I studied design. When I left university I squatted in houses in Sydney with some pretty weird people, but I did meet a lady who introduced me to meditation, which I loved. 
+
+A few years later I became a monk, then I disrobed, then I became a monk again. Now here I am.    
+
+I'm very lucky. I live with a beautiful community in a monastery called Bodhinyana, and have an amazing teacher, Ajahn Brahm. 
+I get to spend all day learning how to bliss out in meditation.  
 
 It's pretty cool.  
