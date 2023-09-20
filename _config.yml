@@ -58,6 +58,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+google-site-verification: "dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0"
+
 analytics:
   provider: "google-gtag"
   google:
