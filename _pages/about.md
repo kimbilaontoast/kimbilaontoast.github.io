@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Who is Kimbila?"
 
 ---
 
@@ -18,11 +18,14 @@ He meditates in a small room that looks out on to a scrubby forest where sometim
 
 I was born in Perth, Australia. My family moved up north when I was little to a remote region called the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there. 
 
-Many years later I went to University of Sydney where I studied design. When I left university I squatted in abandoned inner city houses, and met a lady who introduced me to meditation. Thus began my love affair with the mind. 
+Many years later I went to University of Sydney where I studied design. When I left university I squatted in abandoned inner city houses, and met a lady who introduced me to meditation. 
 
-A few years later I became a monk, then I disrobed, and now I've found myself in the monastery again. I can't seem to stay away. I think I'll stay for good this time, and become a monk again. 
+I must have liked meditation because a few years later I became a Buddhist monk, but then I disrobed, and now I've found myself back in the monastery again. I can't seem to stay away, so I think I'll stay and become a monk... again. 
 
-I'm very blessed. I live in a monastery called Bodhinyana with an amazing teeaher named Ajahn Brahm, and a beautiful community of people.  
-I get to spend all day learning how to bliss out in meditation, and when I'm bored of that, I write this blog. 
+I'm very blessed. I live in a monastery called 'Bodhinyana' with an amazing teacher named Ajahn Brahm, and a beautiful community of people that love to smile. 
+I get to spend all day learning how to bliss out in meditation, and and put the Buddha's teaching into practice. Monastic life isn't always sunshine and lollipops, but it's pretty cool.  
 
-It's pretty cool.  
+I started this blog to share the journey. It's called Kimbila on Toast, 'cos I like toast. 
+
+Just like the Dhamma, it reminds me of home. 
+
