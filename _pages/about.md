@@ -1,30 +1,28 @@
 ---
 permalink: /about/
 title: "About"
-sidebar:
-  - 
-    image: "/assets/images/about-me-shoulder-crop-colour.jpg"
-    text: "Me when I was a monk the first time."
+
 ---
 
 
 
 ### The Short
 
-Kimbila is a Buddhist monk with a focus on meditation and writing.
+Kimbila is a Buddhist monastic with a focus on meditation and writing.
 
-He meditates in a small room that looks out on to a forest where sometimes kangaroos stare back at him while they munch grass.  
+He meditates in a small room that looks out on to a scrubby forest where sometimes kangaroos stare at through his window as they munch grass.  
+
 
 
 ### The Long
 
-I was born in Perth, Australia. We moved up north when I was little and I lived in the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there. 
+I was born in Perth, Australia. My family moved up north when I was little to a remote region called the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there. 
 
-Many years later I went to University of Sydney where I studied design. When I left university I squatted in houses in Sydney with some pretty weird people, but I did meet a lady who introduced me to meditation, which I loved. 
+Many years later I went to University of Sydney where I studied design. When I left university I squatted in abandoned inner city houses, and met a lady who introduced me to meditation. Thus began my love affair with the mind. 
 
-A few years later I became a monk, then I disrobed, then I became a monk again. Now here I am.    
+A few years later I became a monk, then I disrobed, and now I've found myself in the monastery again. I can't seem to stay away. I think I'll stay for good this time, and become a monk again. 
 
-I'm very lucky. I live with a beautiful community in a monastery called Bodhinyana, and have an amazing teacher, Ajahn Brahm. 
-I get to spend all day learning how to bliss out in meditation.  
+I'm very blessed. I live in a monastery called Bodhinyana with an amazing teeaher named Ajahn Brahm, and a beautiful community of people.  
+I get to spend all day learning how to bliss out in meditation, and when I'm bored of that, I write this blog. 
 
 It's pretty cool.  
