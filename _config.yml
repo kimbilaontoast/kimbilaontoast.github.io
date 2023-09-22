@@ -58,13 +58,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# SEO related 
+google-site-verification: "dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0"
+  # bing_site_verification   :   
+  # yandex_site_verification :
+  # baidu_site_verification  :
+
+# Analytics 
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "UA-286012502-1"
     anonymize_ip: false # default
-
-google-site-verification: "dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0"
 
 author:
   name   : "Kimbila"
