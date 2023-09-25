@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 logo: "/assets/images/android-chrome-88x88.png"
-title: Kimbila on Toast 
+title: Kimbila on Toast
 email: kimbila@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just another kooky, curious, time traveling, Buddhist. 
@@ -24,7 +24,6 @@ url: "https://kimbilaontoast.github.io"
 minimal_mistakes_skin: default
 search: true
 # resolves 'GitHub Metadata: No GitHub API authentication could be found error'. 
-github: [metadata]
 
 # Build settings
 markdown: kramdown
@@ -60,22 +59,23 @@ plugins:
   - jekyll-include-cache
 
 # SEO related 
-google_site_verification: dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0
+google_site_verification: "dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0"
   # bing_site_verification   :   
   # yandex_site_verification :
   # baidu_site_verification  :
 
 # Analytics 
 analytics:
-  provider: google-gtag
+  provider: "google-gtag"
   google:
-  tracking_id: G-5NNTHPGLHY
+  tracking_id: "G-5NNTHPGLHY"
   anonymize_ip: false # default
 
+# Site Author 
 author:
   name   : "Kimbila"
   avatar : "/assets/images/anagarika-avatar-working.jpg"
-  bio    : "Just another kooky, curious, time traveling, Buddhist."
+  bio    : "Just another *kooky*, *curious*, *time traveling*, *Buddhist*."
   location: "Bodhinyana Monastery, Australia"
   email:  "kimbila@gmx.com"
   links:
@@ -115,3 +115,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+github: [metadata]
