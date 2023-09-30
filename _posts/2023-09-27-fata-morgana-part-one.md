@@ -2,8 +2,8 @@
 ---
 title: "Fata Morgana – The Homeless Man - Part One"
 permalink: "/fata-morgana-part-one"
-excerpt: ""
-date: 
+excerpt: "I feel my body clench, the streaming fluidity of the old body now all angles and flinch. He had not only walked past the paths signposted, but had come right up to my hut, and must have done so quietly, since I only heard him at the last minute."
+date: 2023-09-27 
 categories:
   - blog 
 tags: 
@@ -17,9 +17,9 @@ We are a good way into the 'vassa', the rains retreat, a three month period at t
 
 I’m twenty-eight, and I’m staying in a Buddhist monastery called 'Bodhinyana' in Serpentine, Western Australia, just south of Perth, for about six months now. 
 
-I’m ordained as an ‘anagārika'. An anagārika is a person that lives on temple grounds, and is training in what’s known as the ‘eight precepts’[^1]. The precepts are designed to simplify life, and move us towards a more compassionate relationship to the beings around us. They encourage truth, kindness, and a clear mind – all good things that help meditation. The whole idea of being an anagārika is almost like playing a monk for a while, seeing how the lifestyle feels.
+I’m ordained as an ‘anagārika', or 'homeless one'. An anagārika is a person that lives on temple grounds, and is training in what’s known as the ‘eight precepts’[^1]. The precepts are designed to simplify life, and move us towards a more compassionate relationship to the beings around us. They encourage truth, kindness, and a clear mind – all good things that help meditation. The whole idea of being an anagārika is almost like playing a monk for a while, seeing how the lifestyle feels.
 
-I ordained on my twenty-eighth birthday in fact, the day I was born into this world now marking the day I seek to escape from it. I intend to stay at Bodhinyana and become a monk, for a few years at least, and depending on how that goes, maybe the rest of my life. We’ll see.
+I ordained on my twenty-eighth birthday in fact, the day I was born into this world now marking the day I seek to escape from it. I intend to stay at Bodhinyana and become a monk, for a few years at least, and depending on how that goes, maybe the rest of my life. We’ll see. Herein the story begins. 
 
 ***
 
