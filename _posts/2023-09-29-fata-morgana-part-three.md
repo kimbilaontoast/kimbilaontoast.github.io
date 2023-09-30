@@ -137,10 +137,12 @@ A pause, as I watch his eyes dance in recollection.
 
 As the truck rolls away down the hill, I walk past the road and into the monastery gates. My body feels bright and liquid. I take a wide, backward tract back to my kuti so as to avoid bumping into others. At my kuti I gulp down water from my rainwater tank, wash my face and arm-pits, washing off the night, and change into clean clothes. I need food, and so I make for the refectory.   
 
-I take another small, less travelled forest path up towards the refectory, thinking this the most prudent course for slipping into the kitchen discreetly. Just as I exit the forest track I see a senior monk ambling down the brick path towards me, and I feel myself flinch.   
+I take another small, less travelled forest path up towards the refectory, thinking this the most prudent course for slipping into the kitchen discreetly. Just as I exit the forest track I see a senior monk winding down the brick path towards me, moving fast, full of purpose. I feel myself flinch.   
 
-With my head bowed, "Hello Ajahn," I offer, glancing up to see if I can read if he knows of my absence.   
-There is a knowing in his smile but within that, a compassion, and looking me up and down, he says, "Welcome back."  
+I bow my head slightly, glancing up to read his expression, to see if he knows of my absence. 
+As he quickens towards me, his eyes meet my own, and flashing a smile, he laughs.
+
+"Welcome back."  
 
 And I’m homeless, and home. 
 
