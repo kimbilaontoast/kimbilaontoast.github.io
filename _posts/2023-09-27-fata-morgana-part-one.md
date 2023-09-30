@@ -1,4 +1,3 @@
-
 ---
 title: "Fata Morgana – The Homeless Man - Part One"
 permalink: "/fata-morgana-part-one"
@@ -147,7 +146,7 @@ I give him back the bottle. And then I’m calm.
 
 ***
 
-*Join me in Part Two to continue the story.*
+*Join me in part two, to continue the story.*
 
 -  Peace. 
 

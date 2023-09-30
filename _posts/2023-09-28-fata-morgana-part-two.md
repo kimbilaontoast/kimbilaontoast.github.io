@@ -1,4 +1,3 @@
-
 ---
 title: "Fata Morgana – The Homeless Man - Part Two"
 permalink: "/fata-morgana-part-two"
@@ -156,7 +155,7 @@ This man is a deva.
 
 ***
 
-*Join me next time where I’ll finish the story.*
+*Join me next in part three, where I’ll finish the story.*
 
 - Peace. 
 
