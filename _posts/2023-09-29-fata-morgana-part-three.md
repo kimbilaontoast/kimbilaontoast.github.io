@@ -1,13 +1,13 @@
 ---
 title: "Fata Morgana – The Homeless Man - Part Three"
 permalink: "/fata-morgana-part-three"
-excerpt: "Driving down Pinjarra road and seeing a white, balding figurine stumbling towards car lights, arm extended, on that desolate stretch, would have rendered me a ghostly apparition."
+excerpt: "Driving down Pinjarra road and seeing a white, balding figurine stumbling towards car lights... would have rendered me a ghostly apparition."
 date: 2023-09-29
 categories:
   - blog 
-tags: 
+tags:
   - stories
---- 
+---
 
 
 The train to Mandurah is empty, save one lonely, drunken soul.
