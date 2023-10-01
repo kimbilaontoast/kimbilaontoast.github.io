@@ -31,5 +31,5 @@ I am an anagārika at Bodhinyana monastery. I hope to be a monk soon, ordaining 
 
 I hope you'll join me in these writings, and we can explore this mind, and this life, together. 
 
-- Peace  
+Peace. :herb:
 

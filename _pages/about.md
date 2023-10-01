@@ -6,14 +6,14 @@ title: "Who is Kimbila?"
 
 
 
-#### The Short
+### The Short
 
 Kimbila is a Buddhist monastic with a focus on meditation and writing.
 
 He meditates in a small room that looks out on to a scrubby forest where sometimes kangaroos stare at him through his window as they munch grass.  
 
 
-#### The Long
+### The Long
 
 I was born in Perth, Australia. My family moved up north when I was little to a remote region called the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there.
 
