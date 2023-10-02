@@ -9,9 +9,7 @@ tags:
   - kalyāna mitta
 --- 
 
-I have a confession to make. My name isn't Kimbila. 
-
-You can call me Stephen. 
+I have a confession to make. My name isn't Kimbila.
 
 Kimbila was my former monk's name. I used to be a monk several years ago, and then I disrobed. With a little time in between, I'm back on the monastic path again and staying at my old Buddhist monastery called 'Bodhinyana' in Serpentine, Western Australia. 
 
@@ -25,9 +23,8 @@ I'm very lucky to be where I am at the moment. I live with a very unique man nam
 
 I'm also blessed with many friends in this life. These are people I have met on the path, and we share this amazing thing in common, we share a fascination in, and a love of, the Dhamma, and we are all just kooky enough to try it. I have close friends who have similar struggles to mine, and have helped me pick myself up again when I've been low or jaded on this path, and I've done the same for them in kind, and we help remind each other that the Buddha wants us to be happy. These are beyond ordinary friendships. It's we have a liminal knowing that that exists in between the words of an unspoken language, and it gives confidence and purpose to our actions, helps us become whole. This meaning runs deep. It's in the fabric of every moment, because our minds are with us always, and even though at times that can seem confronting, freaky, even overwhelming, we learn to soften and expand into it and smile as we grow, knowing that we are good people and becoming well, and that we have the best of people around us and are truly blessed. 
 
-I mentioned that I am not Kimbila. That's true. My name is Stephen. 
-
-I am an anagārika at Bodhinyana monastery. I hope to be a monk soon, ordaining once again under my monastic name, Kimbila. 
+My name is Stephen, nice to meet you.  
+I'm an anagārika at Bodhinyana monastery. I hope to be a monk soon, ordaining once again under my monastic name, Kimbila. 
 
 I hope you'll join me in these writings, and we can explore this mind, and this life, together. 
 
