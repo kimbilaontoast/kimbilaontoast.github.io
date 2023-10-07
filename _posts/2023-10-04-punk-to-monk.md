@@ -2,7 +2,7 @@
 title: "Punk to Monk"
 permalink: "/punk-to-monk"
 excerpt: "The next day, I found myself sprinting down Town Hall mall with a fat, red-faced security guard, all guts and rage, running behind me in full tilt and swing...
-date: 2023-10-05
+date: 2023-10-04
 categories:
   - blog
 tags:
