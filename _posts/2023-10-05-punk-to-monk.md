@@ -1,16 +1,14 @@
 ---
 title: "Punk to Monk"
 permalink: "/punk-to-monk"
-excerpt: "The next day, I found myself sprinting down Town Hall mall with a fat, red-faced security guard, all guts and rage, running behind me in full tilt and swing... 
+excerpt: "The next day, I found myself sprinting down Town Hall mall with a fat, red-faced security guard, all guts and rage, running behind me in full tilt and swing...
 date: 2023-10-05
 categories:
-  - blog 
-tags: 
+  - blog
+tags:
   - stories
   - lay-life
---- 
-
-### Punk to Monk
+---
 
 I got into meditation in my early twenties, just after I finished university. I’m not sure when, actually, but I’d say about twenty-one. University was a busy time for me. I studied architecture at the University of Sydney for three years, which was a full time job in itself, whilst working a graveyard shift on the side at a famous pie shop in Woolloomooloo wharf called ‘Harry’s Café de Wheels’, to support myself. 
 
