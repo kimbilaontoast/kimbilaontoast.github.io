@@ -1,7 +1,7 @@
 ---
 title: "This is (not) Kimbila"
 permalink: "/this-is-not-kimbila"
-excerpt: "We need friends, as they help strengthen our resolve as we harness the momentum of collective practice that is happening not just now with the people in our community, but with all those practitioners that echo through the ages, right back to the Buddha himself."
+excerpt: "I guess I've realised that once the Dhamma has entered your bones, there really is no turning away from it. You can try, like I did for a while, but you come back."
 date: 2023-09-26
 categories:
   - blog 
