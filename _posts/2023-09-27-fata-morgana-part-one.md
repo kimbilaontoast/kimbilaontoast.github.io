@@ -7,6 +7,7 @@ categories:
   - blog 
 tags: 
   - stories 
+  - anagārika
 --- 
  
 

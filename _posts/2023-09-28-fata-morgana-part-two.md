@@ -7,6 +7,7 @@ categories:
   - blog 
 tags: 
   - stories
+  - anagārika
 --- 
 
 "What does it mean? T- Tathan-gata?" he asked, referring to the word ‘Tathāgata", a pseudonym for the Buddha.  
