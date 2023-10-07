@@ -92,7 +92,7 @@ The monks gather, and the nuns had come from Gidgegannup to the north, from our 
 
 As I'm watching him, I feel an overwhelming sense of joy bubbling from within my chest and trickling through the fabric of my body, such joy and bliss at the witness of a young man taking up the Dhamma, the teaching of the Buddha. The Dhamma was growing within me, and I knew it as a growing sense of certainty and strength, an excitement at the possibilities of practice. I wished him such growing faith too, and for him to feel the love I now felt, the gratitude for the blessing to come across it in this lifetime. Such a rare and precious jewel we had stumbled across together! 
 
-After the ceremony was over, I almost run back to my hut. I can’t wait to meditate. Careful not to trip in my dim torchlight as I zig-zag the passages between rocks, finding footing on rounded forest pebbles that formed the forest tracks back to my hut, I collapse onto my meditation cushion, beaming like a boy. The feelings from the evening are fresh, and buzzing through me, the bliss soaking me, permeating every cell of my body, like bubbling water flowing through soft, porous stone. My heart is glowing, and I open, to bliss. 
+After the ceremony was over, I almost run back to my hut. I can’t wait to meditate. Careful not to trip in my dim torchlight as I zig-zag the passages between rocks, finding footing on rounded forest pebbles that form the forest tracks back to my hut, I collapse onto my meditation cushion, beaming like a boy. The feelings from the evening are fresh, and buzzing through me, the bliss soaking me, permeating every cell of my body, like bubbling water flowing through soft, porous stone. My heart is glowing, and I bathe in bliss.  
 
 The fire now, flickering.
 
