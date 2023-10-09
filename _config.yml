@@ -17,7 +17,7 @@ logo: "/assets/images/android-chrome-88x88.png"
 title: Kimbila on Toast
 email: kimbila@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another kooky, curious, time travelling, Buddhist. 
+  Tales from a delerious, time travelling Buddhist. 
 url: "https://kimbilaontoast.github.io"
 # twitter_username: username
 # github_username: username
@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 # SEO related 
-google_site_verification: "dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0"
+google_site_verification: dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0
   # bing_site_verification   :   
   # yandex_site_verification :
   # baidu_site_verification  :
@@ -74,8 +74,8 @@ analytics:
 # Site Author 
 author:
   name   : "Kimbila"
-  avatar : "/assets/images/avatar-blog-2000x2000.jpg"
-  bio    : "Just another *kooky*, *curious*, *time travelling*, *Buddhist*."
+  avatar : "/assets/images/avatar-blog-200x200-gradient.jpg"
+  bio    : "Tales from a *delerious*, *time travelling Buddhist*."
   location: "Bodhinyana Monastery, Australia"
   email:  "kimbila@gmx.com"
   links:
