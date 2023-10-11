@@ -23,7 +23,6 @@ url: "https://kimbilaontoast.github.io"
 # github_username: username
 minimal_mistakes_skin: default
 search: true
-# resolves 'GitHub Metadata: No GitHub API authentication could be found error'. 
 
 # Build settings
 markdown: kramdown
@@ -74,7 +73,7 @@ analytics:
 # Site Author 
 author:
   name   : "Kimbila"
-  avatar : "/assets/images/avatar-blog-200x200-gradient.jpg"
+  avatar : "/assets/images/bio-photo-4-250x250-gradient.jpg"
   bio    : "Tales from a *delerious*, *time travelling Buddhist*."
   location: "Bodhinyana Monastery, Australia"
   email:  "kimbila@gmx.com"
@@ -117,4 +116,5 @@ tag_archive:
   path: /tags/
 
 
+# resolves 'GitHub Metadata: No GitHub API authentication could be found error'. 
 github: [metadata]
