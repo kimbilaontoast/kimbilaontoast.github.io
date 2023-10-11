@@ -1,6 +1,7 @@
 ---
 title: "Fata Morgana – The Homeless Man - Part One"
 permalink: "/fata-morgana-part-one"
+classes: wide 
 excerpt: "I feel my body clench... He had not only walked past the paths signposted, but had come right up to my hut, and must have done so quietly, since I only heard him at the last minute."
 date: 2023-09-27 
 categories:
