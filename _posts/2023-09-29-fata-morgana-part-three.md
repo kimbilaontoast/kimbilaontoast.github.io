@@ -1,7 +1,6 @@
 ---
 title: "Fata Morgana – The Homeless Man - Part Three"
 permalink: "/fata-morgana-part-three"
-classes: wide
 excerpt: "Driving down Pinjarra road and seeing a white, balding figurine stumbling towards car lights... would have rendered me a ghostly apparition."
 date: 2023-09-29
 categories:

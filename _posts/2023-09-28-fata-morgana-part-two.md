@@ -1,7 +1,6 @@
 ---
 title: "Fata Morgana – The Homeless Man - Part Two"
 permalink: "/fata-morgana-part-two"
-classes: wide
 excerpt: "Hitching a ride into Serpentine from some brave soul, we dodge turnstiles and catch the train into Perth city, and I’m a punk all over again..."
 date: 2023-09-28
 categories:
