@@ -1,4 +1,18 @@
-_site
-.sass-cache
-.jekyll-metadata
+# Vim
+*~
+*.sw[p_]
+
+# Ruby Gem
+*.gem
+.bundle
 Gemfile.lock
+**/vendor/bundle
+
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+
+
