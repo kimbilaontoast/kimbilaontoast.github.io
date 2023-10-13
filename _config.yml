@@ -1,6 +1,6 @@
 # Kimbila on Toast Site Settings 
 
-logo: "/assets/images/android-chrome-88x88.png"
+# logo: "/assets/images/android-chrome-88x88.png"
 title: Kimbila on Toast
 email: kimbila@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -41,7 +41,7 @@ analytics:
   provider: "google-gtag"
   google:
   tracking_id: "G-5NNTHPGLHY"
-  anonymize_ip: false # default
+  anonymize_ip: true 
 
 # Site Author 
 author:
