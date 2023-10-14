@@ -9,7 +9,7 @@ classes: wide
 
 Kimbila is a Buddhist monastic with a focus on meditation and writing.
 
-He meditates in a small room that looks out on to a scrubby forest where sometimes kangaroos stare at him through his window as they munch grass.  
+He meditates in a small room that looks out on to a scrubby forest where kangaroos sometimes stare at him through his window as they munch grass.  
 
 This is his blog. It's mainly got stories in it. 
 
