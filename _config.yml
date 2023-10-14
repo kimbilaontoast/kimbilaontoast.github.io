@@ -48,14 +48,17 @@ author:
   name   : "Kimbila"
   avatar : "/assets/images/bio-photo-4-250x250-gradient.jpg"
   bio    : "Tales from a *delirious*, *time travelling Buddhist*."
-  location: "Bodhinyana Monastery,  
-Australia"
-  email:  "kimbila@gmx.com"
+  location: "Bodhinyana Monastery, Australia"
+  email: "kimbila@gmx.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kimbila@gmx.com"
+    - label: # "Github"
+      icon: # "fab fa-fw fa-github"
+      url: # 
 
+#page defaults 
 defaults:
   # _posts
   - scope:
