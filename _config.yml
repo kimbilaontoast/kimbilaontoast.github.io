@@ -7,7 +7,7 @@ logo: "/assets/images/android-chrome-88x88.png"
 title: Kimbila on Toast
 email: kimbila@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tales from a delerious, time travelling Buddhist. 
+  Tales from a delirious, time travelling Buddhist. 
 url: "https://kimbilaontoast.github.io"
 # github_username: username
 minimal_mistakes_skin: default
@@ -63,7 +63,7 @@ analytics:
 author:
   name   : "Kimbila"
   avatar : "/assets/images/bio-photo-4-250x250-gradient.jpg"
-  bio    : "Tales from a *delerious*, *time travelling Buddhist*."
+  bio    : "Tales from a *delirious*, *time travelling Buddhist*."
   location: "Bodhinyana Monastery, Australia"
   email:  "kimbila@gmx.com"
   links:
