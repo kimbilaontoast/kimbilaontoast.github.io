@@ -1,5 +1,3 @@
 ### STUFF
 
-- styling 
-
-- posting schedule?
+- 
