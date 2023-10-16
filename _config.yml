@@ -63,8 +63,8 @@ analytics:
 author:
   name   : "Kimbila"
   avatar : "/assets/images/bio-photo-4-250x250-gradient.jpg"
-  bio    : "Just another *Buddhist monastic*."
-  location: "Bodhinyana Monastery, Australia"
+  bio    : "Just another Buddhist monastic."
+  location: "Bodhinyana Monastery, AU"
   email:  "kimbila@gmx.com"
   links:
     - label: "Email"
