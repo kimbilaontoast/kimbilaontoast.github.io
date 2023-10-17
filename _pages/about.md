@@ -16,7 +16,7 @@ This is his blog. It's mainly got stories in it.
 
 ### The Long
 
-I was born in Perth, Australia. When I was little may family moved up north to a wild region called the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there.
+I was born in Perth, Australia. When I was little my family moved up north to a wild region called the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there.
 
 When we first arrived my Mum took me to a riverbank where I sat between her legs and splashed my feet in the water. It was only later that we found out that the mud slicks we had seen leading into the water next to us were crocodile tracks and that splashing tends to attract crocodiles. 
 
