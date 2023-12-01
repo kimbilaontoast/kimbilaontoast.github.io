@@ -24,7 +24,7 @@ Surviving such things, I grew until I was a skinny 6 foot, and many years later 
 
 I must have liked meditation because a few years later I became a Buddhist monk. Then a few years after that I disrobed. Then I few years after that I came back to the monastery. I can't seem to stay away, so I think I'll become a monk... again. 
 
-I'm very blessed. I live in a monastery called 'Bodhinyana', with an amazing teacher named Ajahn Brahm and a beautiful community of people that smile a lot. 
+I'm very blessed. I live in a monastery with an amazing teacher and a beautiful community of people that smile a lot. 
 
 Monastic life isn't always puppies and lollipops, but it's pretty cool. On any given day I serve people, and then I get to spend my free time meditating and enjoying the stillness. When I'm not doing that, I write. 
 
