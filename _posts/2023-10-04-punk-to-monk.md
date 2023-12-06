@@ -23,7 +23,7 @@ A kindly woman took some of us into her dilapidated three storey terrace house i
 It was through her, an unlikely source, I encountered meditation for the first time.  
 I’m forever in her debt.
 
-Sitting at her scratched formica table, through my weary, alcohol-soaked eyes. She smiled, I remember, and told me of a journey she’d just come back from. It was a journey to the Blue Mountains, where she'd been on a meditation retreat. It didn’t interest me, and I was just using her for digs, but I entertained her requests to come to the Newtown library of a Wednesday and try some meditation with her. "Maybe…" I said, sipping cheap port.
+Sitting at her scratched formica table, I stared at her through my weary, alcohol-soaked eyes. She smiled, I remember, and told me of a journey she’d just come back from. It was a journey to the Blue Mountains, where she'd been on a meditation retreat. It didn’t interest me, and I was just using her for digs, but I entertained her requests to come to the Newtown library of a Wednesday and try some meditation with her. "Maybe…" I said, sipping cheap port.
 
 Over the ensuing months, I did some work on her house in exchange for board, and made sure I got the better deal, but she persisted with me, and we talked of my writing, and my rage, and why she wouldn't put clothes on when drying herself in the hall from her nightly shower, and she encouraged me to write, and all along the way, she planted seeds, seeds in my mind to sit, and be still.
 
