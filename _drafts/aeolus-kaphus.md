@@ -31,5 +31,5 @@ essence of the ufo is a call to attention to the lost feminine, the mother ship 
 
 ufo is an aperture that is drawing us into another reality, like love, real communion, requires passing through the other person and into another state of being
 
-vesica presis?
+vesica presis / communion / high strangeness
 
