@@ -61,9 +61,9 @@ analytics:
 
 # Site Author 
 author:
-  name   : "Kimbila"
-  avatar : "/assets/images/bio-photo-4-250x250-gradient.jpg"
-  bio    : "Just another Buddhist monastic."
+  name   : "Bhante Kimbila"
+  avatar : "/assets/images/bio-photo-3-250x250-gradient.jpg"
+  bio    : "Just another Buddhist monk."
   location: "Australia"
   email:  "kimbila@gmx.com"
   links:
