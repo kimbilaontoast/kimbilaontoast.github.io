@@ -7,12 +7,12 @@ classes: wide
 
 ### The Short
 
-Kimbila is a Buddhist monastic with a focus on meditation and writing.
+Kimbila is a Buddhist monk with a focus on meditation and writing.
 
 He meditates in a small room that looks out on to a scrubby forest where kangaroos sometimes stare at him through his window as they munch grass.  
 
 This is his blog. It's mainly got stories in it.  
-
+</br>
 
 ### The Long
 
@@ -22,11 +22,11 @@ When we first arrived my Mum took me to a riverbank where I sat between her legs
 
 Surviving such things, I grew until I was a skinny 6 foot, and many years later I went to the University of Sydney where I studied design and got up to the usual mischief. When I left university I squatted in abandoned inner city houses and read incessantly, and in my wanderings met a lady who introduced me to meditation. 
 
-I must have liked meditation because a few years later I became a Buddhist monk. Then a few years after that I disrobed. Then I few years after that I came back to the monastery. I can't seem to stay away, so I think I'll become a monk... again. 
+I must have liked meditation because a few years later I became a Buddhist monk. Then a few years after that I disrobed. Then I few years after that I came back to the monastery. I can't seem to stay away from this Buddhism thing. 
 
-I'm very blessed. I live in a monastery with an amazing teacher and a beautiful community of people that smile a lot. 
+I'm very blessed. I live in a monastery with an amazing teacher named Ajahn Brahm and a beautiful community of people that smile a lot. 
 
-Monastic life isn't always puppies and lollipops, but it's pretty cool. On any given day I serve people, and then I get to spend my free time meditating and enjoying the stillness. When I'm not doing that, I write. 
+Monastic life isn't always easy but I love it. On any given day I serve the community, and then I get to spend my free time meditating and enjoying the stillness. When I'm not doing that, I write. 
 
 I started this blog to share stories. It's called 'Kimbila on Toast', 'cos I like toast.  
 
