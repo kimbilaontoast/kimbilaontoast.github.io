@@ -10,7 +10,7 @@ tags:
   - anagārika
 --- 
 
-"What does it mean? T- Tathan-gata?" he asked, referring to the word ‘Tathāgata", a pseudonym for the Buddha.  
+"What does it mean? T- Tathan-gata?" he asked, referring to the word ‘Tathāgata," a pseudonym for the Buddha.  
 He couldn't say the word. He always added a hidden consonant. For this, I thought him a little stupid, or perhaps just dyslexic. I tried not to wince, pursing my lips to mask my reaction to the mispronunciation.  
 "It's another name for the Buddha. The Buddha lived in a monastery, but spent a lot of time wandering around too, and before he established the Sangha, he was on the road."  
 "Yeah, see, they spent a lot of time walking around," he said, nodding to confirm himself.  
@@ -37,9 +37,9 @@ Another pause.
 "I see him leave the edge, and drop, and I rush to the edge where he jumped, and I see him falling. Right at the end, the chute didn’t even open, he mustn't have let go when he felt the wind hit him. He knew he wasn’t gonna make it with a drop like that, he already knew, 'cos he would'a been spinning, not knowing which way was up, when to release the bag. But he could have taken a chance and tried. Crazy fuck didn’t even try though, he just held on to the bag and waited. I see him falling and see him get spiked on the steel reinforcement below. Watched him there, twisted up."  
 "Jesus man."  
 We sat, like that, for a while, wind rustling the eucalypts.   
-"So I’m leaving today," he says, snapping the silence.   
+"So I’m leaving today," he says, snapping off the silence.   
 "Today."  
-"This afternoon," he says turning to me, and he smiles, "you remind me of him a little."  
+"This afternoon," he says turning to me, and he smiles, "You remind me of him a little."  
 "Tom?’  
 "No, Peter, the other anagārika I left with a while back."  
 "Oh."  
@@ -49,7 +49,7 @@ Something in me was burning. Since coming to the monastery I’d loved much of i
 
 "Not many people like you mate," I find myself saying, and it feels I’m talking to myself also.  
 He’s waiting.  
-"OK" I say, and with this he smiles.   
+"OK," I say, and with this he smiles.   
 "Good choice," he says.   
 A pause, before he adds "I’ll come get you later," and I’m nodding.
 He leaves, bundling his rucksack over his shoulder, and sidles into the forest.   
@@ -61,7 +61,7 @@ I open it and show him. It’s a small collection of clothes, the sutta nipāta,
 "Trust," he says and hands the bag back. "When we walk, pay attention to your breathing. That’s important, so you won’t get tired."  
 
 We walk to the monastery boundary, and beyond, down the road leading up to the foothills where the monastery lies, and down to the highway. Hitching a ride into Serpentine from some brave soul, we dodge turnstiles and catch the train into Perth city, and I’m a punk all over again, dodging guards. The train ride is a series of moving slides, like the old movie shutter speeds, placing new life before me, and it’s like I’m in some vacuum looking out at the city. It’s only when you return that you realise the stillness of the forest. The stillness now replaced by a junkie we see two seats down, scratching his forearms and muttering to some chimerical vision, the baby crying on the lap of a bored, hapless mother, the stink of drink, and the sweet, sticky teenagers, with their jilted, hyperventilating laughter. The girls. I’m watching a pretty one, her head tilted down, punching thumbs at her iphone, and I can feel him watching me watch.  
-"Why are you here?", he asks.   
+"Why are you here?" he asks.   
 My head snaps towards him, and I get it, nodding.   
 
 "This is the one,’ he says, and we alight the train.
@@ -158,5 +158,5 @@ This man is a deva.
 
 *Join me next in part three, where I’ll finish the story.*
 
-Peace. :herb:
+- Peace.
 
