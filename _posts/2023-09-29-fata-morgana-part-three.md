@@ -84,9 +84,9 @@ I can feel the painted tears on my face and the silent and uncaring shame of it,
 I snatch it from her and drink it down, not stopping, it spilling from the sides of my mouth, onto my shirt. When finished, I drop the bottle, and hands on my knees, I’m reeling over, feeling I’m about to pull it back up, but I hold it in, and they watch me, wide-eyed and waiting.   
 Inhaling, I stand tall, and say to the man, I guess he’s a Maori sort, squat and full, "I need to go up the road a bit," I say, pointing up the highway.  
 The woman behind the counter is looking at him, following his lead.   
-He nods. "OK," he says. "I’m going up that way… guess I’m leaving now," he says, with a smile and this relaxes the woman, "ya wanna lift?"  
+He nods. "OK," he says. "I’m going up that way… guess I’m leaving now," he says, with a smile and this relaxes the woman, "Ya wanna lift?"  
 "That would be amazing."  
-"Alright," he says, rising from the bench, "see-ya Mazza," he says to the woman, now looking at me, uncertain.   
+"Alright," he says, rising from the bench, "See-ya Mazza," he says to the woman, now looking at me, uncertain.   
 He walks to the exit and I’m trailing behind like an ugly duckling, and he’s moving off to the left outside the automatic exit doors, and behind the main station and I can’t believe I haven’t seen it, this monolithic truck parked by the side of the petrol station. A massive freight truck, with no rig.   
 "Get in," he says, motioning with his hand to the opposite side. A clamber on to the passenger side and up and into the cabin, and we’re high above the road.  
 He’s already in the driver’s seat and firing up the engine and firing up a lighter and lighting a rollie he’s produced, rolled previous now fetched, crumpled from the pouch. He lights it, and the cabin smells like aged tawny, smoke tumbling and trailing in curlicue swirls over the dash, licking at the edges of things.   
@@ -95,11 +95,10 @@ The engine is idling, and he turns to me.
 "Thanks for the lift."  
 "I haven’t given you one yet," he says, laughing, and it’s the kind of humour my father has, and makes me feel small. I feign a smile.  
 He punches me on the arm, a play-punch that feels like an anvil and across the dash in the reeling pain I see a faded playboy, the muffed snatch grinning at me like some distant forest sprite, a painted puppet. His cabin smells like wet socks and crickets, and it smells sick but sweet and I want to lick, it, his cabin, I want to trail my tongue across it’s edges I’m now thinking, delirious.   
-"I’m from Bodhinyana," I announce, triumphantly, more to cut my strange, fetishistic thought, than to communicate with him.    
-"Right…" he says, firing up the ignition.  
+"I’m from Bodhinyana," I announce, triumphantly, more to cut my strange, fetishistic thought, than to communicate with him.    "Right…" he says, firing up the ignition.  
 He shifts into low gear, and lurches the truck forward and onto the road, turning in a slow, wide arc to oncoming traffic, and with a wave of the hand, we’re turning and into second, and in staggering starts, we’re now flying down the highway in some unstoppable object.   
 
-The pastel lads, thin capped and shaved short, on my mind, and the cropped crops, their shorn tips, are piping the morning dew, breathing in pink sunlight, sending them sublime. Scraggled, crabby rocks jut the rolling landscape, ochre jutting from the earth, and the ant mounds, totemic offerings from mother earth, now offered to the surface, heaped in worship, basking in the sun. I’m shuddering, and so he turns on the heat, warming the cabin, though all he has is a worn, blue wife-beater, moth-eaten at the edges.  
+The pasty lads, thin capped and shaved short, on my mind, and the cropped crops, their shorn tips, are piping the morning dew, breathing in pink sunlight, sending them sublime. Scraggled, crabby rocks jut the rolling landscape, ochre jutting from the earth, and the ant mounds, totemic offerings from mother earth, now offered to the surface, heaped in worship, basking in the sun. I’m shuddering, and so he turns on the heat, warming the cabin, though all he has is a worn, blue wife-beater, moth-eaten at the edges.  
 "My daughter," he says, glancing at me, "my daughter… just married. Married an Aussie bloke. I’m from Samoa," he says, and I’m looking at him now.  
 "Oh yeah?" I offer, dying in the morning.  
 "This bloke, and… ya know, he’s a good bloke. A good bloke, mate, this kid."  
@@ -147,6 +146,6 @@ As he quickens towards me, his eyes meet my own, and flashing a smile, he laughs
 
 And I’m homeless, and home. 
 
-Peace. :herb:
+- Peace.
 
 
