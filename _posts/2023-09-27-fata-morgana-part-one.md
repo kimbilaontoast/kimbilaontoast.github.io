@@ -58,7 +58,7 @@ I don’t know what this means. My mind is scanning his face, and then I get it.
 "You want me to offer it to you?" I ask, and he nods.   
 This is weird, but I do it anyway, placing the bowl in his hands, and he accepts the food and tea. I watch him eat in silence, listening to the squelch of the porridge between his teeth. He takes slow, deliberate portions and scoops them into himself, eyes gazing ahead, into the forest. He takes a sip of the tea, and smiles, before placing it down onto the ground, at a distance.   
 "Condensed milk," he says, stirring the tea.  
-"Yeah, there’s a bit in there." and with this, a slight nod from him.   
+"Yeah, there’s a bit in there." And with this, a slight nod from him.   
 
 We sit.
 
@@ -110,11 +110,11 @@ He looks bright, considering he’s just risen from the morning dew like some de
 Something about his eyes, though. They’re glassy, and full. Full of some knowing, some knowing I can’t see, can’t yet know.   
 He moves towards the edge of my path now, in a measured, almost robotic affectation, yeah, it is an affectation, I realise, and this man is not completely himself, and I feel the panic again as a rising heat in my chest, my groin tightening. He is heavy-set but I reckon I could take him in flight.  
 He sits on the edge of my path.  
-"Cushy" he says, head motioning to the kuti, and unzips a pouch he produces from his shorts.  
+"Cushy," he says, head motioning to the kuti, and unzips a pouch he produces from his shorts.  
 Another pause, full of some latent, hidden meaning.  
 "Cushy?"   
 He inhales and sighs, rolling himself a cigarette I see he’s produced from the pouch.  
-"You can’t smoke here.’ I want to say, but don’t.   
+"You can’t smoke here,’ I want to say, but don’t.   
 "I came here two years ago," he says now, lighting his smoke, and my eyes fixate on the cigarette. He senses this, and offers the pouch to me. In a moment, I relinquish and approach to sit by him, rolling myself one now, and wondering who I am in this moment.   
 "Relax bro," he says.   
 I roll the smoke, and he offers a lighter in silence, and I light the smoke, smoking, I’m smoking again. It feels foreign, yet familiar and I retch at it, drawing it in, tasting the chalk.   
@@ -127,7 +127,7 @@ He turns his body towards me, spitting on the ground, and I watch my mind judge 
 "What?"  
 "That’s what he used to say, this guy. He said it’s watered down."  
 I know what he means, and it hits me.   
-"My Mum always said I’m searching for something", I find myself stumbling, the words jangling out my mouth, and with this he laughs, eyes all jackal, clasping his knees and coughing up smoke.  
+"My Mum always said I’m searching for something," I find myself stumbling, the words jangling out my mouth, and with this he laughs, eyes all jackal, clasping his knees and coughing up smoke.  
 "Your Mum?" he finally asks, spluttering, eyes teasing me.  
 "Yeah," I say, defiant.  
 His head is tilted down, he’s gazing up from that, looking up at me, head tilted to one side like a canine.  
@@ -141,7 +141,7 @@ I could run now, I’m out of reach. I could bolt, and track the forest path dow
 He’s still got his rucksack slinked over his shoulder, and reaching inside he produces a glass bottle of water, I can see it’s some sequestered screw-top make-shift bottle, label removed, and twirling the lid open, he extracts the cap, and throws the bottle neck down his own and takes deep swigs, finishing the remains of the half full bottle.
 "Can I fill it?" he asks, before stubbing his cigarette.   
 *Is this why he’s here? For water?*  
-"Yeah", I say, and point to the water tank, which he already knows is there. "Let me," I find myself saying, and rise to meet him, now meeting his gaze, and next to him, and I’m taller than him, though thinner, and despite that he feels my stance, and I take the bottle and go to the tank and track him behind me as I fill it, and return.   
+"Yeah," I say, and point to the water tank, which he already knows is there. "Let me," I find myself saying, and rise to meet him, now meeting his gaze, and next to him, and I’m taller than him, though thinner, and despite that he feels my stance, and I take the bottle and go to the tank and track him behind me as I fill it, and return.   
 I give him back the bottle. And then I’m calm.   
 "Thanks," he says, and then slides in a swift, slow movement from the path, and onto the ground beneath, adjacent to the hut, walking directly from where he came, like some fata morgana returning to the forest.   
 
@@ -149,7 +149,7 @@ I give him back the bottle. And then I’m calm.
 
 *Join me in part two, to continue the story.*
 
-Peace. :herb:
+- Peace.
 
 
 [^1]: The eight precepts are - 1. To refrain from intentionally taking the life of any living creature / 2. To refrain from stealing. / 3. To refrain from any sexual activity. / 4. To refrain from lying. / 5. To refrain from using alcohol or drugs.  / 6. To refrain from eating after noon. / 7. To refrain from dancing, singing, playing music, and wearing cosmetics, perfume, and jewellery (i.e. entertainment and adornment). / 8. To refrain from using luxurious beds and seats (i.e. using simple furnishings)
