@@ -9,7 +9,8 @@ tags:
   - story
 --- 
 
-I'm writing this after a very long hiatus of not publishing on this blog. I'll be remedying that moving forward with more regular posts. /
+I'm writing this after a very long hiatus of not publishing on this blog. I'll be remedying that moving forward with more regular posts.
+
 I’d like this blog, essentially, to be about sharing experiences, stories and little bits and pieces that provide inspiration to you, dear reader, as we practice the path together. It can be a lonely path at times, and *kalyāṇa mitta* comes in many forms, one of them being a blog. 
 
 On 16 May 2024 I ordained for a second time as a monk, under my former name, Kimbila. The transition back into robes and integration into the saṅgha has me reflecting on the meaning of my own life in this role, as well as the larger patterns I see in Buddhist communities. 
