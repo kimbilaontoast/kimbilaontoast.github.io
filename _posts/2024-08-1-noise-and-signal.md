@@ -16,8 +16,8 @@ You’ve stepped this body into the forest, without possessions, or money.
 Giving up a meaningful trade, you seek no recognition in roles.   
 Letting go of friends and lovers, even family; your life is fading like a bleached polaroid.  
 
-You’ve made some strong choices in coming here.   
-You’ve banished *Māra's* toys of deception - screens of things you said you’d leave behind.  
+You’ve made some strong choices in coming here, haven't you?.   
+You’ve banished *Māra's* toys of deception - things you said you’d leave behind.  
 Yet you seek out other measures, to distract, and blame. 
 
 I watch you lurch out in vain, in cloying need to bleed into something, anything to be seen and heard, to be felt as something real, and true.   
@@ -27,8 +27,8 @@ You love the truth, except when it’s about you, don’t you?
 At some point you have to stop searching, and face it.    
 I think you feel that death rattle closing in.
 
-The Western mind is a disease. You’ve tricked me into thinking it worthwhile, haven’t you?  
-You’re the chimerical pied-piper leading me on away from my heart and into the loop of shimmering opinion, barking through my teeth when I don’t know a thing. 
+The Western mind is a disease. You’ve tricked me into thinking it worthwhile.  
+You’re the chimerical pied-piper leading me on, away from my heart and into the loop of shimmering opinion, barking through my teeth when I don’t know a thing. 
 
 Meditation is more important than anything that you’re doing.   
 It’s obscene, this refusal to simply do what is said. To walk, to sit, be still.   
