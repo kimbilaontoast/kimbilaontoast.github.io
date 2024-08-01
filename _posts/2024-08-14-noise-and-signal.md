@@ -2,7 +2,7 @@
 title: "Noise and Signal"
 permalink: "/noise-and-signal"
 excerpt: "You want to lead me on to seas of future pain, whispering sweet, seductive lies about my fake, cake life."
-date: 2024-08-01
+date: 2024-08-14
 categories:
   - blog 
 tags: 
