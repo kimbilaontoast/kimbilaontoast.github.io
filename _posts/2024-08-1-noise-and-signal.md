@@ -14,9 +14,9 @@ You’ve come to *nekkhamma*, but how much can you truly leave behind?
 
 You’ve stepped this body into the forest, without possessions, or money.  
 Giving up a meaningful trade, you seek no recognition in roles.   
-Letting go of friends and lovers, even family; your life is fading like a bleached polaroid.  
+Letting go of friends and lovers, even family; your life is fading like a bleached memory.  
 
-You’ve made some strong choices in coming here, haven't you?.   
+You’ve made some strong choices in coming here, haven't you?  
 You’ve banished *Māra's* toys of deception - things you said you’d leave behind.  
 Yet you seek out other measures, to distract, and blame. 
 
@@ -34,12 +34,12 @@ Meditation is more important than anything that you’re doing.
 It’s obscene, this refusal to simply do what is said. To walk, to sit, be still.   
 This doe-eyed submission is dangerous. You know this.
 
-I can hear the soft rumble of the Buddha’s voice echoing in my heart.   
-He is speaking to me, through me, beckoning me to listen.   
-You already know what to do, the path is right before you.  
+I can hear the soft rumble of the Buddha’s thunder in my heart.   
+He crashes into me.  
+You already know; the path is right before you.    
 
 This is what it is to be a man – to live as if your father were dead.  
-With fractal crumbs, cool heart and clear mind, smeared with ash a thousand times, leave this maddening world, as it babbles to itself, and burns.  
+With fractal crumbs and clear mind, smeared with ash a thousand times, leave this maddening world behind, as it babbles and burns.  
 
 It's your turn. 
 
