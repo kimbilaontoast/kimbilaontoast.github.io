@@ -21,7 +21,7 @@ You’ve banished *Māra's* toys of deception - things you said you’d leave be
 Yet you seek out other measures, to distract, and blame. 
 
 I watch you lurch out in vain, in cloying need to bleed into something, anything to be seen and heard, to be felt as something real, and true.   
-You want to lead me on to seas of future pain, whispering sweet, seductive lies about my fake, cake life.  
+You want to lead me on to seas of future pain, whispering sweet, empty lies about my fake, cake life.  
 
 You love the truth, except when it’s about you, don’t you?   
 At some point you have to stop searching, and face it.    
