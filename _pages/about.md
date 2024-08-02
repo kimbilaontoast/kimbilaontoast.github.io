@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Who is Kimbila?"
-classes: wide
+classes: # wide
 
 ---
 
