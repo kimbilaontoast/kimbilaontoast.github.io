@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Who is Kimbila?"
 classes: # wide
-
+author_profile: true
 ---
 
 ### The Short
