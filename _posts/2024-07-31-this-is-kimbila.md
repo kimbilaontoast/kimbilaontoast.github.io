@@ -6,7 +6,7 @@ date: 2024-07-31
 categories:
   - blog 
 tags: 
-  - story
+  - stories
 --- 
 
 I'm writing this after a very long hiatus of not publishing on this blog. I'll be remedying that moving forward with more regular posts.
