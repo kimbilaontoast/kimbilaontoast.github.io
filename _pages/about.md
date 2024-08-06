@@ -9,7 +9,7 @@ author_profile: true
 
 Kimbila is a Buddhist monk with a focus on meditation and writing.  
 He meditates in a small room that looks out on to a scrubby forest where kangaroos sometimes stare at him through his window as they munch grass.  
-This is his blog. It's intended for sharing stories, experiences, and maybe a little commentary - little bits and pieces to provide illumination and inspiration to you, dear reader, as we practice the path.   
+This is his blog. It's intended for sharing stories, experiences, commentary and reflection - little bits and pieces to provide solidarity and inspiration to you, dear reader, as we practice the path together in times of trouble.   
 
 ### The Long
 
