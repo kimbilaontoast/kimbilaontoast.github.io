@@ -24,7 +24,7 @@ Let’s define narcissism first, as it’s an overused and misunderstood term. N
 
 These are abusive patterns of behaviour that some people display that make life for themselves and those around them painful. I’ll be referring to people that display these behaviours as ‘narcissists’, but of course it’s important to realise that people are multidimensional, and that this label is just a convenient way of referring to people that display many of these behaviours, rather than an attempt to surmise their entire character. 
 
-Narcissists are actually very easy to understand – their desperate need for the world to worship them is fuelled by their ego, and their fragile, empty sense of self.  Narcissists can be confusing because they tend to be emotionally cold, aloof and distant sometimes, and then smooth and confident other times; but if things don’t go their way and they feel slighted, their mask will slip, and they can behave with unusual cruelty and vengefulness. 
+Narcissists are actually very easy to understand – their desperate need for the world to worship them is fuelled by their ego, and their fragile, empty sense of self.  Narcissists can be confusing because they tend to be emotionally cold, aloof and distant sometimes, and then smooth and confident other times; but if things don’t go their way and they feel sleighted, their mask will slip, and they can behave with unusual cruelty and vengefulness. 
 
 So why are people taken in by narcissists?   
 There’s a few reasons. 
