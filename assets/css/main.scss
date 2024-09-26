@@ -1,0 +1,96 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/*
+   Typography
+   - This is what is included in _variables.scss. If a theme update borks the styling, you can put this back in _variables.scss
+   ========================================================================== */
+
+$doc-font-size: 16 !default;
+
+/* paragraph indention */
+$paragraph-indent: false !default; // true, false (default)
+$indent-var: 1.3em !default;
+
+/* system typefaces */
+$serif: "PT Serif", Georgia, Times, serif !default;
+$sans-serif: "Gentium Plus", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI","Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow: $sans-serif !default;
+$helvetica: "Gentium Plus", Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+/* serif typefaces */
+$georgia: Georgia, serif !default;
+$times: Times, serif !default;
+$bodoni: "Bodoni MT", serif !default;
+$calisto: "Calisto MT", serif !default;
+$garamond: Garamond, serif !default;
+$gentium: "Gentium Plus", serif;
+
+$global-font-family: $gentium, "Gentium Plus" !default;
+$header-font-family: $gentium, "Gentium Plus" !default;
+$caption-font-family: $gentium, "Gentium Plus" !default;
+
+/* type scale */
+$type-size-1: 2.441em !default; // ~39.056px
+$type-size-2: 1.953em !default; // ~31.248px
+$type-size-3: 1.563em !default; // ~25.008px
+$type-size-4: 1.25em !default; // ~20px
+$type-size-5: 1em !default; // ~16px
+$type-size-6: 0.75em !default; // ~12px
+$type-size-7: 0.6875em !default; // ~11px
+$type-size-8: 0.625em !default; // ~10px
+
+/* headline scale */
+$h-size-1: 1.563em !default; // ~25.008px
+$h-size-2: 1.25em !default; // ~20px
+$h-size-3: 1.125em !default; // ~18px
+$h-size-4: 1.0625em !default; // ~17px
+$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-6: 1em !default; // ~16px
+
+
+/*Font-size 
+
+/*
+Override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above.
+See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+Anything you place after this point will therefore "cascade and override" the previous CSS styles.
+*/
+
+/*
+Increase font sizes of the entire website.
+Defaults for small, medium, large, and x-large screens are: 16, 18, 20, and 22px, in that order - all have been increased 2px for gentium plus. 
+*/
+
+html {
+  font-size: 18px; // change to whatever
+
+  @include breakpoint($small) {
+    font-size: 20px; // change to whatever
+  }
+
+  @include breakpoint($medium) {
+    font-size: 22px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 24px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 26px; // change to whatever
+  }
+}
+
+
+

@@ -1,0 +1,110 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible# in the templates via {{ site.myvariable }}.
+
+logo: "/assets/images/android-chrome-88x88.png"
+title: Kimbila on Toast
+subtitle: A blog
+email: kimbila@gmx.com
+description: "Kimbila's blog." 
+url: "https://kimbilaontoast.github.io"
+# github_username: username
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# Outputting
+permalink: /:categories/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# SEO related 
+google_site_verification: dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0
+  # bing_site_verification   :   
+  # yandex_site_verification :
+  # baidu_site_verification  :
+
+# Analytics 
+analytics:
+  provider: "google-gtag"
+  google:
+  tracking_id: "G-5NNTHPGLHY"
+  anonymize_ip: false # default
+
+# Site Author 
+author:
+  name   : "Bhante Kimbila"
+  avatar : "/assets/images/bio-photo-3-250x250-gradient.jpg"
+  bio    : "Just another Buddhist monk."
+  location: "Australia"
+  email:  "kimbila@gmx.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kimbila@gmx.com"
+
+# deleted footer links, left github for potential future link. 
+  links:
+    - label: # "GitHub"
+      icon: # "fab fa-fw fa-github"
+      # url:
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: # wide 
+      author_profile: # true
+      read_time: true
+      comments: # true
+      share: true
+      related: # true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: # true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+# resolves 'GitHub Metadata: No GitHub API authentication could be found error'. 
+github: [metadata]
