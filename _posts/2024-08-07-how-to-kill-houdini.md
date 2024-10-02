@@ -39,7 +39,7 @@ Narcissists develop a language of seduction in order to manipulate and control p
 
 Our relationship with narcissists are basically allowed to form and maintain through the hope that if we persist with such people, and try harder to work on our relationship with them, we may be able to heal the dysfunction and move forward; but being in close proximity with a narcissist is like witnessing a car accident on repeat, in slow motion. You slowly become conditioned to their lack of empathy, their duplicity, their barbed remarks or temper tantrums. Their words and actions slowly shape your reality until you find their voice is your internal self talk and can’t trust your own judgement.
 
-The tragedy of becoming entangled with such people is that it’s our altruism that makes us a target, and it’s the slow replacement of our virtues with their defilements that make it difficult to escape when the tone of the dance flips to from charm to abuse. There is a real terror that comes from the realisation that once you’re entangled, it can be nightmarish to let go, and so people will often endure the abuse so as to avoid the toxicity of the confrontation needed to end the relationship.  
+The tragedy of becoming entangled with such people is that it’s our altruism that makes us a target, and it’s the slow replacement of our virtues with their defilements that make it difficult to escape when the tone of the dance flips from charm to abuse. There is a real terror that comes from the realisation that once you’re entangled, it can be nightmarish to let go, and so people will often endure the abuse so as to avoid the toxicity of the confrontation needed to end the relationship.  
 
 Narcissists rarely change. Most narcissists are incapable of recognising that their behaviour is negatively impacting other people and that they need to make changes to that behaviour. Instead, they hide behind a mask.  
 
@@ -55,7 +55,7 @@ There are many ways in which spiritual bypassing can play out on an individual a
 
 ---
 
-Hyper-positivity is an attitude where we don’t want to interact with anything that is bad; rather than opening up to the full spectrum of human experience, we tune out uncomfortable emotions. This most often occurs as a response to a culture of denial, where people are censored from voicing their true feelings. 
+Hyper-positivity is an attitude where we don’t want to interact with anything that is bad - rather than opening up to the full spectrum of human experience, we tune out uncomfortable emotions. This most often occurs as a response to a culture of denial, where people are censored from voicing their true feelings. 
 
 In Buddhism for example, it’s tempting to label all negativity as *upakkilesa*, impurities or defilements, that need to be instantly let go. We can do this. However, the Buddha encourages us to understand suffering; the pāli word is *pariññeyya* as it occurs in the *Dhammacakkappavattanasutta* (SN 56.11) for example, which means one should fully understand suffering from all angles. 
 
@@ -86,7 +86,6 @@ Narcissistic people generally don’t like negativity. Despite causing untold da
 A sea of second chances motivated by unhealthy, blind compassion is an accelerant to the narcissist, as the altruism of always giving people the benefit of the doubt will be readily abused by someone who doesn’t feel remorse and is quite content to keep crossing lines if they are allowed to, in order to get what they want regardless of how it may affect other people. 
 
 This is how narcissists are allowed to take root and take over – they thrive on not being accountable for their actions and being allowed to cross boundaries. Forgiveness is interpreted not as a sign to humble oneself and do better, but as an amusing weakness and get-out-of-jail-free pass on behalf of the institution which encourages it, and the victim who is forced to comply. 
-
 This leaves the person who is experiencing the narcissistic abuse feeling as if there is something wrong with *them*, and places the abuser, the narcissist, in the position of being the better man or woman, as after all, they aren’t the one ‘being negative’ and spoiling the positivity party by pointing out crap behaviour, or ‘causing trouble’ by not exercising compassion to keep the peace. 
 
 In this way, spiritual bypassing becomes an enabler’s game. Instead of the spiritual aspirant being allowed to feel the full spectrum of who they are in a safe environment where they are protected by healthy boundaries, the community that condones bypassing actually invalidates and disempowers the aspirant, in addition to the manipulative, antisocial and apathetic behaviour they are being forced to endure by the narcissist. It’s a double whammy. 
