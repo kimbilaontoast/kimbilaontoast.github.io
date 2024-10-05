@@ -23,7 +23,7 @@ I must have liked meditation because a few years later I became a Buddhist monk.
 
 I'm very blessed. I live in a monastery with an amazing teacher named Ajahn Brahm and a beautiful community of people that smile a lot. Monastic life isn't always easy but I love it. On any given day I serve the community, and then I get to spend my free time meditating and enjoying the stillness. When I'm not doing that, I write a bit. 
 
-Thsi blog is called 'Kimbila on Toast', 'cos I like toast; just like the Dhamma, it reminds me of home. 
+This blog is called 'Kimbila on Toast', 'cos I like toast; just like the Dhamma, it reminds me of home. 
 
 ---
 
