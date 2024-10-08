@@ -9,6 +9,8 @@ tags:
   - spiritual bypassing
   - psychology
   - reflections
+header:
+  teaser: "/assets/images/posts/houdini-1280.jpg"
 --- 
 
 
