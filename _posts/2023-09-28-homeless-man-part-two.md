@@ -1,7 +1,7 @@
 ---
-title: "The Homeless Man - Part Two"
-permalink: "/the-homeless-man-part-two"
-excerpt: "Hitching a ride into Serpentine from some brave soul, we dodge turnstiles and catch the train into Perth city, and I’m a punk all over again..."
+title: "Homeless - Part Two"
+permalink: "/homeless-part-two"
+excerpt: "When an anāgarika runs away for a day... Part Two"
 date: 2023-09-28
 categories:
   - blog 

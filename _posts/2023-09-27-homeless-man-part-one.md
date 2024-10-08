@@ -1,7 +1,7 @@
 ---
-title: "The Homeless Man - Part One"
-permalink: "/the-homeless-man-part-one"
-excerpt: "I feel my body clench... He had not only walked past the paths signposted, but had come right up to my hut, and must have done so quietly, since I only heard him at the last minute."
+title: "Homeless - Part One"
+permalink: "/homeless-part-one"
+excerpt: "When an anagārika runs away for a day... Part One"
 date: 2023-09-27 
 categories:
   - blog 

@@ -1,7 +1,7 @@
 ---
-title: "The Homeless Man - Part Three"
-permalink: "/the-homeless-man-part-three"
-excerpt: "Driving down Pinjarra road and seeing a white, balding figurine stumbling towards car lights... would have rendered me a ghostly apparition."
+title: "Homeless - Part Three"
+permalink: "/homeless-part-three"
+excerpt: "When an anāgarika runs away for a day... Part Three"
 date: 2023-09-29
 categories:
   - blog 

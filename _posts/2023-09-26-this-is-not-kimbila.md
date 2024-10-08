@@ -1,7 +1,7 @@
 ---
 title: "This is (not) Kimbila"
 permalink: "/this-is-not-kimbila"
-excerpt: "I guess I've realised that once the Dhamma has entered your bones, there really is no turning away from it. You can try, like I did for a while, but you come back."
+excerpt: "Once the Dhamma has entered your bones, there really is no turning away."
 date: 2023-09-26
 categories:
   - blog 

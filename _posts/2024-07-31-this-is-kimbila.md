@@ -1,7 +1,7 @@
 ---
 title: "This is Kimbila"
 permalink: "/this-is-kimbila"
-excerpt: "Stories humanise the path, and give it life and colour. Through telling our stories, we give life shape and definition, and we learn who we are in relation to the world."
+excerpt: "Nice to meet you."
 date: 2024-07-31
 categories:
   - blog 
