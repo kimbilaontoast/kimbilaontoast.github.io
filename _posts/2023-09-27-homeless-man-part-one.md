@@ -153,6 +153,7 @@ I give him back the bottle. And then I’m calm.
 
 - Peace.
 
+Photo credit: M.T ElGassier via [**Unsplash**](https://unsplash.com)
 
 [^1]: The eight precepts are - 1. To refrain from intentionally taking the life of any living creature / 2. To refrain from stealing. / 3. To refrain from any sexual activity. / 4. To refrain from lying. / 5. To refrain from using alcohol or drugs.  / 6. To refrain from eating after noon. / 7. To refrain from dancing, singing, playing music, and wearing cosmetics, perfume, and jewellery (i.e. entertainment and adornment). / 8. To refrain from using luxurious beds and seats (i.e. using simple furnishings)
 
