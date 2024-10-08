@@ -10,7 +10,7 @@ tags:
   - psychology
   - reflections
 header:
-  teaser: "/assets/images/posts/houdini-1280.jpg"
+  teaser: "/assets/images/posts/sander-sammy-7rE4GFo0E9A-unsplash-1280.jpg"
 --- 
 
 
@@ -120,3 +120,5 @@ When our society is driven by such metrics, then qualities like empathy and non-
 We can push back against the tendency of narcissism we see in our own lives, and in the world. We can find communities that value kindness and compassion. We can choose who we let into our lives. With the world burning all around us, anyone who is moving through the world with empathy, an open heart, sound integrity, and a lightness to see the humour in this mess, in the face of people that would have us burn with them - is a hero.
 
 -	Peace 
+
+Photo credit: Sander Sammy via [**Unsplash**](https://unsplash.com)
