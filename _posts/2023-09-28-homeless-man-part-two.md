@@ -1,7 +1,7 @@
 ---
-title: "Homeless - Part Two"
-permalink: "/homeless-part-two"
-excerpt: "When an anāgarika runs away for a day... Part Two"
+title: "homeless - part 2"
+permalink: "/homeless-part-2"
+excerpt: "When an anāgarika runs away for a day... part two."
 date: 2023-09-28
 categories:
   - blog 

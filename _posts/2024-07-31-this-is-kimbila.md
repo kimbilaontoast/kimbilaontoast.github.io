@@ -1,5 +1,5 @@
 ---
-title: "This is Kimbila"
+title: "this is kimbila"
 permalink: "/this-is-kimbila"
 excerpt: "Nice to meet you."
 date: 2024-07-31

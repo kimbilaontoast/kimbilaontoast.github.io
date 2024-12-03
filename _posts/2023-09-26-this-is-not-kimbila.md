@@ -1,5 +1,5 @@
 ---
-title: "This is (not) Kimbila"
+title: "this is (not) kimbila"
 permalink: "/this-is-not-kimbila"
 excerpt: "Once the Dhamma has entered your bones, there really is no turning away."
 date: 2023-09-26

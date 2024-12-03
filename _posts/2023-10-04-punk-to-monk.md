@@ -1,5 +1,5 @@
 ---
-title: "Punk to Monk"
+title: "punk to monk"
 permalink: "/punk-to-monk"
 excerpt: "My unlikely journey from punk life to monk life."
 date: 2023-10-04

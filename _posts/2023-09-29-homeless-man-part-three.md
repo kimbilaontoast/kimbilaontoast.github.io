@@ -1,7 +1,7 @@
 ---
-title: "Homeless - Part Three"
-permalink: "/homeless-part-three"
-excerpt: "When an anāgarika runs away for a day... Part Three"
+title: "homeless - part 3"
+permalink: "/homeless-part-3"
+excerpt: "When an anāgarika runs away for a day... part three."
 date: 2023-09-29
 categories:
   - blog 
@@ -9,7 +9,6 @@ tags:
   - stories
   - anagārika
 ---
-
 
 The train to Mandurah is empty, save one lonely, drunken soul.
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Kill Houdini"
+title: "how to kill houdini"
 permalink: "/how-to-kill-houdini"
 excerpt: "An exploration of narcissism and spiritual bypassing."
 date: 2024-08-07
