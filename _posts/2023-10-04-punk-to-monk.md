@@ -8,8 +8,6 @@ categories:
 tags:
   - stories
   - lay-life
-header:
-  teaser: ""
 ---
 
 I got into meditation in my early twenties, just after I finished university. I’m not sure when, actually, but I’d say about twenty-one. University was a busy time for me. I studied architecture at the University of Sydney for three years, which was a full time job in itself, whilst working a graveyard shift on the side at a famous pie shop in Woolloomooloo wharf called ‘Harry’s Café de Wheels’, to support myself. 

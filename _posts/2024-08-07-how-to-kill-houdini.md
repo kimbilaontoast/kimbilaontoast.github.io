@@ -9,8 +9,6 @@ tags:
   - spiritual bypassing
   - psychology
   - reflections
-header:
-  teaser: ""
 --- 
 
 

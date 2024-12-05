@@ -8,8 +8,6 @@ categories:
 tags: 
   - stories 
   - anagārika
-header:
-  teaser: ""
 --- 
  
 
