@@ -10,7 +10,7 @@ tags:
   - psychology
   - reflections
 header:
-  teaser: "/assets/images/posts/sander-sammy-7rE4GFo0E9A-unsplash-1280.jpg"
+  teaser: ""
 --- 
 
 

@@ -9,7 +9,7 @@ tags:
   - stories 
   - anagārika
 header:
-  teaser: "/assets/images/posts/m-t-elgassier-1VLwgGwFGlg-unsplash-1280.jpg"
+  teaser: ""
 --- 
  
 
