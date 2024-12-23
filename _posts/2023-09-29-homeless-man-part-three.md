@@ -147,5 +147,4 @@ And I’m homeless, and home.
 
 - Peace.
 
-Photo credit: M.T ElGassier via [**Unsplash**](https://unsplash.com)
 

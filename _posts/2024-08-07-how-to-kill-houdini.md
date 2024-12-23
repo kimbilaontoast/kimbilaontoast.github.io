@@ -119,4 +119,3 @@ We can push back against the tendency of narcissism we see in our own lives, and
 
 -	Peace 
 
-Photo credit: Sander Sammy via [**Unsplash**](https://unsplash.com)
