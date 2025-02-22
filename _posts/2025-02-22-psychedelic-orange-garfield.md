@@ -25,15 +25,15 @@ When you start reflecting that you're doing all this for others, the whole game 
 
 Doing service for others, and not yourself, helps you get over the self-interest which is blocking your growth and practice; the behaviours which see you chasing the things you like, and avoiding the things you don't want to do, which only ever cultivates more preferences, more self. 
 
-I see lots of people come to the monastery to have any easy life - thinking they can cheat the system, they want to kick back and enjoy all the fruits of other people's efforts while contributing very little themselves. This is usually justified with sentiments like: 'the real work is the meditation'. These people are idiots. 
+I see lots of people come to the monastery to have an easy life - thinking they can cheat the system, they want to kick back and enjoy all the fruits of other people's efforts while contributing very little themselves. This is usually justified with sentiments like: 'the real work is the meditation'. These people are idiots. 
 
-The beautiful thing about monastic life, if you choose to embrace it and see it as a valuable object lesson in your growth, is that many of the choices you used to have are taken away. In the form of work, this means that on any given day I have no idea who I am going to work with, or what I am going to do. Today I might be weeding with a good mate, tomorrow, cleaning a toilet with someone I dislike. The point is that it doesn't matter what you are doing; what matters is the attitude you bring to the work. Lots of people want to craft a little corner for themselves in monastic life, but one must be wary of creating these little nests of definition as they can be traps that limit our capacity to create a flexible and dynamic mind- and that kind of mind is much more valuable for your meditation anyways. 
+The beautiful thing about monastic life, if you choose to embrace it and see it as a valuable object lesson in your growth, is that many of the choices you used to have are taken away. In the form of work, this means that on any given day I have no idea who I am going to work with, or what I am going to do. Today I might be weeding with a good mate, tomorrow, cleaning a toilet with someone I dislike. The point is that it doesn't matter what you are doing; what matters is the attitude you bring to the work. Lots of people want to craft a little corner for themselves in monastic life, but one must be wary of creating these little nests of definition as they can be traps that limit our capacity to create a flexible and dynamic mind - and that kind of mind is much more valuable for your meditation anyways. 
 
-There is new separation between the mind you cultivate in the work you do, and the mind that sits on the mat to become still to go within. It's the same mind. If you can clean a toilet and smile, with the reflection, 'May the next person that sees this toilet notice how clean it is, and may that brighten their mind,' then you're exactly where you need to be.  
+There is no separation between the mind you cultivate in the work you do, and the mind that sits on the mat to become still to go within. It's the same mind. If you can clean a toilet and smile, with the reflection, 'May the next person that sees this toilet notice how clean it is, and may that brighten their mind,' then you're exactly where you need to be.  
 
 **Hold your Heart**
 
-The meditation brochure had a beautiful tanned model sitting in full lotus position next to a waterfall. Her angelic white blouse was lit with warm  mottled sunlight filtering through the forest canopy, and she had a smile on her face that looked like she was plugged into the radiant love of the universe. When I saw her I imagined a sharing circle, trauma-informed discussion, and group hugs. Everything was gonna be OK. 
+The meditation brochure had a beautiful tanned model sitting meditation in full lotus position next to a waterfall. Her angelic white blouse was lit with warm  mottled sunlight filtering through the forest canopy, and she had a smile on her face that looked like she was plugged into the radiant love of the universe. When I saw her I imagined a sharing circle, trauma-informed discussion, and group hugs. Everything was gonna be OK. 
 
 Instead, here I am alone, cold, at some ungodly hour, with the wind lashing at my face and the icicle of a tear forming in the corner of my eye as I pace back and forth on my walking path like a caged animal, watching my nutcase mind loop into another circuit of pointless interior hallucinations. This was not in the brochure.
 
@@ -47,11 +47,11 @@ It does help though. Just don't fall into the trap of leaving, thinking that you
 
 You got this. 
 
-**Study a little, practice a lot**
+**Study a little, Practice a lot**
 
 'Study a little, practice a lot', is a little saying I took from Bhante Sujato. I really love it 'cos it reminds me to put what I'm doing into context. 
 
-I've got a creative mind. I was an artist in my former life, and hence I have the kind of mind that gets obsessive when inspiration takes hold, and I've always struggled to not let these forces take over and swallow up my practice. To be honest, I still suck at this. This elusive thing called 'balance' that everyone has talked about my whole life continues to seem about as real as bigfoot. 
+I've got a creative mind. I was an artist in my former life, and hence I have the kind of mind that gets obsessive when inspiration takes hold. I've always struggled to not let these forces take over and swallow up my practice. To be honest, I still suck at this. This elusive thing called 'balance' that everyone has talked about my whole life continues to seem about as real as bigfoot. 
 
 What I have learnt though is more self-acceptance around the moods that take hold of me, and that it's OK to have a 'muse' in monastic life. The muse can come in many forms, and can be a powerful source of energy and joy. 
 
@@ -75,7 +75,7 @@ I could go on all day about mettā, but it's best to just try it. I'd recommend 
 
 One of the best choices I've made since stepping into monastic life is to let go of all digital devices. 
 
-When I first came to the monastery I had a phone and a laptop. Initially, I sent my laptop away to my Mum, then asked for it back. It was only after I had done this back and forth sending it away and asking for it back another four times in 12 months that I realised that maybe, just maybe, I might have a little addiction to technology. So the last time I sent it away, I never asked for it back again. 
+When I first came to the monastery I had a phone and a laptop. Initially, I sent my laptop away to my Mum, then asked for it back. It was only after I had done this back and forth sending it away and asking for it back thing another four times in 12 months that I realised that maybe, just maybe, I might have a little addiction to technology. So the last time I sent it away, I never asked for it back again. 
 
 Your phone is eating your brain. No matter how much you think you're in control of your usage of these things, the billion dollar industries and all the well-studied and endlessly-funded psychological warfare they use to keep you hooked in, are, unfortunately, far smarter than you'll ever be. So don't be naive -  you're an addict and it's much more than you realise or care to admit. 
 
@@ -100,7 +100,7 @@ Once you get used to doing that, you find that you can tell the time pretty accu
 
 **Keep Good Company**
 
-Monastic life isn't quite like anything else you'll encounter. In lay life, you can't choose your family or who you work with, but you can leave and go live by yourself. If you're in a relationship or a friendship and it's not going well, same goes for that too - you have mobility and a large degree of choice in who you interact with, and on what terms. 
+Monastic life isn't quite like anything else you'll encounter. In lay life, you can't choose your family or who you work with, but if things to pear-shaped you can leave and go live by yourself. If you're in a relationship or a friendship and it's not going well, same goes for that too - you have mobility and a large degree of choice in who you interact with, and on what terms. 
 
 Monastic life isn't quite like that. It's kind of a strange hybrid of a workplace, a sprawling semi-dysfunctional family, and intimate relationships. You're living with, working with, eating with, talking to, the same people every day, and especially if you're a junior monastic you can't really just up and leave, because you've decided to follow the Buddha's recommendation and stay with your teacher for at least five years. 
 
