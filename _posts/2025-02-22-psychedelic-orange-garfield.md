@@ -65,7 +65,7 @@ The Buddha strikes me as someone who was a creative, lateral thinker. By engagin
 
 I think in modern society, especially those of us not growing up with Buddhist values, we're kinda starved for self-love. We all know this. 
 
-I've found mettā practice is by far the quickest and must reliable way to cultivate happiness in this monastic life, which is so essential for being able to stay in robes. It doesn't have to be your bread and butter, but I think it's essential for anyone looking to meditate. You need to get into your heart and out of your head. 
+I've found mettā practice is by far the quickest and most reliable way to cultivate happiness in this monastic life, which is so essential for being able to stay in robes. It doesn't have to be your bread and butter, but I think it's essential for anyone looking to meditate. You need to get into your heart and out of your head. 
 
 One thing I learnt from my teacher Ajahn Brahm is that meditation is a 'feely feely' practice. You feel your way deeper into stillness. When the mind starts to truly quieten down, the heart opens up and you feel whole and connected, like you're coming home. Mettā helps this process no end, and although you can develop this feeling without a formal mettā practice - as the heart will naturally open the more you open to the present - cultivating a formal mettā practice is so wonderful because it feeds the mind the love that it so needs and craves, it's like a warm nourishing balm for the mind, it's very healing. 
 
@@ -100,7 +100,7 @@ Once you get used to doing that, you find that you can tell the time pretty accu
 
 **Keep Good Company**
 
-Monastic life isn't quite like anything else you'll encounter. In lay life, you can't choose your family or who you work with, but if things to pear-shaped you can leave and go live by yourself. If you're in a relationship or a friendship and it's not going well, same goes for that too - you have mobility and a large degree of choice in who you interact with, and on what terms. 
+Monastic life isn't quite like anything else you'll encounter. In lay life, you can't choose your family or who you work with, but if things go pear-shaped you can leave and go live by yourself. If you're in a relationship or a friendship and it's not going well, same goes for that too - you have mobility and a large degree of choice in who you interact with, and on what terms. 
 
 Monastic life isn't quite like that. It's kind of a strange hybrid of a workplace, a sprawling semi-dysfunctional family, and intimate relationships. You're living with, working with, eating with, talking to, the same people every day, and especially if you're a junior monastic you can't really just up and leave, because you've decided to follow the Buddha's recommendation and stay with your teacher for at least five years. 
 
@@ -108,7 +108,7 @@ Something happens to people in monastic life. This little echo chamber we all li
 
 We can waste so much time fault-finding the people around us that we end up creating a lot of tension and resentment in our mind, and miss the path. It's a dead end. 
 
-I've spoken of some things already that can keep us open, but a really important one is choosing to keep good company. Hang around people that make you feel good, that make you feel inspired, that lift you up. If people want to drag you into their petty little micro-dramas consider it a gift, because you'll have to learn the art of setting boundaries, and protecting your own values and ideas of good friendship. This assertion can be done with sensitivity and respect, but it needs doing because otherwise your mind starts getting shaped to be small again and you feel like you're living in a panopticon. No-one wants that. 
+I've spoken of some things already that can keep us open, but a really important one is choosing to keep good company. Hang around people that make you feel good, that make you feel inspired, that lift you up. If people want to drag you into their petty little micro-dramas consider it a gift, because you'll have to learn the art of setting boundaries, and protecting your own values and ideas of good friendship. This assertion can be done with sensitivity and respect, but it needs doing because otherwise your mind starts getting shaped to be small and you feel like you're living in a panopticon. No-one wants that. 
 
 Monastic life can be lonely. There's no doubt about that. In the end, the people that come to this place, largely want to be left alone. That doesn't mean that we can't connect to good people and cultivate good friendships, learning to hold them with lightness, and with little expectation, just enjoying them for the time we have, as we are blessed to be in the company of good people. 
 
