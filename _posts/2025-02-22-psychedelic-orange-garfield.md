@@ -1,7 +1,6 @@
-
 ---
 title: "psychedelic orange garfield"
-permalink: "/principles"
+permalink: "/psychedelic-orange-garfield"
 excerpt: "On some principles of practice."
 date: 2025-02-22
 categories:
