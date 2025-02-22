@@ -33,7 +33,7 @@ There is no separation between the mind you cultivate in the work you do, and th
 
 **Hold your Heart**
 
-The meditation brochure had a beautiful tanned model sitting meditation in full lotus position next to a waterfall. Her angelic white blouse was lit with warm  mottled sunlight filtering through the forest canopy, and she had a smile on her face that looked like she was plugged into the radiant love of the universe. When I saw her I imagined a sharing circle, trauma-informed discussion, and group hugs. Everything was gonna be OK. 
+The meditation brochure had a beautiful tanned model sitting meditation in full lotus position next to a waterfall. Her angelic white blouse was lit with warm  mottled sunlight filtering through the forest canopy, and she had a smile on her face that looked like she was plugged into the secret truth of the universe. When I saw her I imagined a sharing circle, trauma-informed discussion, and group hugs. Everything was gonna be OK. 
 
 Instead, here I am alone, cold, at some ungodly hour, with the wind lashing at my face and the icicle of a tear forming in the corner of my eye as I pace back and forth on my walking path like a caged animal, watching my nutcase mind loop into another circuit of pointless interior hallucinations. This was not in the brochure.
 
@@ -43,21 +43,21 @@ I'd rather just be real.
 
 There are times when you just need to hold your heart. I often find myself just lying on my bed and doing this (often 'cos when it's hard this is probably the only thing I can manage to do). I breathe and tell myself it's going to be OK, even though I have no idea if that's true. I try and be kind to myself and remind myself that I'm still on the path, that these chimeras of the past that haunt me will fade, and that [insert corny life affirmation here]. 
 
-It does help though. Just don't fall into the trap of leaving, thinking that you can't do it, that you're not good enough to practice, that who the hell are you to even try and get out of this mess, that blah blah blah - all those whispers are Māra kicking you when you're down, 'cos that's the kind of guy he is. 
+It does help though. Just don't fall into the trap of wanting to leave, thinking that you can't do it, that you're not good enough to practice, that who the hell are you to even try and get out of this mess, that blah blah blah - all those lies that Māra whispers to you when you're down, 'cos that's the kind of guy he is. 
 
-You got this. 
+Forget Māra. You got this. 
 
 **Study a little, Practice a lot**
 
 'Study a little, practice a lot', is a little saying I took from Bhante Sujato. I really love it 'cos it reminds me to put what I'm doing into context. 
 
-I've got a creative mind. I was an artist in my former life, and hence I have the kind of mind that gets obsessive when inspiration takes hold. I've always struggled to not let these forces take over and swallow up my practice. To be honest, I still suck at this. This elusive thing called 'balance' that everyone has talked about my whole life continues to seem about as real as bigfoot. 
+I've got a creative mind. I was an artist in my former life, and hence I have the kind of mind that gets obsessive when inspiration takes hold. I've always struggled to not let these forces take over and swallow up my practice. To be honest, I still suck at this. This elusive thing called 'balance' that everyone has talked about my whole life continues to seem about as real as Bigfoot.
 
 What I have learnt though is more self-acceptance around the moods that take hold of me, and that it's OK to have a 'muse' in monastic life. The muse can come in many forms, and can be a powerful source of energy and joy. 
 
 For example, by learning Pāli, when I read a sutta out loud and let its meaning seep into me, I reflect that I am using my mouth to form pretty much the exact words the Buddha spoke. By speaking them myself, it's like he is speaking to me still, he is speaking to me *through* me, his path is my body, they are one. 
 
-Another example is memory work. Understanding that the seventh stanza in the mangala sutta - 'Gāravo ca nivāto ca santutthī ca...' is best remembered as an image of a giant psychedelic Garfield (Gāravo) 'sliding' down into the 'sand' monster from 'Star' Wars (all 's' sounds from the first letter of the word 'santutthi') is a much more fun way to learn chanting. It also has the extra advantage that you never forget it. Mnemonics teach you how your own mind works. 
+Another example is memory work. Understanding that the seventh stanza in the mangala sutta - 'Gāravo ca nivāto ca santutthī ca...' is best remembered as an image of a giant psychedelic Garfield (Gāravo) 'sliding' down into the 'sand' monster from 'Star' Wars (all 's' sounds from the first letter of the word 'santutthi') is a much more fun way to learn chanting. It also has the extra advantage that you never forget it. Mnemonics teach you how your mind works.
 
 The Buddha strikes me as someone who was a creative, lateral thinker. By engaging with this aspect of myself I not only embrace a strong part of who I am, but I emulate the Buddha. It spills over into practice too - a dynamic mind can solve roadblocks that come up, and you think of new ways to work with the mind, which makes the meditation juicy.
 
