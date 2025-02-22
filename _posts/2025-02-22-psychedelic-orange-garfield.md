@@ -57,7 +57,7 @@ What I have learnt though is more self-acceptance around the moods that take hol
 
 For example, by learning Pāli, when I read a sutta out loud and let its meaning seep into me, I reflect that I am using my mouth to form pretty much the exact words the Buddha spoke. By speaking them myself, it's like he is speaking to me still, he is speaking to me *through* me, his path is my body, they are one. 
 
-Another example is memory work. Understanding that the seventh stanza in the mangala sutta - 'Gāravo ca nivāto ca santutthī ca...' is best remembered as an image of a giant psychedelic Garfield (Gāravo) 'sliding' down into the 'sand' monster from 'Star' Wars (all 's' sounds from the first word of 'santutthi') is a much more fun way to learn chanting. It also has the extra advantage that you never forget it. Mnemonics teach you how your own mind works. 
+Another example is memory work. Understanding that the seventh stanza in the mangala sutta - 'Gāravo ca nivāto ca santutthī ca...' is best remembered as an image of a giant psychedelic Garfield (Gāravo) 'sliding' down into the 'sand' monster from 'Star' Wars (all 's' sounds from the first letter of the word 'santutthi') is a much more fun way to learn chanting. It also has the extra advantage that you never forget it. Mnemonics teach you how your own mind works. 
 
 The Buddha strikes me as someone who was a creative, lateral thinker. By engaging with this aspect of myself I not only embrace a strong part of who I am, but I emulate the Buddha. It spills over into practice too - a dynamic mind can solve roadblocks that come up, and you think of new ways to work with the mind, which makes the meditation juicy.
 
