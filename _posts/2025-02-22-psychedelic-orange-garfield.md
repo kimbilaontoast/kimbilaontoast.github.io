@@ -12,9 +12,9 @@ tags:
 
 Hi. 
 
-How are you today?
+I thought I'd share with you some insights on aspects of Buddhist practice. These are some of the themes that I've felt really fruitful to explore, and things that I keep coming back to. I'm sure you're familiar with some of them too.
 
-I thought I'd share with you some principles for Buddhist practice that I've found really valuable over the years. These are themes that I keep coming back to and continue to experiment with. I'm sure you're familiar with some of them too. It's by not means exhaustive, but here's what I've learnt on a few things of late - 
+It's good to play around with parts of our monastic life. Life is an art, and being spiritual aspirants, we are both the art, and the artist. 
 
 ---
 
@@ -32,7 +32,7 @@ The beautiful thing about monastic life, if you choose to embrace it and see it 
 
 There is new separation between the mind you cultivate in the work you do, and the mind that sits on the mat to become still to go within. It's the same mind. If you can clean a toilet and smile, with the reflection, 'May the next person that sees this toilet notice how clean it is, and may that brighten their mind,' then you're exactly where you need to be.  
 
-**Hold your heart**
+**Hold your Heart**
 
 The meditation brochure had a beautiful tanned model sitting in full lotus position next to a waterfall. Her angelic white blouse was lit with warm  mottled sunlight filtering through the forest canopy, and she had a smile on her face that looked like she was plugged into the radiant love of the universe. When I saw her I imagined a sharing circle, trauma-informed discussion, and group hugs. Everything was gonna be OK. 
 
@@ -70,7 +70,7 @@ I've found mettā practice is by far the quickest and must reliable way to culti
 
 One thing I learnt from my teacher Ajahn Brahm is that meditation is a 'feely feely' practice. You feel your way deeper into stillness. When the mind starts to truly quieten down, the heart opens up and you feel whole and connected, like you're coming home. Mettā helps this process no end, and although you can develop this feeling without a formal mettā practice - as the heart will naturally open the more you open to the present - cultivating a formal mettā practice is so wonderful because it feeds the mind the love that it so needs and craves, it's like a warm nourishing balm for the mind, it's very healing. 
 
-I could go on all day about mettā, but it's best to just try it. I'd recommend looking [here](https://link.com).
+I could go on all day about mettā, but it's best to just try it. I'd recommend looking [here](https://discourse.suttacentral.net/t/bhante-sujato-metta-meditation-retreat-2011/8429).
 
 **Go Analog**
 
@@ -94,13 +94,12 @@ There's something cool that happens when you just decide to live in the present 
 
 Time is control. It's the currency of control freaks. Other than being somewhere essential, like an appointment or a work meeting, does knowing the time (or the temperature or whatever) really add anything to your experience? 
 
-Last time I came here I got rid of my clock all together. I used the sun on my walking path as a sun dial, and the nature of the light in the trees around me as an indicator of the changing seasons, and hence changing dawn and dusk. By ditching the abstract notion of 'time', your mind opens up to the natural elements around you, and you start to navigate your way through the day in all sorts of ways you didn't think were possible before, such as when certain birds start calling out, for example. That might seem like some long-lost language of primordial humanity, but don't forget that human beings have been in their present evolutionary state for the last 100,000 years. We are the same as our ancestors, this is all still baked in to who we are. 
+Last time I came here I got rid of my clock all together. I used the sun on my walking path as a sun dial, and the nature of the light in the trees around me as an indicator of the changing seasons, and hence changing dawn and dusk. By ditching the abstract notion of 'time', your mind opens up to the natural elements around you, and you start to navigate your way through the day in all sorts of ways you didn't think were possible before, such as when certain birds start calling out, for example. That might seem like some long-lost language of primordial humanity, but don't forget that human beings have been in their present evolutionary state for the last 100,000 years. We are the same as our ancestors, this is all still baked in to who we are.  
 
 Once you get used to doing that, you find that you can tell the time pretty accurately anyways. Even though I didn't have a clock, I was able to tell the time within around 15 minutes - enough to keep appointments and be where I needed to be. But more importantly, it creates a completely different flow to your life. You move with the world, rather than in some solipsistic Cartesian box. This is the way we used to move as humans. We haven't lost it, it's still within us, we just have to listen again. 
 
-**Keep good company**
 
-Last, and perhaps the most important, is to keep good company. This starts with oneself. 
+**Keep Good Company**
 
 Monastic life isn't quite like anything else you'll encounter. In lay life, you can't choose your family or who you work with, but you can leave and go live by yourself. If you're in a relationship or a friendship and it's not going well, same goes for that too - you have mobility and a large degree of choice in who you interact with, and on what terms. 
 
