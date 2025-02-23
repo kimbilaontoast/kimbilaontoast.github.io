@@ -1,6 +1,6 @@
 ---
-title: "psychedelic orange garfield"
-permalink: "/psychedelic-orange-garfield"
+title: "feely feely"
+permalink: "/feely-feely"
 excerpt: "On some principles of practice."
 date: 2025-02-22
 categories:
