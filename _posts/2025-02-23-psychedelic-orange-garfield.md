@@ -64,7 +64,7 @@ Ok, that's our first palace.
 
 **Our Images**
 
-We're going to memorise the seven awakening factors in Pāli, called 'bojjhaṅga' (pronounced bo-jun-gah). While we're at it, let's memorise the word bojjhaṅga as well. 
+We're going to memorise the seven 'awakening factors' in both Pāli and English. While we're at it, let's memorise the word for 'awakening factors' as well. 
 
 Here's the list:
 
