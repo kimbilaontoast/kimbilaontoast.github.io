@@ -1,7 +1,7 @@
 ---
 title: "psychedelic orange garfield"
 permalink: "/psychedelic-orange-garfield" 
-excerpt: "How to memorise chanting, suttas, and anything in a fun, creative way."
+excerpt: "The Dhamma is a fractal. Here's how to memorise it."
 date: 2025-02-23
 categories:
   - blog 
