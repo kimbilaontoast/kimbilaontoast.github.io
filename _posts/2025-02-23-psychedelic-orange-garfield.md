@@ -73,13 +73,13 @@ Here's the list:
 > dhammavicaya (dum-a-wi-cha-ya) - investigation of Dhamma  
 > viriya (wi-ri-yah) - energy  
 > pīti (pee-tee) - rapture  
-> passaddhi (pa-sah-dee) - tranquillity
+> passaddhi (pa-sah-dee) - tranquillity  
 > samādhi (sa-mah-dee) - stillness  
 > upekkhā (oo-pei-kah) - equanimity  
 
 I've include the phonetic sounds because they help us not only pronounce words correctly, but they can be used to generate images, as we will see shortly. 
 
-There are many ways to generate images. I'm going to show you a simple method called 'association'. You can just stick with association, as once you get familiar with it, it's lots of fun, but if you want to branch out, there are many other ways which you can experiment with [here](https://artofmemory.com/blog/list-of-memory-techniques/#2-mnemonic-image-method).
+There are many ways to generate images. I'm going to show you a simple method called 'association'. You can just stick with association, as once you get familiar with it, it's lots of fun, but if you want to branch out, there are many other ways which you can experiment with [here](https://artofmemory.com/blog/list-of-memory-techniques/#2-mnemonic-image-method). I've used others like the Major system and the PAO method, which are cool too. 
 
 What makes a good image? A good image is one that you will easily remember. In creating images, try and think of something that is - funny, scary, shocking, risqué, taboo, weird, violent, naughty... you get the idea. Make it interesting, and be as creative as you like. The more you do this, the more you'll learn about what sticks in your mind. 
 
@@ -125,21 +125,23 @@ We can see this when we see the liberal use of numbers in the Dhamma. The Buddha
 
 The structure of the canon itself, could also be described as fractal. A fractal is a mathematically generated geometrical shape, like the Mandelbrot set. Most fractals have some sort of self-similarity, which means that you continue to see the same shapes and patterns as you continue to zoom in on any part of the shape. Check out an example [here](https://xaos-project.github.io/). This structure is very different from a Cartesian or linear model, and I suspect that it's very intentional as it dovetails neatly with mnemonics, which can also be used in this way. 
 
-When you build memory palaces you will quickly find that you can link them together in any number of ways. Let's say you make a memory palace called 'eightfold path'. It's a large building that you want to use to remember teachings for each factor of the eightfold path, and it has eight rooms, one for each factor. The first room contains images associated with the first factor of the eightfold path - right view, which is otherwise known as the four noble truths. As you fill out the room with the images, you come to the last section in that room, the fourth noble truth, and realise you are looking at... the eightfold path.  
+When you build memory palaces you will quickly find that you can link them together in any number of ways. Let's say you make a memory palace called 'eightfold path'. It's a large building that you want to use to remember teachings for each factor of the eightfold path, and it has eight rooms, one for each factor. 
 
-Do you see what's going on here? You're in a memory palace which is a building for the eightfold path, in a room for the first factor of the eightfold path, right view, looking at... the eightfold path again. You've zoomed in to a part of the building only to realise that it's recursive, like a fractal. 
+The first room contains images associated with the first factor of the eightfold path - right view, which is otherwise known as the four noble truths. As you fill out the room with the images, you come to the last section in that room, the fourth noble truth, and realise you are looking at... the eightfold path. 
 
-The whole pitaka is structured like this. 
+Do you see what's going on here? You're in a memory palace which is a building for the eightfold path, in a room for the first factor of the eightfold path, right view, looking at... the eightfold path again! You've zoomed in to a part of the building only to realise that it's recursive, like a fractal. 
 
-This means that you can get creative and link different palaces and rooms and images within rooms together not in a linear way, but like a fractal. To use our example above, maybe the last image in the first of our eight rooms of the 'eightfold path' palace, the four truths room, is a doll house with eight rooms, to associate the eightfold path. As you lean over to look into the dollhouse you realise it's a model of the very building you are stnading in, the 'eightfold path' building'. You look into the first room and see yourself looking into a dollhouse. 
+The whole pitaka is structured like this. This means that you can get creative and link different palaces and rooms and images within rooms together not in a linear way, but like a fractal. 
+
+To use our example above, maybe the last image in the first of our eight rooms of the 'eightfold path' palace, the right view / four truths room, is a doll house with eight rooms, to symbolise the eightfold path. As you lean over to look into the dollhouse you realise it's a model of the very building you are standing in, the 'eightfold path' building'. You look into the first room and see yourself looking into a dollhouse.  
 
 Trippy. 
 
-Or maybe you just want to skip to the eighth factor on samādhi and rather than move through the house you're in, you just teleport into the eighth room of the dollhouse in front of you and go from there. 
+Or maybe you just want to skip to the eighth factor on samādhi and rather than move through the house you're in, you just  shrink down, and teleport into the eighth room of the dollhouse right in front of you and go from there. 
 
 The options are endless, and you're only limited by your imagination. This way of learning is way more fun and engaging, and it makes the Dhamma come alive 'cos now you're not only working with how the mind remembers, you're also working with how the Dhamma is structured for you to remember. 
 
-You'll come up with all sorts of new associations through approaching the Dhamma this way, and I can't help but feel that *this is the point* - to expand our mind to see and perceive the Dhamma in new ways. In this way, the way we engage with learning the Dhamma becomes as important as the content of the teachings themselves, and we can explore to our heart's delight. 
+You'll come up with all sorts of new associations through approaching the Dhamma this way, and I can't help but feel that *this is the point* - to expand our mind to see and perceive the Dhamma in new ways. The way we engage with learning the Dhamma becomes as important as the content of the teachings themselves, and we can explore to our heart's delight. 
 
 Have fun ;)
 
