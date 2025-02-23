@@ -73,7 +73,7 @@ Here's the list:
 > dhammavicaya (dum-a-wi-cha-ya) - investigation of Dhamma  
 > viriya (wi-ri-yah) - energy  
 > pīti (pee-tee) - rapture  
-> passaddhi (pa-sah-dee) - tranquillity  
+> passaddha (pa-sah-dah) - tranquillity  
 > samādhi (sa-mah-dee) - stillness  
 > upekkhā (oo-pei-kah) - equanimity  
 
