@@ -11,8 +11,7 @@ tags:
   - sati
 --- 
 
-What's the point of learning something if you can't remember it?   
-If you can't remember something, can you really say that you know it?
+What's the point of learning something if you can't remember it? If you can't remember it, can you really say that you know something?
 
 I'm going to share with you some ways to use mnemonic (memory) techniques to learn chants, suttas, and Buddhist teachings. These memory techniques can actually be used to easily memorise anything, but the real power of these techniques isn't just in the ability to instantly recall whatever you want whenever you want it, or impress your kalyāna mitta by spontaneously rattling off a verse from the Dhammapada. 
 
