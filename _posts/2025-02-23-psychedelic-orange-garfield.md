@@ -133,7 +133,7 @@ Do you see what's going on here? You're in a memory palace which is a building f
 
 The whole pitaka is structured like this. This means that you can get creative and link different palaces and rooms and images within rooms together not in a linear way, but like a fractal. 
 
-To use our example above, maybe the last image in the first of our eight rooms of the 'eightfold path' palace, the right view / four truths room, is a doll house with eight rooms, to symbolise the eightfold path. As you lean over to look into the dollhouse you realise it's a model of the very building you are standing in, the 'eightfold path' building'. You look into the first room and see yourself looking into a dollhouse.  
+To use our example above, maybe the last image in the first of our eight rooms of the 'eightfold path' palace, the right view / four truths room, is a doll house with eight rooms, to symbolise the eightfold path. As you lean over to look into the dollhouse you realise it's a model of the very building you are standing in, the 'eightfold path' building. You look into the first room and see yourself looking into a dollhouse.  
 
 Trippy. 
 
