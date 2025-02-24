@@ -81,9 +81,9 @@ I've include the phonetic sounds because they help us not only pronounce words c
 
 There are many ways to generate images. I'm going to show you a simple method called 'association'. You can just stick with association, as once you get familiar with it, it's lots of fun, but if you want to branch out, there are many other ways which you can experiment with [here](https://artofmemory.com/blog/list-of-memory-techniques/#2-mnemonic-image-method). I've used others like the Major system and the PAO method, which are cool too. 
 
-What makes a good image? A good image is one that you will easily remember. In creating images, try and think of something that is - funny, scary, shocking, risqué, taboo, weird, violent, naughty... you get the idea. Make it interesting, and be as creative as you like. The more you do this, the more you'll learn about what sticks in your mind. 
+What makes a good image? A good image is one that you will easily remember. In creating images, try and think of something that is - funny, scary, shocking, risqué, taboo, weird, violent, naughty, supernatural... you get the idea. Make it interesting, and be as creative as you like. The more you do this, the more you'll learn about what sticks in your mind. 
 
-When we create images we want all our senses to engage with the image. We want to not only imagine what the image looks like, but touch it, hear it, taste it, or smell it. The more senses we use in trying to connect with the object, the more it will sink into our neural network, and the more robust the memory. Use bright colours, strong smells and tastes, distinctive shapes and textures. Play around. 
+When we create images we want all our senses to engage with the image. We want to not only imagine what the image looks like, but touch it, hear it, taste it, or smell it. The more senses we use in trying to connect with the object, the more it will sink into our neural network, and the more robust the memory. Use bright colours, strong smells and tastes, distinctive shapes and textures. Animate your images; make them move and interact with yourself, or the image before and after them. Play around. 
 
 Ok let's create out first image. Let's start with the name for the awakening factors themselves - bojjhaṅga. 
 
