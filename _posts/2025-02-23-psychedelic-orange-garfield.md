@@ -41,7 +41,7 @@ This means that we can remember images, spaces (as in landscapes or rooms), and 
 
 There could be evolutionary reasons for this, such as the need for the human being to be able to recognise landmarks (images) as we walked through a landscape (space) and listened to our environment in order to scan for potential dangers (sounds). Whatever the reasons, this is how the mind is built, and knowing this means we can leverage that aspect of the mind to be able to remember things - we can work with how memory works, rather than against it.  
 
-In order to work with the mind, we use memory techniques. Memory techniques basically work by creating images associated with what you want to remember, and placing them in a space, because as we've seen above, the memory likes images and spaces. All memory techniques basically come down to these two things - generating images, and places those images in a space. 
+In order to work with the memory, we use memory techniques. Memory techniques basically work by creating images associated with what you want to remember, and placing them in a space, because as we've seen above, the memory likes images and spaces. All memory techniques basically come down to these two things - generating images, and places those images in a space. 
 
 When we want to recall a piece of information, the mind will very quickly be able to access the image in the space - think of it as a kind of interior library that you can create in your own mind. 
 
@@ -49,11 +49,14 @@ To walk you through how to do this, I'm going to use a simple example of a Buddh
 
 We're going to learn the seven awakening factors, in both Pāli (the Indo-Aryan language used to preserve the early Buddhist texts) and English. The seven awakening factors are a classic list of qualities that are developed on the path to awakening. If you already know them, pick a small list of something else you want to learn instead.  
 
+
 **Our Palace**
 
-The first thing we need is a space to put our images in. One such space is known as a [memory palace](https://www.youtube.com/watch?v=c4J5ZUzCxZY). A memory palace is essentially a room, or a series of rooms in a house, or a series of buildings with rooms (like your old highschool for example) or a landscape. It's good to use a space you have been to in real life and are somewhat familiar with. 
+Before we get started, one of the most important things to understand in using these techniques is that you don't have to be some creative genius to be able to work with them. All we are really doing here is using existing memories of places, people, and objects that we *already hold in memory*. We associate the images to information that we want to remember, and then we place those images in a sequence thoughout a space as a journey that we can move through. That's at the heart of all memory work. 
 
-The good news is that there are *tons* of these available, because we have been moving in and out of lots of buildings and landscapes all through our life. Anywhere you've visited is a potential palace. You can use other things for palaces too, like your body, or mandalas, or geometrical patterns. There are lots of possibilities.
+The first thing we need is a space to put our images in. One such space is known as a [memory palace](https://www.youtube.com/watch?v=c4J5ZUzCxZY). A memory palace is essentially a room, or a series of rooms in a building, or a landscape. 
+
+The good news is that there are endless amounts of spaces we can use, because we have been moving in and out of lots of buildings and landscapes all through our life. Anywhere you've visited is a potential palace. You can use other things for palaces too, like your body, or mandalas, or geometrical patterns. There are lots of possibilities.
 
 For now, let's just imagine a room. I'll let you choose the room, but if you're stuck, just use the childhood bedroom from earlier. 
 
@@ -78,25 +81,25 @@ Here's the list:
 
 I've include the phonetic sounds because they help us not only pronounce words correctly, but they can be used to generate images, as we will see shortly. 
 
-There are many ways to generate images. I'm going to show you a simple method called 'association'. You can just stick with association, as once you get familiar with it, it's lots of fun, but if you want to branch out, there are many other ways which you can experiment with [here](https://artofmemory.com/blog/list-of-memory-techniques/#2-mnemonic-image-method). I've used others like the Major system and the PAO method, which are cool too. 
+There are many ways to generate images. I'm going to show you a simple method called 'association'. You can just stick with association, as once you get familiar with it, it's lots of fun, but if you want to branch out, there are many other ways which you can experiment with [here](https://artofmemory.com/blog/list-of-memory-techniques/#2-mnemonic-image-method). I've used others like the Major system and the PAO method, which are cool too. I'll show you how to make images shortly.
 
-What makes a good image? A good image is one that you will easily remember. In creating images, try and think of something that is - funny, scary, shocking, risqué, taboo, weird, violent, naughty, supernatural... you get the idea. Make it interesting, and be as creative as you like. The more you do this, the more you'll learn about what sticks in your mind. 
+What makes a good image? A good image is something that we already know from real life, and something that we will remember. When coming up with associative images, try and think of something that is - funny, scary, shocking, risqué, taboo, weird, violent, naughty, supernatural... you get the idea. Make it interesting, and be as creative as you like. The more you do this, the more you'll learn about what sticks in your mind. 
 
-When we create images we want all our senses to engage with the image. We want to not only imagine what the image looks like, but touch it, hear it, taste it, or smell it. The more senses we use in trying to connect with the object, the more it will sink into our neural network, and the more robust the memory. Use bright colours, strong smells and tastes, distinctive shapes and textures. Animate your images; make them move and interact with yourself, or the image before and after them. Play around. 
+When we create images we want all our senses to engage with the image. We want to not only imagine what the image looks like, but touch it, hear it, taste it, or smell it - *feel* it. The more senses we use in trying to connect with the object, the more it will sink into our neural network, and the more robust the memory. Use bright colours, strong smells and tastes, distinctive shapes and textures. Animate your images, connect emotionally to the image and feel what it is like to inhabit it in the first person. Play around.
 
 Ok let's create out first image. Let's start with the name for the awakening factors themselves - bojjhaṅga. 
 
-When I say the word 'bojjhaṅga', the way it sounds, 'bo-jun-gah', reminds me of an African drummer. So I could use an African drummer beating a big drum, one beat for every syllable, chanting the word over and over, 'bo-jun-gah, bo-jun-gah'. He might have colourful African tribal clothing. I can smell his sweat as he's getting worked up drumming. I can imagine his sweat would be salty to taste, and he is slippery to the touch. I could remember bojjhaṅga means 'awakening' in English by having his eyes open wide looking straight at me, like he is wide awake. 
+When I say the word 'bojjhaṅga', the way it sounds, 'bo-jun-gah', reminds me of an African drummer I met at Bondi Beach. So I could use an African drummer beating a big drum, one beat for every syllable, chanting the word over and over, 'bo-jun-gah, bo-jun-gah'. He might have colourful African tribal clothing. I can smell his sweat as he's getting worked up drumming. I can imagine his sweat would be salty to taste, and he is slippery to the touch. I could remember bojjhaṅga means 'awakening' in English by having his eyes open wide looking straight at me, like he is wide awake. 
 
-That's all a bit weird isn't it? Good. The mind remembers weird. These images are like little triggers for the mind to remember, we want them to stick. Place your drummer at the entrance to your room and see him there, almost like he is drumming you into entering into the room with a rolling drum beat. 
+That's all a bit weird isn't it? Good. The mind remembers weird. These images are like little triggers for the mind to remember, we want them to stick. Place the drummer at the entrance to your room and see him there, almost like he is drumming you into entering into the room with a rolling drum beat. 
 
 First word done. 
 
-Let's do one more word, and I'll let you do the rest. Next is sati, pronounced 'sah-tee', which means mindfulness in English. Does any image come to mind? You can use the word itself, sati, which kinda sounds like 'sat', and rhymes with 'cat'. 'Tee' could be a t-shirt, or a cup of tea. Why not both? To remember that sati means 'mindfulness' we could use the image of a brain (or a heart if you associate the mind with the heart). 
+Let's do one more word, and I'll let you do the rest, as really the best images come from *your* memory. Next is sati, pronounced 'sah-tee', which means mindfulness in English. Does any image come to mind? You can use the word itself, sati, which kinda sounds like 'sat', and rhymes with 'cat'. 'Tee' could be a t-shirt, or a cup of tea. Why not both? To remember that sati means 'mindfulness' we could use the image of a brain (or a heart if you associate the mind with the heart). 
 
-Let's make the second image a psychedelic orange Garfield cat wearing a t-shirt with the letter 'T' on the front, holding up a cup of tea. He can have the top of his head cut-off so you can see his brain throbbing. He's sitting on the floor to the left of the door. 
+I love Garfield, so let's make the second image a psychedelic orange Garfield cat wearing a t-shirt with the letter 'T' on the front, holding up a cup of tea. He can have the top of his head cut-off so you can see his brain throbbing. He's sitting on the floor to the left of the door. 
 
-You see how this works? See if you can do the rest and place them around the room. You'll have your own images that you find engaging, and the fun in all this is discovering what you like, and stretching your image-ination. 
+You see how this works? See if you can do the rest and place them around the room. You'll have your own images that you find engaging, and the fun in all this is discovering what you like, and stretching your image-ination.
 
 When you're done, zoom around the room from beginning to end, and say the names in Pāli and English as you go - seeing, feeling, sensing the images as best you can. 
 
@@ -108,7 +111,9 @@ Now, this may all seem like a lot of work. You may even feel a little zapped aft
 
 At the start, this new way of learning may seem clunky and a little awkward, and you may find yourself spending more time than you like getting the hang of it, but that's the same with any new thing that we learn though, no?
 
-The more you do it, the more fluid and seamless you will become. If you persist, it will be very natural to come up with images on the fly and you can apply this to all sorts of areas of your life, with anything you want to remember, whether it's chanting, names of people and their family members, Pāli grammar, whatever. The more you do it, the more you'll amaze yourself with how creative you can be, and you'll learn about your own mind and what sticks in your memory, and why. 
+The best way to get good at this skill is to make it a habit. Carry some alphabetic flash cards with you and when you have a spare moment, whip out a letter and see if you can kinaesthetically recall any people that come to mind, or places for potential palaces that the letter triggers. You'll amaze yourself with how much is stored away in your mind, and you'll soon realise you have an endless supply of associations to work with. I'd recommend making a palace for each letter of the alphabet and then sticking any facts you want to remember about a topic in the palace based on alphabetical order. You now have your basic internal library. You can practice revising the material by using a Leitner box, which is a form of spaced repetition, so that the associations stick in long term memory for good. 
+
+The more you do it, the more fluid and seamless you will become. If you persist, it will be very natural to come up with images on the fly and you can apply this to all sorts of areas of your life, with anything you want to remember, whether it's chanting, names of people and their family members, Pāli grammar, whatever. 
 
 We live in a false economy where we spend time reading stuff, only to forget it, and then having to look it up again, read it, forget it, and so on, never remembering what we are learning. We call this 'convenience' but to me it seems very inconvenient. It's much more efficient to spend a little time creatively remembering something once so you don't have to keep looking it up later. If you put in a little work with memory work, you'll actually save yourself a lot of time, and have a lot of fun doing it too. 
 
