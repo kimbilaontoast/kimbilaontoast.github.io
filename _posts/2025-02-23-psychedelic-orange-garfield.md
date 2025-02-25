@@ -89,9 +89,9 @@ When we create images we want all our senses to engage with the image. We want t
 
 Ok let's create out first image. Let's start with the name for the awakening factors themselves - bojjhaṅga. 
 
-When I say the word 'bojjhaṅga', the way it sounds, 'bo-jun-gah', reminds me of an African drummer I met at Bondi Beach. So I could use an African drummer beating a big drum, one beat for every syllable, chanting the word over and over, 'bo-jun-gah, bo-jun-gah'. He might have colourful African tribal clothing. I can smell his sweat as he's getting worked up drumming. I can imagine his sweat would be salty to taste, and he is slippery to the touch. I could remember bojjhaṅga means 'awakening' in English by having his eyes open wide looking straight at me, like he is wide awake. 
+When I say the word 'bojjhaṅga', the way it sounds, 'bo-jun-gah', reminds me of an African drummer I met at Bondi Beach. So I could use an African drummer beating a big drum, one beat for every syllable, chanting the word over and over, 'bo-jun-gah, bo-jun-gah'. He might have colourful African tribal clothing. I can smell his sweat as he's getting worked up drumming. I can imagine his sweat would be salty to taste, and he is slippery to the touch. I *feel* all this, and enter into what it would be like to be the drummer, drumming that beat. I could remember bojjhaṅga means 'awakening' in English by having his eyes open wide looking straight at me, like he is wide awake. 
 
-That's all a bit weird isn't it? Good. The mind remembers weird. These images are like little triggers for the mind to remember, we want them to stick. Place the drummer at the entrance to your room and see him there, almost like he is drumming you into entering into the room with a rolling drum beat. 
+That's all a bit weird isn't it? Good. The mind remembers weird. Actaully, we are just using our mind in new ways. These images are like little triggers for the mind to remember, we want them to stick. Place the drummer at the entrance to your room and see him there, almost like he is drumming you into entering into the room with a rolling drum beat. 
 
 First word done. 
 
@@ -111,9 +111,9 @@ Now, this may all seem like a lot of work. You may even feel a little zapped aft
 
 At the start, this new way of learning may seem clunky and a little awkward, and you may find yourself spending more time than you like getting the hang of it, but that's the same with any new thing that we learn though, no?
 
-The best way to get good at this skill is to make it a habit. Carry some alphabetic flash cards with you and when you have a spare moment, whip out a letter and see if you can kinaesthetically recall any people that come to mind, or places for potential palaces that the letter triggers. You'll amaze yourself with how much is stored away in your mind, and you'll soon realise you have an endless supply of associations to work with. I'd recommend making a palace for each letter of the alphabet and then sticking any facts you want to remember about a topic in the palace based on alphabetical order. You now have your basic internal library. You can practice revising the material by using a Leitner box, which is a form of spaced repetition, so that the associations stick in long term memory for good. 
+The best way to get good at this skill is to make it a habit. Carry some alphabetic flash cards with you and when you have a spare moment, whip out a letter and see if you can kinaesthetically recall any people that come to mind, or places for potential palaces that the letter triggers. You'll amaze yourself with how much is stored away in your mind, and you'll soon realise you have an endless supply of associations to work with. I'd recommend making a palace for each letter of the alphabet and then sticking any facts you want to remember about a topic in the palace based on alphabetical order. You can organise the topics spatially however you want, by room, or more palaces, it's up to you. You now have your basic internal library. You can practice revising the material by using a Leitner box, which is a form of spaced repetition, so that the associations stick in long term memory for good. 
 
-The more you do it, the more fluid and seamless you will become. If you persist, it will be very natural to come up with images on the fly and you can apply this to all sorts of areas of your life, with anything you want to remember, whether it's chanting, names of people and their family members, Pāli grammar, whatever. 
+The more you do it, the more fluid and seamless you will become. If you persist, it will be very natural to come up with images on the fly and weave them through palaces you already have, and you can apply this to all sorts of areas of your life, with anything you want to remember, whether it's chanting, names of people and their family members, Pāli grammar, whatever. 
 
 We live in a false economy where we spend time reading stuff, only to forget it, and then having to look it up again, read it, forget it, and so on, never remembering what we are learning. We call this 'convenience' but to me it seems very inconvenient. It's much more efficient to spend a little time creatively remembering something once so you don't have to keep looking it up later. If you put in a little work with memory work, you'll actually save yourself a lot of time, and have a lot of fun doing it too. 
 
@@ -127,7 +127,7 @@ When I started to learn more about mnemonics, I was immediately struck by just h
 
 We can see this when we see the liberal use of numbers in the Dhamma. The Buddha makes lists of factors, and uses numbers to organise them. The Buddha also uses striking similes, which are essentially images, to highlight teachings, and which aid in memory. These similes are often associated with stock passages in the canon, which is another layer of embedded association. There is also a lot of repetition in the suttas, which would have been helpful in memorisation. The Pāli language itself is beautifully lyrical and lends well to assimilation and rhyme, and the cadence and rhythm of core passages have a lyrical and almost song-like quality to them, which of course connects to the mind's love of sound.
 
-The structure of the canon itself, could also be described as fractal. A fractal is a mathematically generated geometrical shape, like the Mandelbrot set. Most fractals have some sort of self-similarity, which means that you continue to see the same shapes and patterns as you continue to zoom in on any part of the shape. Check out an example [here](https://xaos-project.github.io/). This structure is very different from a Cartesian or linear model, and I suspect that it's very intentional as it dovetails neatly with mnemonics, which can also be used in this way. 
+The structure of the canon itself, could also be described as fractal. A fractal is a mathematically generated geometrical shape, like the Mandelbrot set. Most fractals have some sort of self-similarity, which means that you continue to see the same shapes and patterns as you continue to zoom in on any part of the shape. Check out an example [here](https://xaos-project.github.io/). This structure is very different from a Cartesian or linear model, and I suspect that it's very intentional the Dhamma is structured this way, as it dovetails neatly with mnemonics, which can also be used in this way. 
 
 When you build memory palaces you will quickly find that you can link them together in any number of ways. Let's say you make a memory palace called 'eightfold path'. It's a large building that you want to use to remember teachings for each factor of the eightfold path, and it has eight rooms, one for each factor. 
 
@@ -147,7 +147,7 @@ The options are endless, and you're only limited by your imagination. This way o
 
 You'll come up with all sorts of new associations through approaching the Dhamma this way, and I can't help but feel that *this is the point* - to expand our mind to see and perceive the Dhamma in new ways. The way we engage with learning the Dhamma becomes as important as the content of the teachings themselves, and we can explore to our heart's delight. 
 
-Have fun ;)
+Have fun :)
 
 - Peace. 
 
