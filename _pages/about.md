@@ -7,8 +7,8 @@ author_profile: true
 
 ### The Short
 
-Kimbila is a Buddhist monk with a focus on meditation and writing.  
-He meditates in a small room that looks out on to a scrubby forest where kangaroos sometimes stare at him through his window as they munch grass.  
+Kimbila is a Buddhist monk with a focus on meditation and writing. He meditates in a small room that looks out on to a scrubby forest where kangaroos sometimes stare at him through his window as they munch grass.  
+
 This is his blog. 
 
 ### The Long
