@@ -28,7 +28,7 @@ This is happiness. It's the path to deeper happiness and contentment as well. It
 
 Weirdly, the less I chase faith, the more it just seems to grow in my heart, and many days I feel like I'm floating through this world, feet barely touching the ground, yet totally embodied. I can see that many around me live their lives a short distance from their bodies, many in their heads, and some disconnected altogether, lost in the flickers of seductive, shimmering opinions. This all seems quite amusing and to be honest, somewhat peurile to me, but I can be with it and be OK most of the time.
 
-This is what is feel like to own one's life, and to have faith in something other than the shallow grave of one's own importance. I refuse to play the ochre-coloured prima donna, the lazy brat, the man-child. I don't believe for a nanosecond those who boast on this path. These people are so far behind they think they're coming first.
+This is what is feel like to own one's life, and to have faith in something other than the shallow grave of one's own importance. I refuse to play the ochre-coloured prima donna, the lazy grifter, the man-child. I don't believe for a nanosecond those who boast on this path. These people are so far behind they think they're coming first.
 
 My knees buckle at the power of the sages and what it implies about this life and what we are here to do, I can't help but bow, and humble myself. The beauty I behold on this path is indescribable at times, and leaves me speechless, for words often seem a coarse second to the Dhamma as it unfolds. You have guides and forces that carry you forward as signals emerge, and the mystery of your existence feels pointed and purposeful in ways you can hear if you choose to be quiet, and listen. 
 
