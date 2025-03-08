@@ -7,7 +7,7 @@ categories:
   - blog 
 tags: 
   - healing
-  - happinesss
+  - happiness
 --- 
 
 The great American playwright David Mamet once said "A happy man has nothing to write." Well, I'm going to try anyway. 
