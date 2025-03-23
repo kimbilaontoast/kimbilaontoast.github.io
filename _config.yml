@@ -10,7 +10,7 @@ email: kimbila@gmx.com
 description: "Kimbila's blog." 
 url: "https://kimbilaontoast.github.io"
 # github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
