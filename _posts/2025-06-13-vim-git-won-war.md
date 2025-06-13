@@ -88,9 +88,11 @@ Collaborative writing often suffers from conflicts when multiple authors or edit
 
 The final piece of the puzzle is hosting. 
 
-Github is a platform that provides free hosting for and access to open-source projects. There is a wonderful venture called [Github Pages](https://pages.github.com/), which allows anyone to publish a website for free, with the source code and content of the website hosted by Github. Gone are the days of having to pay a hosting service for publishing your content - now you can build a little website a publish it, and have it hosted, all for free. 
+Github is a platform that provides free hosting for and access to open-source projects. There is a wonderful venture called [Github Pages](https://pages.github.com/), which allows anyone to publish a website for free, with the source code and content of the website hosted by Github. Gone are the days of having to pay a hosting service for publishing your content - now you can build a little website, publish it, and have it hosted, all for free. 
 
-The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.Github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. It is simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
+The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.Github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. 
+
+It's simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
 
 ---
 
