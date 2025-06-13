@@ -1,6 +1,6 @@
 ---
-title: "vim, Git, and how I won the war"
-permalink: "/vim-Git-and-how-i-won-the-war" 
+title: "vim, git, and how I won the war"
+permalink: "/vim-git-and-how-i-won-the-war" 
 excerpt: "Bro, do you even create?"
 date: 2025-06-13
 categories:
