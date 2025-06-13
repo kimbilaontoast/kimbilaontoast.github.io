@@ -11,7 +11,7 @@ tags:
   - open-source
 --- 
 
-It's been said to me that monk's shouldn't write. Well, I think that's baloney.
+It's been said to me that monks shouldn't write. Well, I think that's baloney.
 
 If writing is in your blood, why not embrace it as part of the spiritual path? It can be an amazing ally. Writing has enabled me to share and commune with people, to clarify my mind, and to inspire myself and others on this journey. 
 
@@ -43,7 +43,7 @@ So what are some advantages to plain text? Here's a few -
 
 ### Search and Access
 
-Plain text is powerful in that you can effortlessly locate information within your document. It's simplicity makes it seamlessly integrate with search tools and software, making it very easy to zoom between passages and locate words or phrases. Plain text is also much more compatible across platforms and devices, working on pretty much any operating system and device, which means you can access it anywhere, on anything. 
+Plain text is powerful in that you can effortlessly locate information within your document. Its simplicity makes it seamlessly integrate with search tools and software, making it very easy to zoom between passages and locate words or phrases. Plain text is also much more compatible across platforms and devices, working on pretty much any operating system and device, which means you can access it anywhere, on anything. 
 
 ### Robust and Portable
 
@@ -57,7 +57,7 @@ There's more to say on plain text, but I'll leave it at that for now. There is a
 
 If you want to venture into slick formatting you can make use of [LaTeX](https://www.latex-project.org) (pronounced 'lah-tek'). This is a more sophisticated markup language that has been traditionally used in scientific and technical writing, but writers make use of it to create amazing, professional looking documents, bibliographies, and so on. It's highly customisable, and once you decide on the formatting, you can simply get on with your writing and let LaTeX do the rest. 
 
-As for the text editor I've chosen, I love [NeoVim](https://neovim.io/). NeoVim has been around for about 10 years, and is a fork of [Vim](https://www.vim.org/), which has been around since the 90s. It's a free and open-source text editor. You can configure NeoVim however you want, and with a few plugins it's a real powerhouse for writing. Some of the functionality I've built into my NeoVim configuration includes powerful searchability, autocompletion for spelling, dictionary and thesaurus options, syntax support for markdown and other languages, Git integration, and very useful user interface tools to help me focus on my writing. It's amazing. There are other tools, but Vim is the best. 
+As for the text editor I've chosen, I love [NeoVim](https://neovim.io/). NeoVim has been around for about 10 years, and is a fork of [Vim](https://www.vim.org/), which has been around since the 90s. It's a free and open-source text editor. You can configure NeoVim however you want, and with a few plugins it's a real powerhouse for writing. Some of the functionality I've built into my NeoVim configuration includes powerful searchability, autocompletion for spelling, dictionary and thesaurus options, syntax support for markdown and other languages, Git integration, and very useful user interface tools to help me focus on my writing. It's amazing.
 
 ---
 
