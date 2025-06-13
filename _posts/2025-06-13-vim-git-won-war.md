@@ -1,6 +1,6 @@
 ---
-title: "vim, git, and how I won the war"
-permalink: "/vim-git-and-how-i-won-the-war" 
+title: "vim, Git, and how I won the war"
+permalink: "/vim-Git-and-how-i-won-the-war" 
 excerpt: "Bro, do you even create?"
 date: 2025-06-13
 categories:
@@ -21,7 +21,7 @@ Abraham Lincoln said if he had an hour to cut down a tree, he would spend the fi
 
 The tools I'll be talking about are a sharp text editor, version control using something called 'Git', and hosting your writing on an open-source platform called Github via Github Pages. 
 
-These tools allow me to quickly create and edit text, save it incrementally with granular control over the changes using git, and then push that writing online, all in one seamless flow. 
+These tools allow me to quickly create and edit text, save it incrementally with granular control over the changes using Git, and then push that writing online, all in one seamless flow. 
 
 Anyone can do this. You don't have to be some tech-wiz to figure it out. If it interests you, or if you know someone that would benefit from it, read on, or share this post. I'm not going to tell you *how* to do it, as there are a huge amount of resources online about that. I'm going to speak about *why* you would consider doing this if you're a writer or creator, and then share links to tools that I've found useful so you can go figure out how to do it yourself. That's the best way, as it's all about creating the right tools for each of us, to empower ourselves so that we can share our unique voice with others. Only we can do that ourselves, not others. 
 
@@ -57,20 +57,22 @@ There's more to say on plain text, but I'll leave it at that for now. There is a
 
 If you want to venture into slick formatting you can make use of [LaTeX](https://www.latex-project.org) (pronounced 'lah-tek'). This is a more sophisticated markup language that has been traditionally used in scientific and technical writing, but writers make use of it to create amazing, professional looking documents, bibliographies, and so on. It's highly customisable, and once you decide on the formatting, you can simply get on with your writing and let LaTeX do the rest. 
 
-As for the text editor I've chosen, I love [NeoVim](https://neovim.io/). NeoVim has been around for about 10 years, and is a fork of [Vim](https://www.vim.org/), which has been around since the 90s. It's a free and open-source text editor. You can configure NeoVim however you want, and with a few plugins it's a real powerhouse for writing. Some of the functionality I've built into my NeoVim configuration includes powerful searchability, autocompletion for spelling, dictionary and thesaurus options, syntax support for markdown and other languages, git integration, and very useful user interface tools to help me focus on my writing. It's amazing. There are other tools, but Vim is the best. 
+As for the text editor I've chosen, I love [NeoVim](https://neovim.io/). NeoVim has been around for about 10 years, and is a fork of [Vim](https://www.vim.org/), which has been around since the 90s. It's a free and open-source text editor. You can configure NeoVim however you want, and with a few plugins it's a real powerhouse for writing. Some of the functionality I've built into my NeoVim configuration includes powerful searchability, autocompletion for spelling, dictionary and thesaurus options, syntax support for markdown and other languages, Git integration, and very useful user interface tools to help me focus on my writing. It's amazing. There are other tools, but Vim is the best. 
 
 ---
 
 ## Git - Version Control
 
-This brings us to version control. Before learning about [Git](https://git-scm.com/), I had no idea what version control was, or that it was even possible. Now I can't do without it.  Git is a [version control system](https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control) which allows writers to track changes, manage revisions, and collaborate with fellow writers with ease. It's kind of like an epic save button - but rather than just saving a file and not being able to see what the changes were, it can track exactly what you have changed - maintaining a granular history of every edit, enabling you to navigate through various iterations of your work. It takes snapshots of your writing, from the entire folder structure, down to changes to single word characters. Git was originally designed for programmers to keep track of code as they collaborated with other programmers, but all writers should be using git, 'cos it's perfect for writers. It's easy to get started wit git - just install it on your device, create your first git repository by initiating git within a folder, commit changes to your work, and then if you want to share it, you can share your git repository with others. It's all learnable here. You can learn the [basics](https://git-scm.com/book/ms/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter) in an hour or two, which is all you need. Here's a little more about why it's so good for writers - 
+This brings us to version control. Before learning about [Git](https://git-scm.com/), I had no idea what version control was, or that it was even possible. Now I can't do without it.  Git is a [version control system](https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control) which allows writers to track changes, manage revisions, and collaborate with fellow writers with ease. It's kind of like an epic save button - but rather than just saving a file and not being able to see what the changes were, it can track exactly what you have changed - maintaining a granular history of every edit, enabling you to navigate through various iterations of your work. It takes snapshots of your writing, from the entire folder structure, down to changes to single word characters. 
+
+Git was originally designed for programmers to keep track of code as they collaborated with other programmers, but all writers should be using Git, 'cos it's perfect for writers. It's easy to get started with Git - just install it on your device, create your first Git repository by initiating Git within a folder, commit changes to your work, and then if you want to share it, you can share your Git repository with others. You can learn the [basics](https://git-scm.com/book/ms/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter) in an hour or two, which is all you need. Here's a little more about why it's so good for writers - 
 
 ### Tracking
 It enables writers to document and review changes systematically, which helps you not only track your work, but helps you understand how your work is evolving. When you start to think of your work in terms of modification, you start to think about your creative process differently, unravelling secrets that I'll let you discover for yourself. 
 
 ### Backup
 
-Because everything is being tracked as you write, there is no such thing as losing text anymore. You can't really accidentally delete anything or make a change you can't undo, as the version control acts like a safety net. You can always go back to an early version and recover what you deleted. 
+Because everything is being tracked as you write, there is no such thing as losing text anymore. You can't really accidentally delete anything or make a change you can't undo, as the version control acts like a safety net. You can always go back to an earlier version and recover what you deleted. 
 
 ### Experimentation
 
@@ -78,7 +80,7 @@ Git has what is known as 'branches'. Think of your work as the trunk of a tree. 
 
 ### Collaboration
 
-Collaborative writing often suffers from conflicts when multiple authors or editors work in writing simultaneously. Git resolves this by letting multiple authors work together and version control their contributions by letting multiple authors merge their ideas and combine edits from different sources, ensuring transparency and a cohesive and unified work flow. Github is a great platform for this, which brings me to the final topic...
+Collaborative writing often suffers from conflicts when multiple authors or editors work on writing simultaneously. Git resolves this by letting multiple authors work together and version control their contributions by letting multiple authors merge their ideas and combine edits from different sources, ensuring transparency and a cohesive and unified work flow. Github is a great platform for this, which brings me to the final topic...
 
 ---
 
@@ -88,7 +90,7 @@ The final piece of the puzzle is hosting.
 
 Github is a platform that provides free hosting for and access to open-source projects. There is a wonderful venture called [Github Pages](https://pages.github.com/), which allows anyone to publish a website for free, with the source code and content of the website hosted by Github. Gone are the days of having to pay a hosting service for publishing your content - now you can build a little website a publish it, and have it hosted, all for free. 
 
-The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose from online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. It is simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation and you'll be able to do it. 
+The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose from online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.Github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. It is simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
 
 ---
 
