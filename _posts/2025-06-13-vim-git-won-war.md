@@ -23,7 +23,7 @@ The tools I'll be talking about are a sharp text editor, version control using s
 
 These tools allow me to quickly create and edit text, save it incrementally with granular control over the changes using Git, and then push that writing online, all in one seamless flow. 
 
-Anyone can do this. You don't have to be some tech-wiz to figure it out. If it interests you, or if you know someone that would benefit from it, read on, or share this post. I'm not going to tell you *how* to do it, as there are a huge amount of resources online about that. I'm going to speak about *why* you would consider doing this if you're a writer or creator, and then share links to tools that I've found useful so you can go figure out how to do it yourself. 
+Anyone can do this. You don't have to be some tech-wiz to figure it out. If it interests you, or if you know someone that would benefit from it, read on, or share this post. I'm not going to tell you *how* to do it, as there are a huge amount of resources online about that. I'm going to speak about *why* you would consider doing this if you're a writer or creator, and then share links to tools that I've found useful so you can go figure out how to do it yourself. This is the best way, as learning how to work with these tools will teach you about the tools themselves and how you want to cater them to suit yourself.
 
 ---
 
