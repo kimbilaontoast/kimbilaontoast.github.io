@@ -23,7 +23,7 @@ The tools I'll be talking about are a sharp text editor, version control using s
 
 These tools allow me to quickly create and edit text, save it incrementally with granular control over the changes using Git, and then push that writing online, all in one seamless flow. 
 
-Anyone can do this. You don't have to be some tech-wiz to figure it out. If it interests you, or if you know someone that would benefit from it, read on, or share this post. I'm not going to tell you *how* to do it, as there are a huge amount of resources online about that. I'm going to speak about *why* you would consider doing this if you're a writer or creator, and then share links to tools that I've found useful so you can go figure out how to do it yourself. That's the best way, as it's all about creating the right tools for each of us, to empower ourselves so that we can share our unique voice with others. Only we can do that ourselves, not others. 
+Anyone can do this. You don't have to be some tech-wiz to figure it out. If it interests you, or if you know someone that would benefit from it, read on, or share this post. I'm not going to tell you *how* to do it, as there are a huge amount of resources online about that. I'm going to speak about *why* you would consider doing this if you're a writer or creator, and then share links to tools that I've found useful so you can go figure out how to do it yourself. 
 
 ---
 
@@ -76,7 +76,7 @@ Because everything is being tracked as you write, there is no such thing as losi
 
 ### Experimentation
 
-Git has what is known as 'branches'. Think of your work as the trunk of a tree. If you want to 'go out on a limb' and develop a part of your work in a certain way, you can create a 'branch' and create the work there, and then over time see if it fits back into what you are writing. If it does, you can merge that branch back into the main body of the work. This allows writers to create divergent versions of their work for experimenting and exploring without altering the main body of the work, and it can be useful for a whole host of things such as story structure, alternative narrative, structural changes, and so on. 
+Git has what is known as 'branches'. Think of your work as the trunk of a tree. If you want to 'go out on a limb' and develop a part of your work in a certain way, you can create a 'branch' and create the work there, and then over time see if it fits back into what you're writing. If it does, you can merge that branch back into the main body of the work. This allows writers to create divergent versions of their work for experimenting and exploring without altering the main body of the work, and it can be useful for a whole host of things such as story structure, alternative narratives, structural changes, and so on. 
 
 ### Collaboration
 
@@ -90,7 +90,7 @@ The final piece of the puzzle is hosting.
 
 Github is a platform that provides free hosting for and access to open-source projects. There is a wonderful venture called [Github Pages](https://pages.github.com/), which allows anyone to publish a website for free, with the source code and content of the website hosted by Github. Gone are the days of having to pay a hosting service for publishing your content - now you can build a little website a publish it, and have it hosted, all for free. 
 
-The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose from online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.Github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. It is simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
+The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.Github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. It is simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
 
 ---
 
