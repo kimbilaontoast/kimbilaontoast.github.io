@@ -1,7 +1,7 @@
 ---
 title: "silent takeover"
 permalink: "/silent-takeover" 
-excerpt: ""
+excerpt: "Let me tell you the story of what happens when the healed empath meets a narcissist, and decides to stop playing nice."
 date: 2025-06-15
 categories:
   - blog 
@@ -35,11 +35,11 @@ This new-found vision doesn't just bring clarity, it brings fire - because once 
 
 ---
 
-This is the beginning of the shift between themselves and the bullies and around them. For so long they have fawned and shrunken themselves in the shadow of these people, diminishing themselves and their light in the darkness of those they thought were tyrants, but had simply counted on an illusion of power. Now the tables have turned. This is the beginning of the end for the narcissist. 
+This is the beginning of the shift between themselves and the bullies around them. For so long they have fawned and shrunken themselves in the shadow of these people, cowering to those they thought were tyrants, but had simply counted on an illusion of power. Now the tables have turned. This is the beginning of the end for the narcissist. 
 
-It's not just with narcissists either. This new awareness and open vision the empath feels casts light on all areas of their life; from friends, family, and spiritual companions, to teachers and guides. No-one is exempt from their new ability to draw inference and connection, seeing the patterns in the relational fields around them, and seeing that they were never too sensitive, only surrounded by those that often didn't appreciate their gift. They begin to shift focus, they begin to re-evaluate who they spend their time with, and why. Their whole life quickly falls into a new alignment guided strong, clear values. They are entering the real world, for the first time, coming into their body, becoming alive, and they know what that means now.
+It's not just with narcissists either. This new awareness and open vision the empath feels casts light on all areas of their life; from friends, family, and spiritual companions, to teachers and guides. No-one is exempt from their new ability to draw inference and connection, seeing the patterns in the relational fields around them, and seeing that they were never too sensitive, only surrounded by those that often didn't appreciate their gift. They begin to shift focus, they begin to re-evaluate who they spend their time with, and why. Their whole life quickly falls into a new alignment guided by strong, clear values. They are entering the real world, for the first time, coming into their body, becoming alive, and they know what that means now.
 
-The narcissist sees this shift. They hate it. They hate it because the person who they loved kicking around is no longer backing down, no longer apologising for things they didn't do wrong. They are aloof, cold, distant, and all the buttons that the narcissist used to push don't work anymore. They are losing control and they feel it; they can't control someone who is no longer confused. They can't manipulate someone who can see exactly what they are doing, and who knows all the hands they play. 
+The narcissist sees this shift. They hate it. They hate it because the person who they loved kicking around is no longer backing down, no longer apologising for things they didn't do wrong. They are aloof, cold, distant, and all the buttons that the narcissist used to push don't work anymore. They are losing control and they feel it; they can't control someone who is no longer confused. They can't manipulate someone who can see exactly what they are doing. 
 
 The empath starts smiling when they used to wince. They remain calm when they used to become affected, they stay silent when they used to argue or ignore the narcissist when they used to become upset. This is terrifying for the narcissist. They double down, and push harder, vying for reactions in ever desperate spirals, because they want access, they need it, they need to feel like they can mould and shape and play with their usual puppet, this is all they have in their puerile little lives.
 
@@ -49,7 +49,7 @@ Narcissists need a constant supply of validation and admiration; their inflated 
 
 This is when you become untouchable. You start winning the war effortlessly, because you see there is no war to win. The war is a chimera in the mind of an infant, projected onto the world and counting on confusion, designed only to deceive to receive worship. It's a sleight of hand, and once the trick is seen, like a stage performer who messes up the act, the magician loses all his magic, and becomes a mockery of himself. 
 
-You're not responding to their dysfunction anymore. It's boring. You're protecting your field and only letting those who deserve your gifts into your space. Boundaries create space, and narcissists can't survive in space. Your silence, your confident withdrawal, your peace, starts to speak than their tantrums. 
+You're not responding to their dysfunction anymore. It's boring. You're protecting your field and only letting those who deserve your gifts into your space. Boundaries create space, and narcissists can't survive in space. Your silence, your confident withdrawal, your peace, starts to speak louder than their tantrums. 
 
 The people around you know it too. They see you are not only unaffected, but dangerous, and not to be messed with. They see that for the immature and volatile people around you to unravel, you don't need to do anything, you don't need to hurt them, because that's their game, and you're simply starving them of the food they need to survive, because you're no longer on the menu. You no longer have to weather the storm, because you become the storm. This starts to inspire others, they want the same protection. 
 
