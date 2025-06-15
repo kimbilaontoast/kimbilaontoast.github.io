@@ -92,7 +92,7 @@ Github is a platform that provides free hosting for and access to open-source pr
 
 The good news with this is that you don't have to learn how to code to build a blog or whatever. There are many themes you can choose online where very generous developers share themes for websites that they maintain and let you use. This is how this blog was built. I used a template called 'Minimal Mistakes' which you can find [here](https://mmistakes.Github.io/minimal-mistakes/). They have a great starter pack which you can populate with your content, upload to Github, and viola, you have your own blog or writing platform in no time. 
 
-It's simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
+It is simply amazing that we can now do this so easily. Yes, it requires a little know-how, but it's not that hard, really. Github has excellent documentation by which to learn about Github Pages, as does the theme I've linked. Read the documentation, follow a few rabbit holes, and you'll be able to do it. 
 
 ---
 
