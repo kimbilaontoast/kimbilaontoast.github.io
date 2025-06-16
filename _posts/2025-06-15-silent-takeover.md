@@ -12,7 +12,6 @@ tags:
   - narcissism
 --- 
 
-
 You've been told your whole life that sensitivity is weakness. You've been told that the thing that you feel when you walk into a room and can instantly and instinctively know exactly where people are at, reading all their beauty and truth and lies between the lines in their faces and the folds in their bodies - is a curse. 
 
 But what happens when you start to wake up and heal yourself as an empath? And what happens when a healed empath meets a narcissist? 
