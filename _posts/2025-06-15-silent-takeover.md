@@ -50,7 +50,7 @@ This is when you become untouchable. You start winning the war effortlessly, bec
 
 You're not responding to their dysfunction anymore. It's boring. You're protecting your field and only letting those who deserve your gifts into your space. Boundaries create space, and narcissists can't survive in space. Your silence, your confident withdrawal, your peace, starts to speak louder than their tantrums. 
 
-The people around you know it too. They see you are not only unaffected, but dangerous, and not to be messed with. They see that for the immature and volatile people around you to unravel, you don't need to do anything. You don't need to hurt them, because that's their game; you're simply starving them of the food they need to survive because you're no longer on the menu. You no longer have to weather the storm - you are the storm. This starts to inspire others, they want the same protection. 
+The people around you know it too. They see you are not only unaffected, but dangerous, and not to be messed with. They see that for the immature and volatile people around you to unravel, you don't need to do anything. You don't need to hurt them, because that's their game; you're simply starving them of the food they need to survive because you're no longer on the menu. You no longer have to weather the storm - you are the eye in the centre. This starts to inspire others, they want the same protection. 
 
 ---
 
