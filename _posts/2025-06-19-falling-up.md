@@ -31,7 +31,7 @@ If one finds oneself in moments of quiet desperation, one must know that we choo
 
 It doesn't matter if I don't make it. I need to try. I will rise each day, grateful for the challenge. There are no guarantees that any of this is real. All the bravado around me is just that, empty words, the prattle of people that need it, to soothe their fears. It's enough to take stock of the way oneself and commit to walking it, alone if need be, but likely with a few friends along the way. 
 
-The way forward - inward. It's time to become your own man and make this path into the way of life that you came here for. Put down everything else and make it yours. Commit to this path and bring it into your heart and let the softer aspects your your nature sing. 
+The way forward - inward. It's time to become your own man and make this path into the way of life that you came here for. Put down everything else and make it yours. Commit to this path and bring it into your heart and let the softer aspects of your nature sing. 
 
 It's time. 
 
