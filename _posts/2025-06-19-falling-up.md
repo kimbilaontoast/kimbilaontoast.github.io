@@ -1,7 +1,7 @@
 --- 
-title: "falling-up"
+title: "falling up"
 permalink: "/falling-up" 
-excerpt: ""
+excerpt: "Just a rant. I do that occasionally."
 date: 2025-06-19
 categories:
   - blog
