@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Who is Kimbila?"
+title: ""
 classes: # wide
 author_profile: true
 ---
