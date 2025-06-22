@@ -8,10 +8,9 @@ author_profile: true
 ### The Short
 
 Kimbila is a Buddhist monk with a focus on meditation and writing. He meditates in a small room that looks out on to a scrubby forest where kangaroos sometimes stare at him through his window as they munch grass.  
-
 This is his blog. 
 
-### The Long
+### Long
 
 I was born in Perth, Australia. When I was little my family moved up north to a wild region called the Kimberley. The Kimberley is about three times the size of England, except that no-one lives there.
 
