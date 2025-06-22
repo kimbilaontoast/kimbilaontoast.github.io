@@ -6,7 +6,7 @@ date: 2023-09-26
 categories:
   - blog 
 tags: 
-  - kalyāna mitta
+  - kalyāna mitta (spiritual friendship)
 --- 
 
 I have a confession to make. My name isn't Kimbila.
