@@ -71,6 +71,20 @@ One thing I learnt from my teacher Ajahn Brahm is that meditation is a 'feely fe
 
 I could go on all day about mettā, but it's best to just try it. I'd recommend looking [here](https://discourse.suttacentral.net/t/bhante-sujato-metta-meditation-retreat-2011/8429).
 
+**Go Analog**
+
+One of the best choices I've made since stepping into monastic life is to let go of all digital devices. 
+
+When I first came to the monastery I had a phone and a laptop. Initially, I sent my laptop away to my Mum, then asked for it back. It was only after I had done this back and forth sending it away and asking for it back thing another four times in 12 months that I realised that maybe, just maybe, I might have a little addiction to technology. So the last time I sent it away, I never asked for it back again. 
+
+Your phone is eating your brain. No matter how much you think you're in control of your usage of these things, the billion dollar industries and all the well-studied and endlessly-funded psychological warfare they use to keep you hooked in, are, unfortunately, far smarter than you'll ever be. So don't be naive -  you're an addict and it's much more than you realise or care to admit. 
+
+Everyone has to come to their own choices with this, but for me, the only option was to go analog and get rid of my devices altogether. It wasn't easy mind you, I still have my days where I feel like a crack addict needing his fix of just something (anything!) to watch, or read, or consume. 
+
+The more time passes though, the more I'm so grateful for not being plugged into the matrix. In my little hut I have a book of suttas, and a little Leitner box with cards for memorising stuff I find inspirational, and that's it. If I wanna study, I go to the library and use a computer there, but my hut is my silent space, and no digital device is welcome. 
+
+Try it. 
+
 **Ditch the Routine**
 
 I've never been able to keep a routine anyway, so not having one was pretty easy. 
