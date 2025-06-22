@@ -6,7 +6,7 @@ date: 2025-02-22
 categories:
   - blog 
 tags: 
-  - practice
+    - kalyāna mitta (spiritual friendship)
 --- 
 
 Hi. 

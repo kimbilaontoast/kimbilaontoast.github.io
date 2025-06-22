@@ -8,7 +8,7 @@ categories:
 tags: 
   - psychology
   - healing
-  - trauma
+  - trauma-work
   - narcissism
 --- 
 

@@ -6,9 +6,9 @@ date: 2025-02-23
 categories:
   - blog 
 tags: 
-  - mnemonics
-  - memory work
-  - sati
+  - mnemonics (memory work)
+  - sati (mindfulness)
+  - creativity
 --- 
 
 What's the point of learning something if you can't remember it? If you can't remember it, can you really say that you know something?

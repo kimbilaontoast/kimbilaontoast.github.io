@@ -7,7 +7,6 @@ categories:
   - blog 
 tags: 
   - creativity
-  - writing
   - open-source
 --- 
 
