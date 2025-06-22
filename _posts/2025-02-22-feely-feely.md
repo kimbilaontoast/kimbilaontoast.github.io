@@ -23,11 +23,13 @@ The first one is service.
 
 When you start reflecting that you're doing all this for others, the whole game of monastic life really changes. The activities you do everyday, the tasks and duties you are assigned, become meaningful inasmuch as they are for the people around you - the community that lives with you, and the generous people who visit and support you every day. 
 
-Doing service for others, and not yourself, helps you get over the self-interest which is blocking your growth and practice; the behaviours which see you chasing the things you like, and avoiding the things you don't want to do, which only ever cultivates more preferences, more self. 
+Doing service for others helps you get over the self-interest which is blocking your growth and practice - the behaviours which see you chasing the things you like, and avoiding the things you don't want to do - which only ever cultivates more preferences, and hence more self. 
 
-I see lots of people come to the monastery to have an easy life - thinking they can cheat the system, they want to kick back and enjoy all the fruits of other people's efforts while contributing very little themselves. This is usually justified with sentiments like: 'the real work is the meditation'. But there's more to it than that. 
+I see lots of people come to the monastery to have an easy life. Thinking they can cheat the system, they want to kick back and enjoy all the fruits of other people's efforts while contributing very little themselves. This is usually justified with sentiments like: 'the real work is the meditation'. But there's more to it than that. 
 
-The beautiful thing about monastic life, if you choose to embrace it and see it as a valuable object lesson in your growth, is that many of the choices you used to have are taken away. In the form of work, this means that on any given day I have no idea who I am going to work with, or what I am going to do. Today I might be weeding with a good mate, tomorrow, cleaning a toilet with someone I dislike. The point is that it doesn't matter what you are doing; what matters is the attitude you bring to the work. Lots of people want to craft a little corner for themselves in monastic life, but one must be wary of creating these little nests of definition as they can be traps that limit our capacity to create a flexible and dynamic mind - and that kind of mind is much more valuable for your meditation anyways. 
+The beautiful thing about monastic life, if you choose to embrace it and see it as a valuable object lesson in your growth, is that many of the choices you used to have are taken away. In the form of work, this means that on any given day I have no idea who I am going to work with, or what I am going to do. Today I might be weeding with a good mate, tomorrow, cleaning a toilet with someone I dislike. The point is that it doesn't matter what you are doing; what matters is the attitude you bring to the work. 
+
+Lots of people want to craft a little corner for themselves in monastic life, but one must be wary of creating these little nests of definition as they can be traps that limit our capacity to create a flexible and dynamic mind - and that kind of mind is much more valuable for your meditation anyways. 
 
 There is no separation between the mind you cultivate in the work you do, and the mind that sits on the mat to become still to go within. It's the same mind. If you can clean a toilet and smile, with the reflection, 'May the next person that sees this toilet notice how clean it is, and may that brighten their mind,' then you're exactly where you need to be.  
 
@@ -41,7 +43,7 @@ As great as monastic life is, and as much as I wouldn't swap it for the world, a
 
 I'd rather just be real. 
 
-There are times when you just need to hold your heart. I often find myself just lying on my bed and doing this (often 'cos when it's hard this is probably the only thing I can manage to do). I breathe and tell myself it's going to be OK, even though I have no idea if that's true. I try and be kind to myself and remind myself that I'm still on the path, that these chimeras of the past that haunt me will fade, and that [insert corny life affirmation here]. 
+There are times when you just need to hold your heart. I often find myself just lying on my bed and doing this (often 'cos when it's hard this is probably the only thing I can manage to do). I breathe and tell myself it's going to be OK, even though I have no idea if that's true. I try and be kind to myself and remind myself that I'm still on the path, that these memories of the past that haunt me will fade, and that [insert corny life affirmation here]. 
 
 It does help though. Just don't fall into the trap of wanting to leave, thinking that you can't do it, that you're not good enough to practice, that who the hell are you to even try and get out of this mess, that blah blah blah - all those lies that Māra whispers to you when you're down, 'cos that's the kind of guy he is. 
 
@@ -81,7 +83,7 @@ Your phone is eating your brain. No matter how much you think you're in control 
 
 Everyone has to come to their own choices with this, but for me, the only option was to go analog and get rid of my devices altogether. It wasn't easy mind you, I still have my days where I feel like a crack addict needing his fix of just something (anything!) to watch, or read, or consume. 
 
-The more time passes though, the more I'm so grateful for not being plugged into the matrix. In my little hut I have a book of suttas, and a little Leitner box with cards for memorising stuff I find inspirational, and that's it. If I wanna study, I go to the library and use a computer there, but my hut is my silent space, and no digital device is welcome. 
+The more time passes though, the more I'm so grateful for not being plugged into the matrix. In my little hut I have a book of suttas, and a little Leitner box with cards for memorising stuff I find inspirational, some paper and pens, and that's it. If I wanna study, I go to the library and use a computer there, but my hut is my silent space, and no digital device is welcome. 
 
 Try it. 
 
@@ -91,11 +93,13 @@ I've never been able to keep a routine anyway, so not having one was pretty easy
 
 There's something cool that happens when you just decide to live in the present moment as much as possible. You start to listen to what you need and follow that compass, instead of being some Buddha-boot-camp drill-sergeant ordering yourself around all the time, or setting alarms every other hour and treating your waking hours like you're cooking a turkey or something. 
 
-Time is control. It's the currency of control freaks. Other than being somewhere essential, like an appointment or a work meeting, does knowing the time (or the temperature or whatever) really add anything to your experience? 
+Time is control. It's the currency of control freaks. Other than being somewhere essential, like an appointment or a work meeting - does knowing the time (or the temperature or whatever) really add anything to your experience? 
 
-Last time I came here I got rid of my clock all together. I used the sun on my walking path as a sun dial, and the nature of the light in the trees around me as an indicator of the changing seasons, and hence changing dawn and dusk. By ditching the abstract notion of 'time', your mind opens up to the natural elements around you, and you start to navigate your way through the day in all sorts of ways you didn't think were possible before, such as when certain birds start calling out, for example. That might seem like some long-lost language of primordial humanity, but don't forget that human beings have been in their present evolutionary state for the last 100,000 years. We are the same as our ancestors, this is all still baked in to who we are.  
+I use the sun on my walking path as a sun dial, and the nature of the light in the trees around me as an indicator of the changing seasons, and hence changing dawn and dusk. By ditching the abstract notion of 'time', your mind opens up to the natural elements around you, and you start to navigate your way through the day in all sorts of ways you didn't think were possible before, such as when certain birds start calling out, for example. 
 
-Once you get used to doing that, you find that you can tell the time pretty accurately anyways. Even though I didn't have a clock, I was able to tell the time within around 15 minutes - enough to keep appointments and be where I needed to be. But more importantly, it creates a completely different flow to your life. You move with the world, rather than in some solipsistic Cartesian box. This is the way we used to move as humans. We haven't lost it, it's still within us, we just have to listen again. 
+Once you get used to doing that, you find that you can tell the time pretty accurately anyways. I have a clock but I've blacked out the time and I only use it for alarms. I'm usually able to tell the time within about 15 minutes without it anyways which is enough to keep appointments and be where I need to be. 
+
+More importantly though, ditching time creates a completely different flow to your life. You move with the world, rather than in some solipsistic Cartesian box. This is the way we used to move as humans. That might seem like some long-lost language of primordial humanity, but don't forget that human beings have been in their present evolutionary state for the last 100,000 years. We are the same as our ancestors, this is all still baked in to who we are, we just have to listen again. 
 
 
 **Keep Good Company**
