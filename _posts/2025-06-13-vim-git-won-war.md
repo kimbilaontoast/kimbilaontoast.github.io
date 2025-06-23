@@ -28,7 +28,7 @@ Anyone can do this. You don't have to be some tech-wiz to figure it out. If it i
 
 ## Text 
 
-The first thing to talk about for writing is text itself. 
+The first thing to talk about is text itself. 
 
 Text - such a simple thing - words on a page or screen. But how do we do it well?
 
