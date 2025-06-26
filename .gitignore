@@ -1,6 +1,25 @@
-# Vim
+
+### Vim ###
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
 *~
-*.sw[p_]
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+
 
 # Ruby Gem
 *.gem
