@@ -28,7 +28,7 @@ Then something clicks in your life. You start waking up. You get some therapy, h
 
 The shady people in your life, the narcissists and the abusers, who have been thriving on your fog of confusion, start to notice a shift, as suddenly you see with a stark and all at once staggering clarity, the rules of the game. 
 
-You stop blaming yourself for the abusive behaviour of others. You stop punishing yourself at not being able to make peace with people that have no interest in cultivating it. Words start coming out of your mouth that up until now you have been shy to speak, and now you say them with grounded clarity and conviction. Words like 'no', 'toxic' and 'boundaries'. 
+You stop blaming yourself for the abusive behaviour of others. You stop punishing yourself at not being able to make peace with people that have no interest in cultivating it. Words start coming out of your mouth that up until now you have been shy to speak, and now you say them with grounded clarity and conviction. Words like 'no', 'toxic', and 'boundaries'. 
 
 This new-found vision doesn't just bring clarity, it brings fire - because once the empath starts to wake up, once they start to see the pattern, they stop blaming themselves and making excuses for the narcissist's behaviour. They have cracked the code of the game, and there is no going back from that insight - they stop focussing on what is wrong with them, and start seeing there never was anything to be ashamed of, noticing instead what is false about the dynamic of that dance they are in with the people around them that wish them harm. 
 
