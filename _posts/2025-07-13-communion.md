@@ -13,7 +13,7 @@ People often ask me what I do as a monk.
 
 Monk life is pretty simple, there's not a lot to it really. I'll tell you what I do each day, but also the way in which I try do to it, which is more important.
 
-Each day I attempt tp wake up at 4am at the latest. This is a hit an miss affair, but I am getting better at it. I'm not exactly a morning person, so waking up in general can be a fairly monumental affair. If I do this part well, the rest of the day tends to flow well, so I try and get the waking up thing right.
+Each day I attempt to wake up at 4am at the latest. This is a hit an miss affair, but I am getting better at it. I'm not exactly a morning person, so waking up in general can be a fairly monumental affair. If I do this part well, the rest of the day tends to flow well, so I try and get the waking up thing right.
 
 When I wake up, I have been told that I am meant to flood my eyes with light, as this will help the circadian rhythms kick in and let my body know that's sleepy time is over and it's time to start the day. So I do this. 
 
@@ -35,7 +35,7 @@ Once the meal is over, we basically have the rest of the day to ourselves.
 
 After the meal I usually do a bit of walking meditation and some more recitation, as I can't really do sitting meditation right after the meal, as the body is still in the initial stages of digesting the food. I try and marshal my energies towards productive activities during this time, maybe doing a little light study and reading in the afternoon. 
 
-Once the body is lighter, I start meditation again, doing alternate walking and sitting meditation. I usually do this until about 6pm, and then break for optional teatime, either having a small break with some hot water at my kuti where I often find myself just absorbing the evening air and the changing light in the forest, listening to the sound of the forest animals and insects as the forest loses it's color and gradually dims to nightfall; either this, or I meet up with the monks in the dānasala for light tea. 
+Once the body is lighter, I start meditation again, doing alternate walking and sitting meditation. I usually do this until about 6pm, and then break for optional teatime, either having a small break with some hot water at my kuti where I often find myself just absorbing the evening air and the changing light in the forest, listening to the sound of the forest animals and insects as the forest loses it's colour and gradually dims to nightfall; either this, or I meet up with the monks in the dānasala for light tea. 
 
 Night time is my best time, and so I usually try and capitalise on this time for meditation. I find the early to late evening the best time for sitting, and so I'll usually sit more that walk. 
 
@@ -45,7 +45,7 @@ I'm usually in bed late evening, and then up again early for the next day.
 
 This is not all set in stone of course. Something that I have learnt to value since coming here is letting the state of the mind determine what I need to do. If the mind is restless, I do activities that calm and settle the mind, and if it's lazy, I wake it up with activities that I know energise me. 
 
-This is the only barometer I use really, and it proves very useful, as you get to learn what works for you, and develop your own flexible way of practicing with the mind. Sure, I have a rough pattern that I tend to follow each day, but that's because the circadian rhythms of the body and mind usually follow that kind of shape. If they don't, I don't hold onto a rigid way of doing things, as that just prohibits listening to oneself. 
+This is the only barometer I use really, and it proves very useful, as you get to learn what works for you, and develop your own flexible way of practising with the mind. Sure, I have a rough pattern that I tend to follow each day, but that's because the circadian rhythms of the body and mind usually follow that kind of shape. If they don't, I don't hold onto a rigid way of doing things, as that just prohibits listening to oneself. 
 
 It's listening to oneself - like, really listening - which I'm finding key. It sounds easy, but it requires honesty with oneself. If you are restless, you have to be honest about that, and work with it, rather than spinning around in it and saying, "I'll just finish this off first..." So it requires a certain degree of diligence, but it's how I'm choosing to train, and the good thing about this way of practice is that when you are doing it, you know it, and when you aren't, you know that too. When I find myself bouncing off myself and wanting to waste time or mess around, I know that too, and I watch it, trying to examine what it is that I am resisting, what story I am telling myself that pulls me away from the task I know is more to the point.  
 
