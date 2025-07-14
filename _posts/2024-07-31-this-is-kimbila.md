@@ -7,6 +7,7 @@ categories:
   - blog 
 tags: 
   - stories
+  - journal
 --- 
 
 I'm writing this after a very long hiatus of not publishing on this blog. I'll be remedying that moving forward with more regular posts.
