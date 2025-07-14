@@ -15,7 +15,7 @@ You just have to do it.
 
 Pull back from the people around you and do the practice. No more sensuality, no more self-sabotaging, it's time to walk this path to the fullest. 
 
-You know your own mind and what it's getting up to. You know what it's doing at all times, and if you're honest, the beginning and the end of the path ends there, right in that spot, with the awareness of what it's getting up to. Everything flows from satisampajañña.
+You know your own mind and what it's getting up to. You know what it's doing at all times, and if you're honest, the beginning and the end of the path ends here, right in this spot. Everything flows from satisampajañña.
 
 If the people around you aren't on your level, simply walk away and go back to your kuti and leave it all alone. Don't worry about others, about the practice of others, about what they think, what they say, what they do. It's irrelevant. Do your practice; walk, sit, and be with the Dhamma and the Vinaya - get clear.  
     
