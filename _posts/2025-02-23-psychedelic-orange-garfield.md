@@ -87,11 +87,11 @@ What makes a good image? A good image is something that we already know from rea
 
 When we create images we want all our senses to engage with the image. We want to not only imagine what the image looks like, but touch it, hear it, taste it, or smell it - *feel* it. The more senses we use in trying to connect with the object, the more it will sink into our neural network, and the more robust the memory. Use bright colours, strong smells and tastes, distinctive shapes and textures. Animate your images, connect emotionally to the image and feel what it is like to inhabit it in the first person. Play around.
 
-Ok let's create out first image. Let's start with the name for the awakening factors themselves - bojjhaṅga. 
+OK, let's create out first image. Let's start with the name for the awakening factors themselves - bojjhaṅga. 
 
 When I say the word 'bojjhaṅga', the way it sounds, 'bo-jun-gah', reminds me of an African drummer I met at Bondi Beach. So I could use an African drummer beating a big drum, one beat for every syllable, chanting the word over and over, 'bo-jun-gah, bo-jun-gah'. He might have colourful African tribal clothing. I can smell his sweat as he's getting worked up drumming. I can imagine his sweat would be salty to taste, and he is slippery to the touch. I *feel* all this, and enter into what it would be like to be the drummer, drumming that beat. I could remember bojjhaṅga means 'awakening' in English by having his eyes open wide looking straight at me, like he is wide awake. 
 
-That's all a bit weird isn't it? Good. The mind remembers weird. Actaully, we are just using our mind in new ways. These images are like little triggers for the mind to remember, we want them to stick. Place the drummer at the entrance to your room and see him there, almost like he is drumming you into entering into the room with a rolling drum beat. 
+That's all a bit weird isn't it? Good. The mind remembers weird. Actually, we are just using our mind in new ways. These images are like little triggers for the mind to remember, we want them to stick. Place the drummer at the entrance to your room and see him there, almost like he is drumming you into entering into the room with a rolling drum beat. 
 
 First word done. 
 
