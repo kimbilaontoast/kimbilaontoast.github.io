@@ -36,7 +36,7 @@ After the meal I usually do a bit of walking meditation and some more recitation
 
 Once the body is lighter, I start meditation again, doing alternate walking and sitting meditation. I usually do this until about 6pm, and then break for optional teatime, either having a small break with some hot water at my kuti where I often find myself just absorbing the evening air and the changing light in the forest, listening to the sound of the forest animals and insects as the forest loses it's colour and gradually dims to nightfall; either this, or I meet up with the monks in the dānasala for light tea. 
 
-Night time is my best time, and so I usually try and capitalise on this time for meditation. I find the early to late evening the best time for sitting, and so I'll usually sit more that walk. 
+Night time is my best time, and so I usually try and capitalise on this time for meditation. I find the early to late evening the best time for sitting, and so I'll usually sit more than walk. 
 
 I'm usually in bed late evening, and then up again early for the next day.
 
