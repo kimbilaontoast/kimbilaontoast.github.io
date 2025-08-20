@@ -25,7 +25,7 @@ These are the invertebrate yes-men. They are essential to any sub-committee. The
 - Ghosts  
 These members are the non-member members. They should be sufficiently senior not to be easily questioned (remember, disempowerment) and sufficiently absent to be effectively useless. 
 - Ferrets  
-It can be useful to have a member or two that are the cause of the problem in question. For example, if the issue revolves around forming a policy to ensure vulnerable community members are treated with respect, throw a flaming narcissist into the mix to make sure you are on-brand. 
+It can be useful to have a member or two that are the cause of the problem in question. For example, if the issue revolves around forming a policy to ensure vulnerable community members are treated with respect, throw a flaming narcissist into the mix to make sure you are on-brand in not wanting to address the issue. 
 
 
 ### 2. ‘Proposal’
@@ -38,7 +38,7 @@ This stage is about giving people the appearance that their voice matters.
 
 We all know that there is no point having a voice if no-one is listening, but by asking for feedback, we let community members participate in a pantomime of inclusivity, so that when we push our own agenda (see below), we can reference that we tried to include their point of view. 
 
-Now, occasionally you might get the odd member/s that gives feedback that highlights shortcomings in the monastery, or worse yet, have the dangerous combination of both integrity and being not being intimidated by others so that they able to articulate themselves clearly. These dissidents need to be dealt with swiftly. Here’s some pointers – 
+Now, occasionally you might get the odd member/s that gives feedback that highlights shortcomings in the monastery, or worse yet, have the dangerous combination of both integrity and not being intimidated by others. If you're unlucky, they may even be good at articulating themselves. These dissidents need to be dealt with swiftly. Here’s some pointers – 
 
 - Censor  
 Don’t call it censorship of course (duh). Basically, take what feedback they give and extract only what supports your ‘proposal’, discarding the rest. You can excuse this in any number of ways, but a popular way is to say it’s for the sake of ‘simplicity’. 
@@ -51,20 +51,21 @@ It should go without saying but the ‘feedback’ is just for the appearance of
 
 This is a fun stage. 
 
-So far, you’ve stacked your ‘little sub-committee’ (how cute!) with just the right kind of blowfish, dead-heads, and sycophants. You’ve put together your ‘proposal’, and asked for ‘feedback’, being sure to squash any real participation. Now it’s time to give ourselves credit. It’s time for the CCP. 
+So far, you’ve stacked your ‘little sub-committee’ (how cute!) with just the right kind of [blowfish](https://kimbilaontoast.github.io/blowfish), blinking-heads, and sycophants. You’ve put together your ‘proposal’, and asked for ‘feedback’, being sure to squash any real participation. Now it’s time to give ourselves credit. It’s time for the CCP. 
 
 The CCP refers to the Chinese Communist Party. They hold elections every year. And guess what? They always win. 
+
 You don’t have to hold elections. You can simply announce the result of your ‘dialogue’ with the community and say that the sub-committee has reached a consensus - but it’s more fun with a mock election. 
 
 We’d recommend drafting up a series of votes that include the options that the committee wants, as well as a heavily censored option, and then the option that the dissident/s propose. As this is a rigged election, we don’t let the dissident/s vote, only ourselves. To make it even more entertaining, you can keep the dissident/s in the loop by informing them that you are voting. Poll the results. Let them see it. 
 
 ### 5. Bury
 
-You’ll probably want to avoid announcing the result publicly. This may potentially stir up more controversy and you may even get reactions from dissidents and public blow-back. A better option is to bury the issue. Best to do this quietly, outside the pātimokkha. Just say it’s for ‘expediency’ or something – use your own words, I’m sure you’ll come up with something. 
+You’ll probably want to avoid announcing the result publicly. This may stir up controversy and you may even get reactions from dissidents and public blow-back. Who needs *that*? A better option is to bury the issue. It's best to do this quietly, outside the pātimokkha. Just say it’s for ‘expediency’ or something – use your own words, I’m sure you’ll come up with something. 
 
-So that’s the modus operandi for our monastery. I hope you’ve enjoyed reading about is as much as I enjoy participating in it. It’s a fine art that has been refined over generations, and we’re proud of it. I hope you can take these steps, and make them your own in your community. 
+So that’s the *modus operandi* we'd recommend for making decsisions in the monastery. I hope you’ve enjoyed reading about is as much as I enjoy participating in it. It’s a fine art that has been refined over generations, and we’re proud of it. We hope you take these steps, make them your own, and strengthen your communities. 
 
-    • Peace 
+- Peace 
 
 
 
