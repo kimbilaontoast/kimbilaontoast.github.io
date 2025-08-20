@@ -29,7 +29,7 @@ It can be useful to have a member or two that are the cause of the problem in qu
 
 ### Step 2. ‘Proposal’
 
-This stage is relatively swift, ‘cos we all know we’re not really proposing anything other than to continue being allowed to do what we want. Just make it seems like it’s progressive. 
+This stage is relatively swift, ‘cos we all know we’re not really proposing anything other than to continue being allowed to do what we want. Just make it seem like it’s progressive. 
 
 ### Step 3. ‘Feedback’
 
@@ -42,7 +42,7 @@ Now, occasionally you might get the odd member/s that gives feedback that highli
 - *Censor*  
 Don’t call it censorship of course (duh). Basically, take what feedback they give and extract only what supports your ‘proposal’, discarding the rest. You can excuse this in any number of ways, but a popular way is to say it’s for the sake of ‘simplicity’. 
 - *Ostracise*  
-Make sure you send the message in your daily interactions that even though you've asked for it, feedback isn't actually welcome. We recommend making public sarcastic jokes at the dissident’s expense, infantilising them by talking about them when they are present as if they are not in the room, smug smirks, and cold shoulders. You’ll find your own ways but just make sure they understand they are inferior.  
+Make sure you send the message in your daily interactions that even though you've asked for it, feedback isn't actually welcome. We recommend making sarcastic jokes at the dissident’s expense, infantilising them by talking about them when they are present as if they are not in the room, smug smirks, and cold shoulders. You’ll find your own ways but just make sure they understand they are inferior.  
 - *Conceal*  
 It should go without saying but the ‘feedback’ is just for the appearance of dialogue, whereas the real discussions are had in private amongst yourselves. Try to keep them verbal so as not to leave a paper trail. 
 
@@ -56,13 +56,13 @@ The CCP refers to the Chinese Communist Party. They hold elections every year. A
 
 You don’t have to hold elections. You can simply announce the result of your ‘dialogue’ with the community and say that the sub-committee has reached a consensus - but it’s more fun with a mock election. 
 
-We’d recommend drafting up a series of votes that include the options that the committee wants, as well as a heavily censored option, and then the option that the dissident/s propose. As this is a rigged election, we don’t let the dissident/s vote, only ourselves. To make it even more entertaining, you can keep the dissident/s in the loop by informing them that you are voting. Poll the results. Let them see it. (It told you this was fun). 
+We’d recommend drafting up a series of votes that include the options that the committee wants, as well as a heavily censored option, and then the option that the dissident/s propose. As this is a rigged election, we don’t let the dissident/s vote, only ourselves. To make it even more entertaining, you can keep the dissident/s in the loop by informing them that you are voting. Poll the results. Let them see it. (I told you this was fun). 
 
 ### Step 5. Bury it
 
-You’ll probably want to avoid announcing the result to the broader community. This may stir up controversy and you may even get reactions from dissidents and public blow-back. Who needs *that*? A better option is to bury the issue. It's best to do this quietly, outside the pātimokkha. Just say it’s for ‘expediency’ or something – use your own words, I’m sure you’ll come up with something. 
+You’ll probably want to avoid announcing the result to the broader community. This may stir up controversy and you may even get reactions from dissidents and public blow-back. Who needs *that* kind of hassle? A better option is to bury the issue. It's best to do this quietly, outside the pātimokkha. Just say it’s for ‘expediency’ or something – use your own words, I’m sure you’ll come up with something. 
 
-So that’s the *modus operandi* we'd recommend for making decsisions in the monastery. I hope you’ve enjoyed reading about is as much as I enjoy participating in it. It’s a fine art that has been refined over generations, and we’re proud of it. We hope you take these steps, make them your own, and strengthen your communities. 
+So that’s the *modus operandi* we'd recommend for making decisions in the monastery. I hope you’ve enjoyed reading about is as much as I enjoy participating in it. It’s a fine art that has been refined over generations, and we’re proud of it. We hope you take these steps, make them your own, and strengthen your communities. 
 
 - Peace 
 
