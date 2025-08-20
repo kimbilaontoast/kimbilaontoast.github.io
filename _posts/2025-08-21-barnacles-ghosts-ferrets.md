@@ -1,6 +1,6 @@
 --- 
-title: "ccp"
-subtitle: permalink:/ccp" 
+title: "barnacles, ghosts and ferrets"
+subtitle: permalink:/barnacles-ghosts-ferrets" 
 excerpt: "(or how to make decisions in monasteries)."
 date: 2025-08-21
 categories:
