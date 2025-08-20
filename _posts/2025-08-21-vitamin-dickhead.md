@@ -1,8 +1,7 @@
 --- 
 title: "vitamin dickhead"
-subtitle: "(or how to make decisions in monasteries)"
-permalink: "/vitamin-dickhead" 
-excerpt: ""
+subtitle: permalink:/vitamin-dickhead" 
+excerpt: "(or how to make decisions in monasteries)"
 date: 2025-08-21
 categories:
   - blog
