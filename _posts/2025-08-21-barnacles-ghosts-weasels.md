@@ -40,7 +40,7 @@ We all know that there is no point having a voice if no-one is listening, but by
 Now, occasionally you might get the odd member/s that gives feedback that highlights shortcomings in the monastery, or worse yet, have the dangerous combination of both integrity and not being intimidated by others. If you're unlucky, they may even be good at articulating themselves. These dissidents need to be dealt with swiftly. Here’s some pointers – 
 
 - *Censor*  
-Don’t call it censorship of course (duh). Basically, take what feedback they give and extract only what supports your ‘proposal’, discarding the rest. You can excuse this in any number of ways, but a popular way is to appeal to the interests of others, to excuse your own agenda. For example, you could say you 'don't want to burden people with too much detail'. That kind of thing. 
+Don’t call it censorship of course (duh). Basically, take what feedback they give and extract only what supports your ‘proposal’, discarding the rest. You can excuse this in any number of ways, but a popular way is to appeal to the interests of others, to excuse your own agenda. For example, you could say you 'don't want to burden people with too much detail.' That kind of thing. 
 - *Ostracise*  
 Make sure you send the message in your daily interactions that even though you've asked for it, feedback isn't actually welcome. We recommend making sarcastic jokes at the dissident’s expense, infantilising them by talking about them when they are present as if they are not in the room, smug smirks, and cold shoulders. You’ll find your own ways but just make sure they understand they are inferior.  
 - *Conceal*  
