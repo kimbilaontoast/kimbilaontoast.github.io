@@ -1,7 +1,7 @@
 --- 
 title: "barnacles, ghosts and weasels"
 subtitle: permalink:/barnacles-ghosts-weasels" 
-excerpt: "(or how to make decisions in monasteries)."
+excerpt: "(Or how to make decisions in monasteries)."
 date: 2025-08-21
 categories:
   - blog
