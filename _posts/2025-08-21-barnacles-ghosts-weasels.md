@@ -1,6 +1,6 @@
 --- 
-title: "barnacles, ghosts and ferrets"
-subtitle: permalink:/barnacles-ghosts-ferrets" 
+title: "barnacles, ghosts and weasels"
+subtitle: permalink:/barnacles-ghosts-weasels" 
 excerpt: "(or how to make decisions in monasteries)."
 date: 2025-08-21
 categories:
@@ -23,7 +23,7 @@ The members of the sub-committee should be self-appointed senior members of the 
 These are the invertebrate yes-men. They are essential to any sub-committee. They can be called on to voice their opinion, but don’t expect cogent answers – they are there primarily to add meat in the room and the appearance of group consent. 
 - *Ghosts*  
 These members are the non-member members. They should be sufficiently senior not to be easily questioned (remember, disempowerment) and sufficiently absent to be effectively useless. 
-- *Ferrets*  
+- *Weasels*  
 It can be useful to have a member or two that are the cause of the problem in question. For example, if the issue revolves around forming a policy to ensure vulnerable community members are treated with respect, throw a narcissistic sociopath into the mix to make sure you are on-brand in not wanting to address the issue. 
 
 
