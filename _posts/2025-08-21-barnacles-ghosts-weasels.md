@@ -60,7 +60,7 @@ We’d recommend drafting up a series of votes that include the options that the
 
 ### Step 5. Bury it
 
-You’ll probably want to avoid announcing the result to the broader community, as it may stir up controversy and you may get public blow-back. Who needs *that* kind of hassle? A better option is to bury the issue. It's best to do this quietly, outside the pātimokkha. Just say it’s for ‘expediency’ or something – use your own words, I’m sure you’ll come up with something. 
+You’ll probably want to avoid announcing the result to the broader community, as it may stir up controversy and you might get blow-back. Who needs *that* kind of hassle? A better option is to bury the issue. It's best to do this quietly, outside the pātimokkha. Just say it’s for ‘expediency’ or something – use your own words, I’m sure you’ll come up with something. 
 
 So that’s the *modus operandi* we'd recommend for making decisions in the monastery. I hope you’ve enjoyed reading about it as much as I enjoy participating in it. It’s a fine art that has been refined over generations, and we’re proud of it. We hope you take these steps, make them your own, and ~~strangle~~ strengthen your communities. 
 
