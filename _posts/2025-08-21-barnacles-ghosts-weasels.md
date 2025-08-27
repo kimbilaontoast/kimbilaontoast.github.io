@@ -35,7 +35,7 @@ This stage is relatively swift, ‘cos we all know we’re not really proposing 
 
 This stage is about giving people the appearance that their voice matters. 
 
-We all know that there is no point having a voice if no-one is listening, but by asking for feedback, we let community members participate in a pantomime of inclusivity, so that when we push our own agenda (see below), we can reference that we tried to include their point of view. 
+We all know there is no point having a voice if no-one is listening, but by asking for feedback we let community members participate in a pantomime of inclusivity, so that when we push our own agenda (see below), we can reference that we tried to include their point of view. 
 
 Now, occasionally you might get the odd member/s giving feedback highlighting shortcomings in the monastery, or worse yet, have the dangerous combination of both integrity and not being intimidated by others. If you're unlucky, they may even be good at articulating themselves. These dissidents need to be dealt with swiftly. Here’s some pointers – 
 
