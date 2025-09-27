@@ -13,7 +13,7 @@ People often ask me what I do as a monk.
 
 Monk life is pretty simple, there's not a lot to it really. I'll tell you what I do each day, but also the way in which I try do to it, which is more important.
 
-Each day I attempt to wake up at 4am at the latest. This is a hit an miss affair, but I am getting better at it. I'm not exactly a morning person, so waking up in general can be a fairly monumental affair. If I do this part well, the rest of the day tends to flow well, so I try and get the waking up thing right.
+Each day I attempt to wake up at around 3am. This is a hit an miss affair, but I am getting better at it. I'm not exactly a morning person, so waking up in general can be a fairly monumental affair. If I do this part well, the rest of the day tends to flow well, so I try and get the waking up thing right.
 
 When I wake up, I have been told that I am meant to flood my eyes with light, as this will help the circadian rhythms kick in and let my body know that sleepy time is over and it's time to start the day. So I do this. 
 
@@ -21,7 +21,7 @@ I struggle to wake up right away so I usually lie in bed for a few minutes and d
 
 Gratitude practice helps me remember that to even be in the environment I am in, is an extremely privileged thing for any human, and that it calls for celebration. So I list all thing things that I am grateful for - whatever comes to mind... "I'm grateful for birdsong... I'm grateful for this little kuti I am staying in..." and so on. I make sure to include not just external things, but my own qualities as well, as I have many beautiful qualities. It's a lovely way to start the day, and even when I'm tired, it brightens my mood. 
 
-Usually the mind is a little slimy from sleep when I wake up. Not always, but most of the time I feel foggy, and so I usually do some walking meditation (yes, even when it's winter!) and a little memorisation, and/or chanting, as these things energise my mind. If I feel like it and have the time, I sit meditation. 
+Usually the mind is a little slimy from sleep when I wake up. Not always, but most of the time I feel foggy, and so I usually do some walking meditation (yes, even when it's winter!) and a little memorisation, and/or chanting, as these things energise my mind. I then sit meditation. 
 
 Four days a week at our monastery we have a work period from 7:15-9:45am. The other three days we have the morning to ourselves. Work usually involves being scheduled with some kind of activity. It can be anything that needs doing really, from cleaning the Dhamma hall or ablution block, to doing some editing work for the senior monks. I've tried to make it a practice to not have preferences for my work, so that I remain adaptable to whatever needs doing, and learn to work with a wide variety of people, doing a wide variety of things. 
 
