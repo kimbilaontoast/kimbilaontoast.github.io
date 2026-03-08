@@ -1,7 +1,7 @@
 --- 
 title: "barnacles, ghosts and weasels"
 subtitle: permalink:/barnacles-ghosts-weasels" 
-excerpt: "(Or how to make decisions in monasteries)."
+excerpt: "A darkly satirical look at how to make decisions in monasteries."
 date: 2025-08-21
 categories:
   - blog
@@ -25,7 +25,6 @@ These are the invertebrate yes-men. They are essential to any sub-committee. The
 These members are the non-member members. They should be sufficiently senior not to be easily questioned (remember, disempowerment) and sufficiently absent to be effectively useless. 
 - *Weasels*  
 It can be useful to have a member or two that are the cause of the problem in question. For example, if the issue revolves around forming a policy to ensure vulnerable community members are treated with respect, throw a narcissistic sociopath into the mix to make sure you are on-brand in not wanting to address the issue. 
-
 
 ### Step 2. ‘Proposal’
 
