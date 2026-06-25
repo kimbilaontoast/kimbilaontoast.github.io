@@ -10,7 +10,7 @@ email: kimbila@gmx.com
 description: "Bhante Kimbila's blog." 
 url: "https://kimbilaontoast.github.io"
 # github_username: username
-minimal_mistakes_skin: default # dirt 
+minimal_mistakes_skin: gruvbox_material_light # dirt 
 search: true
 
 # Build settings
@@ -45,6 +45,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # SEO related 
 google_site_verification: dqGypmT-UdtT-U1iSHp0j5AzXT7snjWLkOfPExiG1W0
@@ -65,11 +66,11 @@ author:
   avatar : "/assets/images/bio-photo-3-250x250-gradient.jpg"
   bio    : ""
   location: "Australia"
-  email:  "kimbila@gmx.com"
+  email:  "bhantekimbila@proton.me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kimbila@gmx.com"
+      url: "mailto:bhantekimbila@proton.me"
 
 # deleted footer links, left github for potential future link. 
   links:
