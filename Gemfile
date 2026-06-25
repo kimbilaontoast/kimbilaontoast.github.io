@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# commenting this out as doesn't affect how local site bulid 
+# gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll", "~> 3.9"
+gem "liquid", ">= 4.0.4"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -17,3 +21,13 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+gem "csv"
+gem "bigdecimal"
+gem "logger"
+gem "base64"
+gem "ostruct"
+gem "mutex_m"
+gem "drb"
+
+gem "kramdown-parser-gfm"
+gem "jekyll-remote-theme"
