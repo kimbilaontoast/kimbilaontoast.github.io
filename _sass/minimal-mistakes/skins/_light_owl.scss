@@ -1,0 +1,45 @@
+/* ==========================================================================
+   Light Owl skin
+   Source: https://material-theme.com/docs/reference/color-palette
+   ("Light owl" entry, fetched verbatim). Not independently
+   cross-verified against a second source in this conversation —
+   treat this table as the primary source for this particular skin.
+   ========================================================================== */
+
+/* Colors */
+$background-color: #f0f0f0 !default;          // Background
+$text-color: #403f53 !default;                 // Foreground
+$muted-text-color: #989fb1 !default;            // Comments / Gray
+$primary-color: #4876d6 !default;               // Blue / Links-Functions
+$border-color: #d9d9d9 !default;                // Border
+$footer-background-color: #fbfbfb !default;     // Second Background
+$link-color: #4876d6 !default;                  // Functions (used as link color; their literal "Links" is #ff869a, an unusually bright pink)
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#f0f0f0, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #f0f0f0 !default; // Background
+$base01: #fbfbfb !default; // Second Background
+$base02: #d3e8f8 !default; // Selection Background
+$base03: #d9d9d9 !default; // Buttons
+$base04: #989fb1 !default; // Gray
+$base05: #403f53 !default; // Foreground
+$base06: #90a7b2 !default; // Text
+$base07: #111111 !default; // White/Black
+$base08: #aa0982 !default; // Red / Numbers
+$base09: #c96765 !default; // Orange / Strings
+$base0a: #e0af02 !default; // Yellow
+$base0b: #56b6c2 !default; // Green
+$base0c: #0c969b !default; // Cyan / Attributes-Parameters
+$base0d: #4876d6 !default; // Blue / Functions
+$base0e: #994cc3 !default; // Purple / Keywords-Tags
+$base0f: #2aa298 !default; // Accent Color
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}

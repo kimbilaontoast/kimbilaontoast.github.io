@@ -1,0 +1,43 @@
+/* ==========================================================================
+   Gruvbox Material skin (light, medium contrast, material foreground)
+   Source: sainnhe/gruvbox-material, autoload/gruvbox_material.vim
+   (background='medium', foreground='material', light mode — package defaults)
+   ========================================================================== */
+
+/* Colors */
+$background-color: #fbf1c7 !default;         // bg0
+$text-color: #654735 !default;                // fg1 (material light)
+$muted-text-color: #928374 !default;          // grey1
+$primary-color: #6c782e !default;             // material green
+$border-color: mix(#fbf1c7, #654735, 80%) !default;
+$footer-background-color: #f4e8be !default;   // bg1
+$link-color: #45707a !default;                // material blue
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fbf1c7, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #fbf1c7 !default; // bg0
+$base01: #f4e8be !default; // bg1
+$base02: #f2e5bc !default; // bg2
+$base03: #eee0b7 !default; // bg3
+$base04: #e5d5ad !default; // bg4
+$base05: #654735 !default; // fg1
+$base06: #4f3829 !default; // fg0
+$base07: #ddccab !default; // bg5
+$base08: #c14a4a !default; // red
+$base09: #c35e0a !default; // orange
+$base0a: #b47109 !default; // yellow
+$base0b: #6c782e !default; // green
+$base0c: #4c7a5d !default; // aqua
+$base0d: #45707a !default; // blue
+$base0e: #945e80 !default; // purple
+$base0f: #af3a03 !default; // alt orange
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}

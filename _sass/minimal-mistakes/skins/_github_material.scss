@@ -1,0 +1,53 @@
+/* ==========================================================================
+   GitHub (Light) skin
+   Source: https://material-theme.com/docs/reference/color-palette
+   ("Github" entry, fetched verbatim).
+
+   DISCREPANCY NOTE: this is GitHub's OLDER, pre-2021/pre-Primer-redesign
+   brand palette (green #22863a, blue #005cc5, red #d73a49). It is
+   meaningfully different from GitHub's current production color
+   tokens (blue #0969da, red #cf222e, used in the "GitHub Light
+   Default" skin built earlier in this conversation, sourced from
+   GitHub's live gfm.css). Both are legitimately "GitHub's colors" —
+   just from different eras of GitHub's own design system. If you
+   want the current github.com look, use the earlier GitHub Light
+   Default file instead of this one.
+   ========================================================================== */
+
+/* Colors */
+$background-color: #f7f8fa !default;          // Background
+$text-color: #292d31 !default;                 // Text
+$muted-text-color: #6a737d !default;            // Gray / Comments
+$primary-color: #005cc5 !default;               // Blue / Links
+$border-color: #dfe1e4 !default;                // Border
+$footer-background-color: #f3f3f3 !default;     // Second Background
+$link-color: #005cc5 !default;                  // Blue / Links
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#f7f8fa, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #f7f8fa !default; // Background
+$base01: #fafbfc !default; // Contrast
+$base02: #edf1f5 !default; // Buttons
+$base03: #dfe1e4 !default; // Border
+$base04: #9ba0a3 !default; // Disabled
+$base05: #5b6168 !default; // Foreground
+$base06: #292d31 !default; // Text
+$base07: #24292e !default; // White/Black
+$base08: #d73a49 !default; // Red / Keywords-Operators
+$base09: #e36209 !default; // Yellow-Orange / Parameters
+$base0a: #e36209 !default; // Orange (same as yellow per source table)
+$base0b: #22863a !default; // Green / Tags
+$base0c: #032f62 !default; // Cyan / Strings
+$base0d: #005cc5 !default; // Blue / Links-Numbers
+$base0e: #6f42c1 !default; // Purple / Functions-Attributes
+$base0f: #79cb60 !default; // Accent Color
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}

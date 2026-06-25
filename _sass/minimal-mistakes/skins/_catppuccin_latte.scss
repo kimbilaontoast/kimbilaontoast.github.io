@@ -1,0 +1,42 @@
+/* ==========================================================================
+   Catppuccin Latte skin
+   Palette: https://catppuccin.com/palette (Latte flavor)
+   ========================================================================== */
+
+/* Colors */
+$background-color: #eff1f5 !default;        // base
+$text-color: #4c4f69 !default;               // text
+$muted-text-color: #6c6f85 !default;         // subtext0
+$primary-color: #1e66f5 !default;            // blue
+$border-color: mix(#eff1f5, #4c4f69, 80%) !default;
+$footer-background-color: #ccd0da !default;  // surface0
+$link-color: #1e66f5 !default;               // blue
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#eff1f5, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #eff1f5 !default; // base
+$base01: #e6e9ef !default; // mantle
+$base02: #ccd0da !default; // surface0
+$base03: #bcc0cc !default; // surface1
+$base04: #acb0be !default; // surface2
+$base05: #4c4f69 !default; // text
+$base06: #5c5f77 !default; // subtext1
+$base07: #6c6f85 !default; // subtext0
+$base08: #d20f39 !default; // red
+$base09: #fe640b !default; // peach
+$base0a: #df8e1d !default; // yellow
+$base0b: #40a02b !default; // green
+$base0c: #179299 !default; // teal
+$base0d: #1e66f5 !default; // blue
+$base0e: #8839ef !default; // mauve
+$base0f: #dc8a78 !default; // rosewater
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}

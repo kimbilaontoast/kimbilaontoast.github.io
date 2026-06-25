@@ -1,0 +1,53 @@
+/* ==========================================================================
+   Solarized Light skin (per Material Theme UI's published palette)
+   Source: https://material-theme.com/docs/reference/color-palette
+   ("Solarized light" entry, fetched verbatim)
+
+   DISCREPANCY NOTE: Material Theme assigns Solarized's base01
+   (#586e75) to "Foreground"/body-text, rather than the role
+   Ethan Schoonover's own official site (ethanschoonover.com/solarized)
+   documents for light-mode body text (base00, #657b83). Their "Red"
+   accent (#d13684) is also not Solarized's actual red (#dc322f, which
+   appears only as their "Error Color"). This file follows Material
+   Theme's table exactly as published, not Solarized's own role
+   mapping — see the Solarized Light skin built earlier in this
+   conversation if you want the original site's intended pairing.
+   ========================================================================== */
+
+/* Colors */
+$background-color: #fdf6e3 !default;          // Background
+$text-color: #586e75 !default;                 // Foreground
+$muted-text-color: #93a1a1 !default;            // Text / Gray
+$primary-color: #268bd2 !default;               // Blue
+$border-color: #edead9 !default;                // Border
+$footer-background-color: #eee8d5 !default;     // Contrast
+$link-color: #268bd2 !default;                  // Links
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fdf6e3, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #fdf6e3 !default; // Background
+$base01: #eee8d5 !default; // Contrast
+$base02: #e8dcb6 !default; // Selection Background
+$base03: #d8d4c4 !default; // Buttons
+$base04: #93a1a1 !default; // Gray
+$base05: #657b83 !default; // White/Black
+$base06: #586e75 !default; // Foreground
+$base07: #002b36 !default; // Selection Foreground
+$base08: #d13684 !default; // Red (per Material Theme; see note above)
+$base09: #cb4b16 !default; // Orange
+$base0a: #b58900 !default; // Yellow / Functions
+$base0b: #859900 !default; // Green / Keywords
+$base0c: #2aa198 !default; // Cyan / Strings
+$base0d: #268bd2 !default; // Blue / Links / Tags
+$base0e: #6c71c4 !default; // Purple
+$base0f: #d33682 !default; // Accent Color / Numbers
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
