@@ -1,0 +1,28 @@
+/* Gruvbox Material Dark - Medium Contrast */
+
+$background-color:               #282828 !default;
+$text-color:                     #d4be98 !default;
+$muted-text-color:               #a89984 !default;
+
+/* Accents & Borders */
+$primary-color:                  #e78a4e !default; /* Gruvbox Orange */
+$border-color:                   #504945 !default;
+$footer-background-color:        #32302f !default;
+
+/* Links */
+$link-color:                     #7daea3 !default; /* Gruvbox Blue */
+$link-color-hover:               #89b482 !default; /* Gruvbox Aqua */
+$navicon-link-color-hover:       $link-color-hover !default;
+
+/* Header/Masthead */
+$masthead-link-color:            $text-color !default;
+$masthead-link-color-hover:      $primary-color !default;
+$masthead-nav-link-color:        $text-color !default;
+$masthead-nav-link-color-hover:  $masthead-link-color-hover !default;
+
+/* Author Profile Sidebar */
+$author-avatar-border-color:     $primary-color !default;
+$author-avatar-background-color: $background-color !default;
+
+/* Code Blocks */
+$code-background-color:          #1d2021 !default; /* Gruvbox Hard Dark */
