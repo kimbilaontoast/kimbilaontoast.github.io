@@ -1,0 +1,42 @@
+/* ==========================================================================
+   Everforest (Dark Medium) skin
+   Source: https://github.com/sainnhe/everforest   
+   ========================================================================== */
+
+/* Colors */
+$background-color: #2d353b !default;          // Background
+$text-color: #d3c6aa !default;                 // Text
+$muted-text-color: #859289 !default;            // Gray / Comments
+$primary-color: #a7c080 !default;               // Green / Primary Accent
+$border-color: #475258 !default;                // Border
+$footer-background-color: #343f44 !default;     // Second Background
+$link-color: #7fbbb3 !default;                  // Blue / Links
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#2d353b, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #2d353b !default; // Background
+$base01: #343f44 !default; // Contrast (bg1)
+$base02: #3d484d !default; // Buttons (bg2)
+$base03: #475258 !default; // Border (bg3)
+$base04: #859289 !default; // Disabled (grey1)
+$base05: #9da9a0 !default; // Foreground (grey2)
+$base06: #d3c6aa !default; // Text (fg)
+$base07: #e6e2cc !default; // White/Black (light fg)
+$base08: #e67e80 !default; // Red / Keywords-Operators
+$base09: #e69875 !default; // Orange / Parameters
+$base0a: #dbbc7f !default; // Yellow 
+$base0b: #a7c080 !default; // Green / Tags
+$base0c: #83c092 !default; // Cyan (Aqua) / Strings
+$base0d: #7fbbb3 !default; // Blue / Links-Numbers
+$base0e: #d699b6 !default; // Purple / Functions-Attributes
+$base0f: #a7c080 !default; // Accent Color (Green)
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}

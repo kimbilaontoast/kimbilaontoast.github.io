@@ -1,0 +1,42 @@
+/* ==========================================================================
+   Edge (Aura) skin
+   Source: https://github.com/sainnhe/edge
+   ========================================================================== */
+
+/* Colors */
+$background-color: #2b2d37 !default;          // Background (bg0)
+$text-color: #c5cdd9 !default;                 // Text (fg)
+$muted-text-color: #7b8496 !default;            // Gray / Comments (grey)
+$primary-color: #6cb6eb !default;               // Blue / Primary Accent
+$border-color: #474b5d !default;                // Border (bg3)
+$footer-background-color: #343644 !default;     // Second Background (bg1)
+$link-color: #6cb6eb !default;                  // Blue / Links
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#2b2d37, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #2b2d37 !default; // Background (bg0)
+$base01: #343644 !default; // Contrast (bg1)
+$base02: #3d4051 !default; // Buttons (bg2)
+$base03: #474b5d !default; // Border (bg3)
+$base04: #7b8496 !default; // Disabled (grey)
+$base05: #9aa2b3 !default; // Foreground (grey slightly lighter)
+$base06: #c5cdd9 !default; // Text (fg)
+$base07: #ffffff !default; // White/Black (pure white)
+$base08: #ec7279 !default; // Red / Keywords-Operators
+$base09: #e59b77 !default; // Orange / Parameters
+$base0a: #deb57a !default; // Yellow 
+$base0b: #a0c980 !default; // Green / Tags
+$base0c: #5dbbc1 !default; // Cyan / Strings
+$base0d: #6cb6eb !default; // Blue / Links-Numbers
+$base0e: #d38aea !default; // Purple / Functions-Attributes
+$base0f: #6cb6eb !default; // Accent Color (Blue)
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
