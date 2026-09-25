@@ -3,14 +3,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible# in the templates via {{ site.myvariable }}.
 
-logo: "/assets/images/toast-light-88x88.png"
+logo: "/assets/images/toast-light-88x88-removebg.png"
 title: Kimbila on Toast
 subtitle: "Kimbila's blog" 
 email: kimbila@gmx.com
 description: "Bhante Kimbila's blog." 
 url: "https://kimbilaontoast.github.io"
 # github_username: username
-minimal_mistakes_skin: github_material
+minimal_mistakes_skin: everforest
 search: true
 
 # Build settings
