@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Sonokai (Andromeda Purple) skin for Minimal Mistakes
+   ========================================================================== */
+
+/* Colors */
+$background-color: #2b2d3a !default;          // Background (bg0)
+$text-color: #e1e3e4 !default;                 // Text (fg)
+$muted-text-color: #7e8294 !default;            // Gray / Comments (grey)
+$primary-color: #d38aea !default;               // Purple / Primary Accent
+$border-color: #44485a !default;                // Border (bg3)
+$footer-background-color: #333644 !default;     // Second Background (bg1)
+$link-color: #d38aea !default;                  // Purple / Links
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: #d38aea !default;
+$navicon-link-color-hover: mix(#2b2d3a, $text-color, 80%) !default;
+
+/* Code syntax highlighting (base16) */
+$base00: #2b2d3a !default; // Background (bg0)
+$base01: #333644 !default; // Contrast (bg1)
+$base02: #3b3e4c !default; // Buttons (bg2)
+$base03: #44485a !default; // Border (bg3)
+$base04: #7e8294 !default; // Disabled (grey)
+$base05: #9ca0b0 !default; // Foreground (grey slightly lighter)
+$base06: #e1e3e4 !default; // Text (fg)
+$base07: #ffffff !default; // White/Black (pure white)
+$base08: #f76c7c !default; // Red / Keywords-Operators
+$base09: #f3a35c !default; // Orange / Parameters
+$base0a: #e7c664 !default; // Yellow 
+$base0b: #9ecd6f !default; // Green / Tags
+$base0c: #5cbfb4 !default; // Cyan / Strings
+$base0d: #7ab4fa !default; // Blue / Numbers
+$base0e: #d38aea !default; // Purple / Functions-Attributes
+$base0f: #d38aea !default; // Accent Color (Purple)
+
+.page__footer {
+  color: $text-color !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
