@@ -10,7 +10,7 @@ email: kimbila@gmx.com
 description: "Bhante Kimbila's blog." 
 url: "https://kimbilaontoast.github.io"
 # github_username: username
-minimal_mistakes_skin: everforest
+minimal_mistakes_skin: gruvbox_light
 search: true
 
 # Build settings
