@@ -1,5 +1,5 @@
 ---
-title: "Portrait of the Artist as a Young Monk"
+title: "portrait of the artist as a young monk"
 permalink: "/portrait-of-the-artist-as-a-young-monk" 
 excerpt: "I sleep, in the faith that I will awaken."
 date: 2026-10-22
@@ -32,6 +32,4 @@ I sit meditation, and feel the stillness emerging in the mind; the raw power and
 When the night falls, I sit, in silence, and observe the dark enveloping the forest, as the world slip under a smooth wave of silken black. I remember all the good I have done, the moments of connection and beauty in this day, all the good I see in myself and others. Holding my heart, I ask what things I must let go, in order to be free. 
 
 I sleep, in the faith that I will awaken. 
-
-
 
