@@ -25,11 +25,11 @@ I wear this robe and take care of my requisites with pride, knowing that the rob
 
 I speak well and think well of the people around me, including those I find difficult, as there is always good in people, and I choose to see that. I cultivate harmony in the community by being considerate of others, being humble enough to listen, and doing as others wish to do. I respect others, without expectation, and live as a monastic who is truthful and straight, someone who is worthy of trust, a friend.
 
-I listen to the word of the Buddha, cherishing the teachings, and reflect on the miracle in coming across something so precious as the Dhamma in this huam life. Each day I connect with the Dhamma, I read suttas, study the vinaya, study Pāli. With patience and persistence, I slowly build my understanding, bringing this teaching deep into my heart, so that I may become this path, and gift it to others. 
+I listen to the word of the Buddha, cherishing the teachings, and reflect on the miracle in coming across something so precious as the Dhamma in this human life. Each day I connect with the Dhamma, I read suttas, study the vinaya, study Pāli. With patience and persistence, I slowly build my understanding, bringing this teaching deep into my heart, so that I may become this path, and gift it to others. 
 
 I sit meditation, and feel the stillness emerging in the mind; the raw power and beauty of samādhi, the promise of awakening. The path inside the present is always with me, waiting to be seen. I endure any hardships I encounter, with the soft, brave spirit of a true man; one who opens his heart in love.
 
-When the night falls, I sit, in silence, and observe the dark enveloping the forest, as the world slip under a smooth wave of silken black. I remember all the good I have done, the moments of connection and beauty in this day, all the good I see in myself and others. Holding my heart, I ask what things I must let go, in order to be free. 
+When the night falls, I sit, in silence, and witness the dark enveloping the forest, as the world slip under a smooth wave of silken black. I remember all the good I have done, the moments of connection and beauty in this day, all the good I see in myself and others. Holding my heart, I ask what things I must let go, in order to be free. 
 
 I sleep, in the faith that I will awaken. 
 
